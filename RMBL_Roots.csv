@@ -1,0 +1,1666 @@
+Isolate,MorphotypeNo,Date_Subculture,Site,Species,Trt,Date_Original,DescriptionTop,DescriptionBottom,Notes,Subcultured,Clustered_morphotype,Archived,New_Notes,DNA,Extraction.plate.NOT.GENEWIZ.PLATES,To_do,Status,Updated_morph,X,OTU,Newest_morph
+262,95,20-Jul-17,WM-9,POPR-6,Control,14-Jul-17,reddish core,,I think the gray fungus next to it was sampled.,Yes,1,Archived,,,,,Send,206,,16,16
+394,148,21-Jul-17,WM-7,POPR-5,Control,14-Jul-17,opaque,,,Yes,1,Archived,,Sequenced,4,find_3,Done,209,,16,16
+1627,95,,WM-9,POPR-6,Control,,,,,No,1,NA,,NA,,,,206,,NA,16
+328,117,,WM-10,ACLE-3,Warming,14-Jul-17,,,,No,1,NA,,NA,,,,210,Retry Jan 9th,NA,16
+329,117,,WM-10,ACLE-3,Warming,14-Jul-17,,,,No,1,NA,,NA,,,,210,,NA,16
+330,117,,WM-10,ACLE-3,Warming,14-Jul-17,,,,No,1,NA,,NA,,,,210,,NA,16
+332,117,,WM-10,ACLE-3,Warming,14-Jul-17,,,,No,1,NA,,NA,,,,210,,NA,16
+333,117,,WM-10,ACLE-3,Warming,14-Jul-17,,,,No,1,NA,,NA,,,,210,,NA,16
+656,117,,WM-10,ACLE-3,Warming,,,,,No,1,NA,,NA,,,,210,,NA,16
+665,117,,WM-10,ACLE-3,Warming,,,,,No,1,NA,,NA,,,,210,,NA,16
+331,117,,WM-10,ACLE-3,Warming,14-Jul-17,,,,No,1,NA,,NA,,,,210,,NA,16
+327,117,20-Jul-17,WM-10,ACLE-3,Warming,14-Jul-17,"black center, white radial",,,Yes,1,Find,,NA,,find_2,,210,,NA,16
+391,148,,WM-8,POPR-2,Warming,14-Jul-17,,,,No,1,NA,,NA,,,Done,209,,NA,16
+392,148,,WM-8,POPR-2,Warming,14-Jul-17,,,,No,1,NA,,NA,,,Done,209,retry Jan 22,NA,16
+1137,148,,WM-7,POPR-5,Control,,,,,No,1,NA,,NA,,,,209,,NA,16
+1210,148,,TR-L,ACLE,ELEV,,,,,No,1,NA,,NA,,,,209,,NA,16
+1211,148,,TR-L,ACLE,ELEV,,,,,No,1,NA,,NA,,,,209,,NA,16
+393,148,,WM-8,POPR-2,Warming,14-Jul-17,,,,No,1,NA,,NA,,,Done,209,,NA,16
+438,177,21-Jul-17,WM-4,FETH-2,Warming,17-Jul-17,opaque,,,Yes,1,Archived,,Sequenced,4,find_4,,210,,29,29
+439,177,,WM-4,FETH-2,Warming,17-Jul-17,,,,No,1,NA,,NA,,,,210,,NA,29
+440,177,,WM-4,FETH-2,Warming,17-Jul-17,,,,No,1,NA,,NA,,,,210,,NA,29
+1404,177,,WM-5,FETH-6,Control,,,,,No,1,NA,,NA,,,,210,,NA,29
+1405,177,,WM-5,FETH-6,Control,,,,,No,1,NA,,NA,,,,210,,NA,29
+1407,177,,WM-5,FETH-6,Control,,,,,No,1,NA,,NA,,,,210,,NA,29
+441,177,,WM-4,FETH-2,Warming,17-Jul-17,,,,No,1,NA,,NA,,,,210,,NA,29
+1406,177,,WM-5,FETH-6,Control,,,,,No,1,NA,,NA,,,,210,Shipped in Plate 4,NA,29
+69,35,18-Jul-17,ER-H,ACLE,ELEV,13-Jul-17,"opaque, rosy tinge",,,Yes,1,Archived,,Sequenced,,,,206,Shipped in Plate 4,57,57
+66,35,,ER-H,POPR,ELEV,13-Jul-17,,,,No,1,NA,,NA,,,,206,needs to be look at and splitted,NA,57
+67,35,,ER-H,POPR,ELEV,13-Jul-17,,,,No,1,NA,,NA,,,,206,,NA,57
+68,35,,ER-H,POPR,ELEV,13-Jul-17,,,,No,1,NA,,NA,,,,206,extracted jan26,NA,57
+971,35,,ER-H,ACLE,ELEV,,,,,No,1,NA,,NA,,,,206,,NA,57
+399,152,21-Jul-17,WM-7,POPR-6,Control,14-Jul-17,"opaque, black center",,,Yes,1,Find,,Sequenced,Tube,find_4,Send,206,retry Jan 22,61,61
+1231,534,29-Jul-17,TR-L,POPR,ELEV,,dark brown to black. Spotted,,,Yes,1,Find,ITS1-FL in SP Plate 3,Sequenced,3,,,210,shipped in Plate 4,61,61
+1216,29,,WG-L,ACNE,ELEV,,,,,No,1,NA,,NA,,,,210,,NA,
+48,29,,WG-L,ACNE,ELEV,11-Jul-17,,,,No,1,NA,,NA,,,,210,,NA,
+49,29,18-Jul-17,WG-L,ACNE,ELEV,11-Jul-17,opaque,opaque,,Yes,1,Archived,,NA,,find_4,,210,,NA,Extract
+451,182,21-Jul-17,WG-H,POLE,ELEV,11-Jul-17,brown,,,Yes,1,Archived,,DNA failed,Tube,,,208,Retry Jan22,NA,Extract
+468,193,22-Jul-17,TR-L,FETH,ELEV,17-Jul-17,"yellowy tint, opaque",,,Yes,1,Archived,,PCR,4,find_3,Send,210,,NA,
+522,222,,WM-5,FETH-1,Control,,,,,No,1,NA,,NA,,,,,,NA,
+523,222,,WM-5,FETH-1,Control,,,,,No,1,NA,,NA,,,,,,NA,
+524,222,,WM-5,FETH-1,Control,,,,,No,1,NA,,NA,,,,,,NA,
+1517,222,,WM-4,FETH-2,Warming,,,,,No,1,NA,,NA,,,,,,NA,
+1518,222,,WM-4,FETH-2,Warming,,,,,No,1,NA,,NA,,,,,,NA,
+1520,222,,WM-4,FETH-2,Warming,,,,,No,1,NA,,NA,,,,,,NA,
+520,222,,WM-5,FETH-1,Control,,,,,No,1,NA,,NA,,,,,,NA,
+521,222,,WM-5,FETH-1,Control,,,,,No,1,NA,,NA,,,,,Shipped in Plate 4,NA,
+1519,222,,WM-4,FETH-2,Warming,,,,,No,1,NA,,NA,,,,,,NA,
+519,222,,WM-5,FETH-1,Control,,,,,No,1,NA,,NA,,,,,Retry Jan 9th,NA,
+518,222,22-Jul-17,WM-5,FETH-1,Control,18-Jul-17,white opaque,,,Yes,1,Archived,,NA,,find_3,MISSING,NA,,NA,
+884,345,28-Jul-17,WM-1,POPR-3,Control,,"dark red, brown edge",,,Yes,1,Archived,,Extracted,Tube,find_4,Found,207,,NA,
+885,345,,WM-1,POPR-3,Control,,,,,No,1,NA,,NA,,,,,,NA,
+888,345,,WM-1,POPR-3,Control,,,,,No,1,NA,,NA,,,,,,NA,
+1013,399,28-Jul-17,WM-9,POPR-4,Control,,"Green edge, dark/gray",,,Yes,1,Archived,,NA,,,,210,,NA,
+1122,515,28-Jul-17,WM-6,POPR-6,Warming,,"Gray, brownish",,,Yes,1,Archived,,PCR ,4,find_3,Send,210,,NA,
+172,69,,WM-1,POPR-2,Control,13-Jul-17,,,,No,2,NA,,Sequenced,2,,Done,2,,16,16
+171,69,19-Jul-17,WM-1,POPR-2,Control,13-Jul-17,"opaque, gray",,,Yes,2,Find,,Sequenced,2,,Done,2,,16,16
+174,69,,WM-1,POPR-2,Control,13-Jul-17,,,,No,2,NA,,NA,,,Done,2,,NA,16
+175,69,,WM-1,POPR-2,Control,13-Jul-17,,,,No,2,NA,,NA,,,Done,2,,NA,16
+176,69,,WM-1,POPR-2,Control,13-Jul-17,,,,No,2,NA,,NA,,,Done,2,,NA,16
+1359,69,,WM-1,POPR-2,Control,,,,,No,2,NA,,NA,,,Done,2,,NA,16
+1356,69,,WM-1,POPR-2,Control,,,,,No,2,NA,,NA,,,Done,2,,NA,16
+173,69,,WM-1,POPR-2,Control,13-Jul-17,,,,No,2,NA,,NA,,,Done,2,,NA,16
+335,119,20-Jul-17,WM-10,FETH-2,Warming,14-Jul-17,"opaque, white",,,Yes,3,Find,,Sequenced,5,find_2,Done,245,,42,42
+336,119,,WM-10,FETH-2,Warming,14-Jul-17,,,,No,3,NA,,NA,,,Done,245,,NA,42
+339,119,,WM-10,FETH-2,Warming,14-Jul-17,,,,No,3,NA,,NA,,,Done,245,,NA,42
+340,119,,WM-10,FETH-2,Warming,14-Jul-17,,,,No,3,NA,,NA,,,Done,245,,NA,42
+699,119,,WM-10,FETH-2,Warming,,,,,No,3,NA,,NA,,,Done,245,,NA,42
+700,119,,WM-10,FETH-2,Warming,,,,,No,3,NA,,NA,,,Done,245,,NA,42
+701,119,,WM-10,FETH-2,Warming,,,,,No,3,NA,,NA,,,Done,245,,NA,42
+1581,119,,WM-8,ACLE-1,Warming,,,,,No,3,NA,,NA,,,Done,245,,NA,42
+1636,119,,WM-7,FETH-4,Control,,,,,No,3,NA,,NA,,,Done,245,,NA,42
+338,119,,WM-10,FETH-2,Warming,14-Jul-17,,,,No,3,NA,,NA,,,Done,245,retry Jan 22,NA,42
+698,119,,WM-10,FETH-2,Warming,,,,,No,3,NA,,NA,,,Done,245,missing but have DNA for it??,NA,42
+337,119,,WM-10,FETH-2,Warming,14-Jul-17,,,,No,3,NA,,NA,,,Done,245,,NA,42
+60,33,18-Jul-17,ER-H,FETH,ELEV,13-Jul-17,opaque,,,Yes,3,Find,,Sequenced,,,Done,3,,62,62
+58,33,,ER-H,FETH,ELEV,13-Jul-17,,,,No,3,NA,,NA,,,Done,3,,NA,62
+59,33,,ER-H,FETH,ELEV,13-Jul-17,,,,No,3,NA,,NA,,,Done,3,,NA,62
+61,33,,ER-H,FETH,ELEV,13-Jul-17,,,,No,3,NA,,NA,,,Done,3,,NA,62
+929,33,,ER-H,FETH,ELEV,,,,,No,3,NA,,NA,,,Done,3,retry Jan 22,NA,62
+930,33,,ER-H,FETH,ELEV,,,,,No,3,NA,,NA,,,Done,3,,NA,62
+931,33,,ER-H,FETH,ELEV,,,,,No,3,NA,,NA,,,Done,3,extracted jan26,NA,62
+937,33,,ER-H,FETH,ELEV,,,,,No,3,NA,,NA,,,Done,3,,NA,62
+57,33,,ER-H,FETH,ELEV,13-Jul-17,,,,No,3,NA,,NA,,,Done,3,,NA,62
+1135,520,28-Jul-17,WM-7,POPR-5,Control,,Clear,,,Yes,3,Find,,Sequenced,,,Done,246,,73,73
+1138,520,,WM-7,POPR-5,Control,,,,,No,3,NA,,NA,,,Done,245,,NA,73
+188,74,19-Jul-17,WM-2,POPR-1,Warming,13-Jul-17,opaque,,,Yes,4,Find,ITS1-FL in SP Plate 2,Sequenced,,,Done,4,,19,19
+201,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,,Done,4,,NA,19
+187,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,,Done,4,,NA,19
+189,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,,Done,4,,NA,19
+190,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,find_2,Done,4,,NA,19
+191,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,,Done,4,,NA,19
+192,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,,Done,4,,NA,19
+194,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,,Done,4,,NA,19
+198,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,,Done,4,,NA,19
+200,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,,Done,4,,NA,19
+202,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,,Done,4,,NA,19
+193,74,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,4,NA,,NA,,,Done,4,,NA,19
+312,114,20-Jul-17,WM-10,POPR-1,Warming,14-Jul-17,"grey, opaque",,,Yes,5,Find,ITS1-FL in SP Plate 2,Sequenced,2,find,,,,49,49
+314,114,,WM-10,POPR-1,Warming,14-Jul-17,,,,No,5,NA,,NA,,,,,,NA,49
+315,114,,WM-10,POPR-1,Warming,14-Jul-17,,,,No,5,NA,,NA,,,,,,NA,49
+316,114,,WM-10,POPR-1,Warming,14-Jul-17,,,,No,5,NA,,NA,,,,,,NA,49
+313,114,,WM-10,POPR-1,Warming,14-Jul-17,,,,No,5,NA,,NA,,,,,retry Jan 22,NA,49
+359,130,20-Jul-17,WM-8,FETH-6,Warming,14-Jul-17,"opaque, yellow center",,,Yes,5,Archived,,Extracted,Tube,,Found,,,NA,Extract
+341,120,20-Jul-17,WM-10,FETH-2,Warming,14-Jul-17,"black core, white radial",,,Yes,6,Find,,Sequenced,2,find,Done,6,,59,59
+384,145,21-Jul-17,WM-8,POPR-6,Warming,14-Jul-17,"opaque, black center",,,Yes,7,Find,,Sequenced,2,,Done,7,Shipped in Plate 4,59,59
+404,157,21-Jul-17,WG-L,FETH,ELEV,11-Jul-17,"opaque, black center",,,Yes,8,Find,,Sequenced,2,find,Done,8,,24,24
+1315,157,,WG-L,FETH,ELEV,,,,,No,8,NA,,NA,,,Done,274,,NA,24
+1316,157,,WG-L,FETH,ELEV,,,,,No,8,NA,,NA,,,Done,274,,NA,24
+680,289,26-Jul-17,TR-H,ACLE,ELEV,,Brown/gray,Black,,Yes,8,Archived,,Sequenced,2,find,Done,274,,48,48
+682,289,,TR-H,ACLE,ELEV,,,,,No,8,NA,,NA,,,Done,274,,NA,48
+683,289,,TR-H,ACLE,ELEV,,,,,No,8,NA,,NA,,,Done,274,,NA,48
+685,289,,TR-H,ACLE,ELEV,,,,,No,8,NA,,NA,,,Done,274,,NA,48
+681,289,,TR-H,ACLE,ELEV,,,,,No,8,NA,,NA,,,Done,274,,NA,48
+684,289,,TR-H,ACLE,ELEV,,,,,No,8,NA,,NA,,,Done,274,,NA,48
+401,154,21-Jul-17,WG-L,FESA,ELEV,11-Jul-17,opaque,,,Yes,9,Archived,,DNA failed,2,find,Found,,,NA,Extract
+1246,154,,WG-L,FESA,ELEV,,,,,No,9,NA,,NA,,,,,,NA,
+1247,154,,WG-L,FESA,ELEV,,,,,No,9,NA,,NA,,,,,,NA,
+1241,154,,WG-L,FESA,ELEV,,,,,No,9,NA,,NA,,,,,Shipped in Plate 4,NA,
+411,161,21-Jul-17,WG-L,ELEL,ELEV,11-Jul-17,opaque,,,Yes,10,Find,,Sequenced,5,find_2,,,,60,60
+1304,161,,WG-L,ELEL,ELEV,,,,,No,10,NA,,NA,,,,,,NA,60
+1305,161,,WG-L,ELEL,ELEV,,,,,No,10,NA,,NA,,,,,,NA,60
+1306,161,,WG-L,ELEL,ELEV,,,,,No,10,NA,,NA,,,,,,NA,60
+1307,161,,WG-L,ELEL,ELEV,,,,,No,10,NA,,NA,,,,,,NA,60
+1308,161,,WG-L,ELEL,ELEV,,,,,No,10,NA,,NA,,,,,extracted jan26,NA,60
+1310,161,,WG-L,ELEL,ELEV,,,,,No,10,NA,,NA,,,,,recultured,NA,60
+1311,161,,WG-L,ELEL,ELEV,,,,,No,10,NA,,NA,,,,,,NA,60
+1312,161,,WG-L,ELEL,ELEV,,,,,No,10,NA,,NA,,,,,retry Jan 22,NA,60
+1309,161,,WG-L,ELEL,ELEV,,,,,No,10,NA,,NA,,,,,retry Jan 22,NA,60
+400,153,21-Jul-17,WG-L,FESA,ELEV,11-Jul-17,pink,,,Yes,10,NA,,NA,,find_2,Find,NA,Failed in Retry Jan 22nd,NA,400
+1143,153,,WM-1,ACLE-1,Control,,,,,No,10,NA,,NA,,,,,,NA,
+1144,153,,WM-1,ACLE-1,Control,,,,,No,10,NA,,NA,,,,,,NA,
+1240,153,,WG-L,FESA,ELEV,,,,,No,10,NA,,NA,,,,,,NA,
+407,161,,WG-L,ELEL,ELEV,11-Jul-17,,,,No,10,NA,,NA,,,,,,NA,
+408,161,,WG-L,ELEL,ELEV,11-Jul-17,,,,No,10,NA,,NA,,,,,,NA,
+409,161,,WG-L,ELEL,ELEV,11-Jul-17,,,,No,10,NA,,NA,,,,,,NA,
+509,216,22-Jul-17,WM-6,POPR-4,Warming,18-Jul-17,black center,,,Yes,11,Archived,,Sequenced,4,find_2,Done,273,,61,61
+510,216,,WM-6,POPR-4,Warming,,,,,No,11,NA,,NA,,,Done,273,,NA,61
+511,216,,WM-6,POPR-4,Warming,,,,,No,11,NA,,NA,,,Done,273,,NA,61
+512,216,,WM-6,POPR-4,Warming,,,,,No,11,NA,,NA,,,Done,273,,NA,61
+902,351,,ER-H,POPR,ELEV,,,,,No,11,NA,,NA,,,,,,NA,61
+18,14,18-Jul-17,WG-L,FESA,ELEV,11-Jul-17,black center -> grey,,,Yes,11,Archived,,Sequenced,Tube,find_3,Done,250,,70,70
+26,17,18-Jul-17,WG-L,ELTR,ELEV,11-Jul-17,gray-green center,,,Yes,11,Archived,,Sequenced,,,Done,250,,70,70
+147,62,19-Jul-17,WM-2,ACLE-2,Warming,13-Jul-17,"opaque, black interior",,,Yes,11,Archived,,Sequenced,tube,find_2,Done,250,,70,70
+491,207,22-Jul-17,TR-H,FESA,ELEV,17-Jul-17,black,,,Yes,11,Archived,,Sequenced,,,Done,250,,70,70
+4,4,15-Jul-17,WG-L,ELTR,ELEV,11-Jul-17,,,,Yes,11,Archived,,DNA failed,tube,,,,,NA,70
+6,6,,WG-H,ELTR,ELEV,11-Jul-17,,,,No,11,NA,,NA,,,,11,,NA,70
+7,6,,WG-H,ELTR,ELEV,11-Jul-17,,,,No,11,NA,,NA,,,,11,,NA,70
+8,6,15-Jul-17,WG-H,ELTR,ELEV,11-Jul-17,,,,Yes,11,Archived,,CTB6,2,,,11,,NA,70
+1199,6,,WG-H,ELTR,ELEV,,,,,No,11,NA,,NA,,,,11,,NA,70
+29,17,,WG-L,ELTR,ELEV,11-Jul-17,,,,No,11,NA,,NA,,,Done,250,,NA,70
+149,62,,WM-2,ACLE-2,Warming,13-Jul-17,,,,No,11,NA,,NA,,,Done,250,Shipped in Plate 4,NA,70
+148,62,,WM-2,ACLE-2,Warming,13-Jul-17,,,,No,11,NA,,NA,,,Done,250,,NA,70
+1504,62,,WM-2,ACLE-2,Warming,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+1505,62,,WM-2,ACLE-2,Warming,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+157,65,,WM-2,POPR-2,Warming,13-Jul-17,,,,No,11,NA,,NA,,find_2,,,,NA,70
+158,65,,WM-2,POPR-2,Warming,13-Jul-17,,,,No,11,NA,,NA,,find_2,,,,NA,70
+160,65,19-Jul-17,WM-2,POPR-2,Warming,13-Jul-17,"opaque, black center",,,Yes,11,Find,,NA,,,,,,NA,70
+161,65,,WM-2,POPR-2,Warming,13-Jul-17,,,,No,11,NA,,NA,,,,,,NA,70
+159,65,,WM-2,POPR-2,Warming,13-Jul-17,,,,No,11,NA,,NA,,,,,retryjan22,NA,70
+492,207,,TR-H,FESA,ELEV,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+493,207,,TR-H,FESA,ELEV,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+494,207,,TR-H,FESA,ELEV,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+495,207,,TR-H,FESA,ELEV,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+496,207,,TR-H,FESA,ELEV,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+497,207,,TR-H,FESA,ELEV,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+498,207,,TR-H,FESA,ELEV,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+1277,207,,WG-L,POLE,ELEV,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+1278,207,,WG-L,POLE,ELEV,,,,,No,11,NA,,NA,,,Done,250,,NA,70
+1291,207,,TR-H,FESA,ELEV,,,,,No,11,NA,,NA,,,Done,250,Retry Jan 9th,NA,70
+505,212,22-Jul-17,WM-6,POPR-6,Warming,18-Jul-17,black center,,,Yes,11,Archived,,NA,,,,,,NA,Extract
+1658,216,,WM-6,POPR-4,Warming,,,,,No,11,NA,,NA,,,Done,273,,NA,
+901,351,28-Jul-17,ER-H,POPR,ELEV,,"black center, opaque edge",,,Yes,11,Archived,,NA,,,,,needs to be splitted,NA,Extract
+115,51,18-Jul-17,WM-1,FETH-6,Control,12-Jul-17,black/green,,,Yes,12,Archived,,Sequenced,4,find_2,Done,12,,99,99
+500,209,22-Jul-17,TR-H,TRSP,ELEV,17-Jul-17,"black center, white radiating",,,Yes,12,Archived,,Sequenced,,,Done,12,,99,99
+33,22,18-Jul-17,WG-H,ACLE,ELEV,11-Jul-17,"black center, white radiates",,,Yes,12,Archived,,NA,,,Done,12,,NA,99
+34,22,,WG-H,ACLE,ELEV,11-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+35,22,,WG-H,ACLE,ELEV,11-Jul-17,,,,No,12,NA,,NA,,find_2,Done,12,,NA,99
+36,22,,WG-H,ACLE,ELEV,11-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+37,22,,WG-H,ACLE,ELEV,11-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+38,23,18-Jul-17,WG-L,ACLE,ELEV,11-Jul-17,gray,,,Yes,12,Archived,,NA,,,Done,12,,NA,99
+93,43,18-Jul-17,ER-L,POLE,ELEV,12-Jul-17,black/green,,,Yes,12,Archived,,non-specific,2,Do PCR from Plate 2 again,Done,12,retry Jan 22,NA,99
+707,43,,ER-L,POLE,ELEV,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+708,43,,ER-L,POLE,ELEV,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1205,51,,TR-L,ACLE,ELEV,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1206,51,,TR-L,ACLE,ELEV,,,,,No,12,NA,,NA,,find_2,Done,12,,NA,99
+1207,51,,TR-L,ACLE,ELEV,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+177,70,19-Jul-17,WM-1,POPR-2,Control,13-Jul-17,black circle with cushy gray,dark black,,Yes,12,Archived,,NA,,,Done,12,,NA,99
+1159,70,,WM-10,FETH-1,Warming,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1354,70,,WM-1,POPR-2,Control,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+306,112,20-Jul-17,WM-10,POPR-1,Warming,14-Jul-17,"dark,blackish green",,,Yes,12,Archived,,NA,,,Done,12,Retry Jan 22nd,NA,99
+307,112,,WM-10,POPR-1,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+308,112,,WM-10,POPR-1,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+309,112,,WM-10,POPR-1,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+310,112,,WM-10,POPR-1,Warming,14-Jul-17,,,,No,12,NA,,NA,,find_2,Done,12,,NA,99
+1379,112,,WM-10,ACLE-7,Warming,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1381,112,,WM-10,ACLE-7,Warming,,,,,No,12,NA,,NA,,,Done,12,retry Jan 22,NA,99
+1380,112,,WM-10,ACLE-7,Warming,,,,,No,12,NA,,NA,,,Done,12,I think 13 is good got down to genus. ,NA,99
+1378,112,,WM-10,ACLE-7,Warming,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+348,124,20-Jul-17,WM-10,POPR-6,Warming,14-Jul-17,black,,,Yes,12,Archived,,NA,,,Done,12,,NA,99
+349,124,,WM-10,POPR-6,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1177,124,,WM-10,POPR-6,Warming,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1179,124,,WM-10,POPR-6,Warming,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+350,124,,WM-10,POPR-6,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1178,124,,WM-10,POPR-6,Warming,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+354,126,20-Jul-17,WM-10,POPR-6,Warming,14-Jul-17,"orange, opaque",,,Yes,12,Archived,,PCR,4,find_3,Done,12,,NA,99
+369,136,20-Jul-17,WM-8,ACLE-1,Warming,14-Jul-17,"opaque, black center",,,Yes,12,Archived,,NA,,,Done,12,,NA,99
+370,136,,WM-8,ACLE-1,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+371,136,,WM-8,ACLE-1,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+372,136,,WM-8,ACLE-1,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+373,136,,WM-8,ACLE-1,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1582,136,,WM-8,ACLE-1,Warming,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1583,136,,WM-8,ACLE-1,Warming,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1584,136,,WM-8,ACLE-1,Warming,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+387,147,,WM-8,POPR-2,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+388,147,21-Jul-17,WM-8,POPR-2,Warming,14-Jul-17,"opaque, black center",,,Yes,12,Find,,NA,,find_5,Done,12,,NA,99
+389,147,,WM-8,POPR-2,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+390,147,,WM-8,POPR-2,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,,NA,99
+386,147,,WM-8,POPR-2,Warming,14-Jul-17,,,,No,12,NA,,NA,,,Done,12,Shipped in Plate 4,NA,99
+396,150,21-Jul-17,WM-8,POPR-4,Warming,14-Jul-17,"opaque, black",,,Yes,12,Archived,,PCR,4,find_2,Done,12,,NA,99
+501,209,,TR-H,TRSP,ELEV,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+502,209,,TR-H,TRSP,ELEV,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+1273,209,,TR-H,TRSP,ELEV,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+507,214,22-Jul-17,WM-6,POPR-5,Warming,18-Jul-17,black center,,,Yes,12,Archived,,NA,,,Done,12,,NA,99
+942,368,28-Jul-17,ER-H,FESA,ELEV,,Gray green,,,Yes,12,Archived,,NA,,,Done,12,,NA,99
+945,371,28-Jul-17,ER-H,FESA,ELEV,,"white, fuzzy",,,Yes,12,Archived,,NA,,,Done,12,,NA,99
+1002,371,,WM-9,ACLE-6,Control,,,,,No,12,NA,,NA,,,Done,12,,NA,99
+948,374,28-Jul-17,ER-H,FESA,ELEV,,"gray green, netted hyphae",,,Yes,12,Archived,,NA,,,Done,12,,NA,99
+1433,556,2-Aug-17,TR-L,FETH,ELEV,,Dark gray/green,,,Yes,12,Archived,,NA,,,Done,12,,NA,99
+1475,567,4-Aug-17,WM-6,ACLE-3,Warming,,Dark green matted,,,Yes,12,Find,,NA,,,Done,12,,NA,99
+95,45,18-Jul-17,ER-L,ELTR,ELEV,12-Jul-17,black/green,,,Yes,13,Archived,,Sequenced,3,,,212,,0,0
+96,45,,ER-L,ELTR,ELEV,12-Jul-17,,,,No,13,NA,,NA,,,,212,,NA,0
+845,45,,ER-L,ELTR,ELEV,,,,,No,13,NA,,NA,,,,212,,NA,0
+846,45,,ER-L,ELTR,ELEV,,,,,No,13,NA,,NA,,,,212,,NA,0
+70,36,18-Jul-17,ER-L,ELEL,ELEV,12-Jul-17,"opaque, clear",,yeast growing on top - pink spots,Yes,13,Archived,,Extracted,Tube,find_4,Sequenced,213,,16,16
+73,37,18-Jul-17,ER-L,ELEL,ELEV,12-Jul-17,"black/green, fuzzy",,,Yes,13,Archived,,PCR,4,find_3,Sequenced,213,,16,16
+10,8,18-Jul-17,WG-L,TRSP,ELEV,11-Jul-17,"same, fuzzy",white streaks,,Yes,13,Archived,,PCR tube failed,Tube,find_4,PCR,215,,NA,16
+12,8,,WG-L,TRSP,ELEV,11-Jul-17,,,,No,13,NA,,NA,,,,215,,NA,16
+13,8,,WG-L,TRSP,ELEV,11-Jul-17,,,,No,13,NA,,NA,,,,215,,NA,16
+1331,8,,WG-L,TRSP,ELEV,,,,,No,13,NA,,NA,,,,215,,NA,16
+1333,8,,WG-L,TRSP,ELEV,,,,,No,13,NA,,NA,,,,215,,NA,16
+1332,8,,WG-L,TRSP,ELEV,,,,,No,13,NA,,NA,,,,215,,NA,16
+72,36,,ER-L,ELEL,ELEV,12-Jul-17,,,,No,13,NA,,NA,,,,213,,NA,16
+74,36,,ER-L,ELEL,ELEV,12-Jul-17,,,,No,13,NA,,NA,,,,213,,NA,16
+71,36,,ER-L,ELEL,ELEV,12-Jul-17,,,,No,13,NA,,NA,,,,213,Shipped in Plate 4,NA,16
+771,36,,ER-L,ELEL,ELEV,,,,,No,13,NA,,NA,,,,213,,NA,16
+777,36,,ER-L,ELEL,ELEV,,,,,No,13,NA,,NA,,,,213,,NA,16
+779,36,,ER-L,ELEL,ELEV,,,,,No,13,NA,,NA,,,,213,,NA,16
+770,36,,ER-L,ELEL,ELEV,,,,,No,13,NA,,NA,,,,213,shipped in Plate 4,NA,16
+769,36,,ER-L,ELEL,ELEV,,,,,No,13,NA,,NA,,,,213,,NA,16
+1183,37,,TR-L,TRSP,ELEV,,,,,No,13,NA,,NA,,,,213,,NA,16
+1184,37,,TR-L,TRSP,ELEV,,,,,No,13,NA,,NA,,,,213,,NA,16
+1185,37,,TR-L,TRSP,ELEV,,,,,No,13,NA,,NA,,,,213,,NA,16
+1196,37,,TR-L,TRSP,ELEV,,,,,No,13,NA,,NA,,,,213,,NA,16
+1188,37,,TR-L,TRSP,ELEV,,,,,No,13,NA,,NA,,,,213,,NA,16
+1186,37,,TR-L,TRSP,ELEV,,,,,No,13,NA,,NA,,,,213,Shipped in Plate 4,NA,16
+1187,37,,TR-L,TRSP,ELEV,,,,,No,13,NA,,NA,,,,213,,NA,16
+104,47,18-Jul-17,WM-1,FETH-2,Control,12-Jul-17,opaque,,,Yes,13,Archived,,Sequenced,4,find_3,,13,,29,29
+134,57,19-Jul-17,WM-2,POPR-3,Warming,13-Jul-17,clear & opaque,,,Yes,13,Archived,,Sequenced,,find_3,Send,215,,29,29
+218,79,19-Jul-17,WM-2,ACLE-7,Warming,13-Jul-17,"gray, opaque",,,Yes,13,Archived,,Sequenced,2,,,13,retry Jan 22,29,29
+222,81,19-Jul-17,WM-1,ACLE-2,Control,13-Jul-17,blue-grayish,,,Yes,13,Archived,,Sequenced,4,find_4,Send,262,,29,29
+102,47,,WM-1,FETH-2,Control,12-Jul-17,,,,No,13,NA,,NA,,,,13,,NA,29
+1389,47,,WM-1,FETH-2,Control,,,,,No,13,NA,,NA,,,,13,,NA,29
+103,47,,WM-1,FETH-2,Control,12-Jul-17,,,,No,13,NA,,NA,,,,13,,NA,29
+100,47,,WM-1,FETH-2,Control,12-Jul-17,,,,No,13,NA,,NA,,,,13,Shipped in Plate 4,NA,29
+101,47,,WM-1,FETH-2,Control,12-Jul-17,,,,No,13,NA,,NA,,,,13,,NA,29
+105,47,,WM-1,FETH-2,Control,12-Jul-17,,,,No,13,NA,,NA,,,,13,,NA,29
+121,52,18-Jul-17,WM-2,FETH-1,Warming,12-Jul-17,opaque,,,Yes,13,Archived,,NA,,,,13,,NA,29
+123,52,,WM-2,FETH-1,Warming,12-Jul-17,,,,No,13,NA,,NA,,,,13,,NA,29
+122,52,,WM-2,FETH-1,Warming,12-Jul-17,,,,No,13,NA,,NA,,,,13,,NA,29
+130,54,18-Jul-17,WM-2,FETH-3,Warming,12-Jul-17,black/green,,,Yes,13,Archived,,Extracted,Tube,find_4,Found,211,,NA,29
+132,56,19-Jul-17,WM-1,ACLE-3,Control,13-Jul-17,concentric black inner & green outer,,,Yes,13,Archived,,NA,,,Find_April,214,,NA,29
+133,56,,WM-1,ACLE-3,Control,13-Jul-17,,,,No,13,NA,,NA,,,,214,,NA,29
+1492,56,,WM-1,ACLE-6,Control,,,,,No,13,NA,,NA,,,,214,,NA,29
+135,57,,WM-2,POPR-3,Warming,13-Jul-17,,,,No,13,NA,,NA,,,,215,,NA,29
+136,57,,WM-2,POPR-3,Warming,13-Jul-17,,,,No,13,NA,,NA,,,,215,,NA,29
+137,57,,WM-2,POPR-3,Warming,13-Jul-17,,,,No,13,NA,,NA,,,,215,,NA,29
+138,57,,WM-2,POPR-3,Warming,13-Jul-17,,,,No,13,NA,,NA,,,,215,,NA,29
+145,60,19-Jul-17,WM-1,ACLE-6,Control,13-Jul-17,"dark center, yellowish edges",,,Yes,13,Archived,,NA,,,,13,,NA,29
+1133,60,,WM-2,POPR-2,Warming,,,,,No,13,NA,,NA,,,,13,,NA,29
+1134,60,,WM-2,POPR-2,Warming,,,,,No,13,NA,,NA,,,,13,,NA,29
+626,79,,WM-2,ACLE-7,Warming,,,,,No,13,NA,,NA,,,,13,,NA,29
+627,79,,WM-2,ACLE-7,Warming,,,,,No,13,NA,,NA,,,,13,,NA,29
+223,82,19-Jul-17,WM-1,ACLE-2,Control,13-Jul-17,"clear, opaque",,,Yes,13,Extracted,,Extracted,Tube,,PCR,213,retry Jan 22,NA,29
+225,82,,WM-1,ACLE-2,Control,13-Jul-17,,,,No,13,NA,,NA,,,,213,,NA,29
+226,82,,WM-1,ACLE-2,Control,13-Jul-17,,,,No,13,NA,,NA,,,,213,,NA,29
+228,82,,WM-1,ACLE-2,Control,13-Jul-17,,,,No,13,NA,,NA,,,,213,,NA,29
+229,82,,WM-1,ACLE-2,Control,13-Jul-17,,,,No,13,NA,,NA,,,,213,,NA,29
+862,82,,WM-1,ACLE-2,Control,,,,,No,13,NA,,NA,,,,213,,NA,29
+863,82,,WM-1,ACLE-2,Control,,,,,No,13,NA,,NA,,,,213,,NA,29
+224,82,,WM-1,ACLE-2,Control,13-Jul-17,,,,No,13,NA,,NA,,,,213,retry Jan 22,NA,29
+227,82,,WM-1,ACLE-2,Control,13-Jul-17,,,,No,13,NA,,NA,,,,213,Retry Jan 9th,NA,29
+98,46,18-Jul-17,ER-L,ELTR,ELEV,12-Jul-17,opaque,,,Yes,13,Find,,Sequenced,"Tube, 3",find_4,Sequenced,211,,47,47
+97,46,,ER-L,ELTR,ELEV,12-Jul-17,,,,No,13,NA,,NA,,,,211,,NA,47
+99,46,,ER-L,ELTR,ELEV,12-Jul-17,,,,No,13,NA,,NA,,,,211,,NA,47
+343,122,20-Jul-17,WM-10,POPR-5,Warming,14-Jul-17,"black center, white radial",,,Yes,13,Find,,Sequenced,2,,,13,,99,99
+344,122,,WM-10,POPR-5,Warming,14-Jul-17,,,,No,13,NA,,NA,,,,13,,NA,99
+346,122,,WM-10,POPR-5,Warming,14-Jul-17,,,,No,13,NA,,NA,,,,13,,NA,99
+345,122,,WM-10,POPR-5,Warming,14-Jul-17,,,,No,13,NA,,NA,,,,13,,NA,99
+273,100,20-Jul-17,WM-10,ACLE-2,Warming,14-Jul-17,black/grey opaque,,,Yes,13,Archived,,NA,,,,211,,NA,Extract
+1295,100,,WM-10,ACLE-2,Warming,,,,,No,13,NA,,NA,,,,211,,NA,
+1300,100,,WM-10,ACLE-2,Warming,,,,,No,13,NA,,NA,,,,211,,NA,
+376,139,20-Jul-17,WM-8,ACLE-6,Warming,14-Jul-17,opaque,,,Yes,13,Archived,,NA,,,,13,,NA,Extract
+598,139,,WM-8,ACLE-6,Warming,,,,,No,13,NA,,NA,,,,13,,NA,
+395,149,21-Jul-17,WM-8,POPR-4,Warming,14-Jul-17,"opaque, gray-brown",,,Yes,13,Archived,,NA,,,,13,,NA,Extract
+469,194,22-Jul-17,TR-L,POPR,ELEV,17-Jul-17,yellow hue,,,Yes,13,Archived,,NA,,,,13,,NA,
+470,194,,TR-L,POPR,ELEV,,,,,No,13,NA,,NA,,,,13,,NA,
+515,219,22-Jul-17,WM-6,FETH-5,Warming,18-Jul-17,"opaque, gray",,,Yes,13,Archived,,NA,,,,13,,NA,
+1580,219,,WM-6,FETH-5,Warming,,,,,No,13,NA,,NA,,,,13,,NA,
+551,235,22-Jul-17,WM-6,ACLE-3,Warming,18-Jul-17,webby white,,,Yes,13,Archived,,NA,,,,13,,NA,
+552,235,,WM-6,ACLE-3,Warming,,,,,No,13,NA,,NA,,,,13,,NA,
+645,273,26-Jul-17,WM-2,FETH-2,Warming,,"Dark gray, fuzzy",,,Yes,13,Archived,,NA,,,,13,,NA,Extract
+647,275,26-Jul-17,WM-2,FETH-2,Warming,,yellow,,,Yes,13,Archived,,NA,,,,13,,NA,
+649,275,,WM-2,FETH-2,Warming,,,,,No,13,NA,,NA,,,,13,,NA,
+651,275,,WM-2,FETH-2,Warming,,,,,No,13,NA,,NA,,,,13,,NA,
+652,275,,WM-2,FETH-2,Warming,,,,,No,13,NA,,NA,,,,13,,NA,
+655,275,,WM-2,FETH-2,Warming,,,,,No,13,NA,,NA,,,,13,,NA,
+1296,275,,WM-10,ACLE-2,Warming,,,,,No,13,NA,,NA,,,,13,,NA,
+1297,275,,WM-10,ACLE-2,Warming,,,,,No,13,NA,,NA,,,,13,,NA,
+1299,275,,WM-10,ACLE-2,Warming,,,,,No,13,NA,,NA,,,,13,,NA,
+1298,275,,WM-10,ACLE-2,Warming,,,,,No,13,NA,,NA,,,,13,Shipped in Plate 4,NA,
+654,275,,WM-2,FETH-2,Warming,,,,,No,13,NA,,NA,,,,13,retry Jan 22,NA,
+144,59,19-Jul-17,WM-1,ACLE-6,Control,13-Jul-17,"dark, blueish",,,Yes,14,Find,,Sequenced,4,find_3,Done,252,,5,5
+1493,59,,WM-1,ACLE-6,Control,,,,,No,14,NA,,NA,,,Done,252,,NA,5
+27,18,18-Jul-17,WG-L,ELTR,ELEV,11-Jul-17,almost rosy tinge,,,Yes,14,Find,,NA,,NEED,Done,251,,16,16
+91,42,18-Jul-17,ER-L,ACNE,ELEV,12-Jul-17,opaque,,,Yes,14,Find,,NA,,NEED,Done,251,,16,16
+181,72,19-Jul-17,WM-1,POPR-1,Control,13-Jul-17,"clear, opaque",,,Yes,14,Find,,Sequenced,tube,NEED,Done,251,,16,16
+420,165,21-Jul-17,WM-3,ACLE-2,Control,17-Jul-17,opaque,,,Yes,14,Find,,Sequenced,4,find_3,Done,14,,16,16
+84,42,,ER-L,ACNE,ELEV,12-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,16
+85,42,,ER-L,ACNE,ELEV,12-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,16
+86,42,,ER-L,ACNE,ELEV,12-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,16
+87,42,,ER-L,ACNE,ELEV,12-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,16
+88,42,,ER-L,ACNE,ELEV,12-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,16
+89,42,,ER-L,ACNE,ELEV,12-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,16
+92,42,,ER-L,ACNE,ELEV,12-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,16
+824,42,,ER-L,ACNE,ELEV,,,,,No,14,NA,,NA,,,Done,251,,NA,16
+825,42,,ER-L,ACNE,ELEV,,,,,No,14,NA,,NA,,,Done,251,,NA,16
+90,42,,ER-L,ACNE,ELEV,12-Jul-17,,,,No,14,NA,,NA,,,Done,251,Shipped in Plate 4,NA,16
+182,72,,WM-1,POPR-1,Control,13-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,16
+184,72,,WM-1,POPR-1,Control,13-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,16
+1292,72,,TR-H,FESA,ELEV,,,,,No,14,NA,,NA,,,Done,251,,NA,16
+1362,72,,WM-1,POPR-1,Control,,,,,No,14,NA,,NA,,,Done,251,,NA,16
+183,72,,WM-1,POPR-1,Control,13-Jul-17,,,,No,14,NA,,NA,,,Done,251,Shipped in Plate 4,NA,16
+185,72,,WM-1,POPR-1,Control,13-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,16
+1119,165,,WM-3,ACLE-2,Control,,,,,No,14,NA,,NA,,,Done,14,,NA,16
+525,223,22-Jul-17,WM-5,FETH-4,Control,18-Jul-17,"white, wispy",,,Yes,14,Find,,Sequenced,,,Done,14,extracted jan26,29,20
+555,237,22-Jul-17,WM-6,ACLE-4,Warming,18-Jul-17,,,,Yes,14,NA,,Sequenced,Tube,,Done,14,,29,20
+526,223,,WM-5,FETH-4,Control,,,,,No,14,NA,,NA,,,Done,14,,NA,20
+527,223,,WM-5,FETH-4,Control,,,,,No,14,NA,,NA,,,Done,14,,NA,20
+528,223,,WM-5,FETH-4,Control,,,,,No,14,NA,,NA,,,Done,14,,NA,20
+1513,223,,WM-5,FETH-1,Control,,,,,No,14,NA,,NA,,,Done,14,,NA,20
+1514,223,,WM-5,FETH-1,Control,,,,,No,14,NA,,NA,,,Done,14,,NA,20
+1515,223,,WM-5,FETH-1,Control,,,,,No,14,NA,,NA,,,Done,14,,NA,20
+1490,237,,WM-6,ACLE-4,Warming,,,,,No,14,NA,,NA,,,Done,14,,NA,20
+556,237,,WM-6,ACLE-4,Warming,,,,,No,14,NA,,NA,,,Done,14,,NA,20
+321,116,20-Jul-17,WM-10,FETH-1,Warming,14-Jul-17,"yellow tint, opaque",,,Yes,14,Archived,,Sequenced,4,find_3,Done,14,,29,29
+322,116,,WM-10,FETH-1,Warming,14-Jul-17,,,,No,14,NA,,NA,,,Done,14,,NA,29
+323,116,,WM-10,FETH-1,Warming,14-Jul-17,,,,No,14,NA,,NA,,,Done,14,,NA,29
+324,116,,WM-10,FETH-1,Warming,14-Jul-17,,,,No,14,NA,,NA,,,Done,14,,NA,29
+325,116,,WM-10,FETH-1,Warming,14-Jul-17,,,,No,14,NA,,NA,,,Done,14,,NA,29
+326,116,,WM-10,FETH-1,Warming,14-Jul-17,,,,No,14,NA,,NA,,,Done,14,,NA,29
+351,125,20-Jul-17,WM-10,POPR-6,Warming,14-Jul-17,white. opaque,,,Yes,14,Find,,Sequenced,4,find_3,Done,251,,57,57
+353,125,,WM-10,POPR-6,Warming,14-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,57
+1180,125,,WM-10,POPR-6,Warming,,,,,No,14,NA,,NA,,,Done,251,Shipped in Plate 4,NA,57
+352,125,,WM-10,POPR-6,Warming,14-Jul-17,,,,No,14,NA,,NA,,,Done,251,Shipped in Plate 4,NA,57
+415,163,21-Jul-17,WM-3,ACLE-5,Control,17-Jul-17,clear opaque,,,Yes,14,Find,,Sequenced,4,find_3,Done,263,,82,82
+419,163,,WM-3,ACLE-5,Control,17-Jul-17,,,,No,14,NA,,NA,,,Done,251,,NA,82
+1420,163,,WM-3,ACLE-5,Control,,,,,No,14,NA,,NA,,,Done,251,,NA,82
+15,11,18-Jul-17,WG-L,POPR,ELEV,11-Jul-17,blackish green,,,Yes,14,Find,,NA,Tube,NEED,Done,250,,103,103
+21,11,,WG-L,POPR,ELEV,11-Jul-17,,,two growing on top of each other,No,14,NA,,NA,,,Done,250,,NA,103
+429,169,21-Jul-17,WM-4,ACLE-7,Warming,17-Jul-17,opaque,,,Yes,14,NA,,NA,,NEED,Done,NA,,NA,Extract
+446,180,,WM-4,POPR-6,Warming,,,,,No,14,NA,,NA,,,Done,NA,,NA,NA
+1613,180,,WM-8,ACLE-5,Warming,,,,,No,14,NA,,NA,,,Done,NA,,NA,NA
+488,204,22-Jul-17,TR-L,ACLE,ELEV,17-Jul-17,"white, opaque",,,Yes,14,Find,,NA,4,find_3,Done,249,,NA,Extract
+889,350,28-Jul-17,WM-1,POPR-3,Control,,Gray green,Yellow,,Yes,15,Archived,,Sequenced,5,find_2,Done,,,40,40
+619,264,26-Jul-17,WM-2,ACLE-7,Warming,,,,,Yes,15,Find,,Sequenced,3,,Done,237,,49,49
+79,39,18-Jul-17,ER-L,POPR,ELEV,12-Jul-17,black/green,,yeast on top?,Yes,15,Find,,Extracted,,find_4,Done,,,NA,49
+809,39,,ER-L,POPR,ELEV,,,,,No,15,NA,,NA,,,Done,,,NA,49
+810,39,,ER-L,POPR,ELEV,,,,,No,15,NA,,NA,,,Done,,,NA,49
+811,39,,ER-L,POPR,ELEV,,,,,No,15,NA,,NA,,,Done,,,NA,49
+622,264,,WM-2,ACLE-7,Warming,,,,,No,15,NA,,NA,,,Done,237,,NA,49
+623,264,,WM-2,ACLE-7,Warming,,,,,No,15,NA,,NA,,,Done,237,,NA,49
+625,264,,WM-2,ACLE-7,Warming,,,,,No,15,NA,,NA,,,Done,237,,NA,49
+311,269,,WM-4,POPR-1,Warming,,,,,No,15,NA,,Sequenced,,,Done,236,,59,59
+639,269,26-Jul-17,WM-4,POPR-1,Warming,,Black fuzzy,,,Yes,15,Archived,,Do PCR again,4,find_4,Done,236,,NA,59
+28,19,18-Jul-17,WG-L,ELTR,ELEV,11-Jul-17,"clear, dense",,,Yes,16,Archived,,Sequenced,4,find_2,Done,16,,16,16
+245,89,20-Jul-17,WM-9,ACLE-1,Control,14-Jul-17,"grey, puffy webby",blackish green,,Yes,17,Archived,ITS1-FL in SP Plate 2,Sequenced,2,,Done,17,,28,28
+1597,89,,WM-9,ACLE-1,Control,,,,,No,17,NA,,NA,,,Done,17,Shipped in Plate 4,NA,28
+246,89,,WM-9,ACLE-1,Control,14-Jul-17,,,,No,17,NA,,NA,,,Done,17,,NA,28
+1595,89,,WM-9,ACLE-1,Control,,,,,No,17,NA,,NA,,,Done,17,,NA,28
+1596,89,,WM-9,ACLE-1,Control,,,,,No,17,NA,,NA,,,Done,17,,NA,28
+1598,89,,WM-9,ACLE-1,Control,,,,,No,17,NA,,NA,,,Done,17,,NA,28
+1599,89,,WM-9,ACLE-1,Control,,,,,No,17,NA,,NA,,,Done,17,,NA,28
+178,71,19-Jul-17,WM-1,POPR-1,Control,13-Jul-17,blackish green,,,Yes,18,Find,,Extracted,"tube, 3",find_2,Send,,,NA,PCR
+179,71,,WM-1,POPR-1,Control,13-Jul-17,,,,No,18,NA,,NA,,,,,,NA,
+1361,71,,WM-1,POPR-1,Control,,,,,No,18,NA,,NA,,,,,Missing,NA,
+1366,71,,WM-1,POPR-1,Control,,,,,No,18,NA,,NA,,,,,,NA,
+180,71,,WM-1,POPR-1,Control,13-Jul-17,,,,No,18,NA,,NA,,,,,retry Jan 22,NA,
+22,15,18-Jul-17,WG-H,TRSP,ELEV,11-Jul-17,black,,,Yes,19,Archived,,Sequenced,,find,Done,19,,52,52
+1054,15,,WG-H,TRSP,ELEV,,,,,No,19,NA,,NA,,,Done,247,,NA,52
+1055,15,,WG-H,TRSP,ELEV,,,,,No,19,NA,,NA,,,Done,247,,NA,52
+1334,15,,WG-L,TRSP,ELEV,,,,,No,19,NA,,NA,,,Done,247,,NA,52
+1367,15,,WM-1,POPR-1,Control,,,,,No,19,NA,,NA,,,Done,247,,NA,52
+1368,15,,WM-1,POPR-1,Control,,,,,No,19,NA,,NA,,,Done,247,,NA,52
+1053,15,,WG-H,TRSP,ELEV,,,,,No,19,NA,,NA,,,Done,247,Shipped in Plate 4,NA,52
+1057,15,,WG-H,TRSP,ELEV,,,,,No,19,NA,,NA,,,Done,247,,NA,52
+1056,15,,WG-H,TRSP,ELEV,,,,,No,19,NA,,NA,,,Done,247,,NA,52
+600,55,,WM-2,FETH-2,Warming,,,,,No,19,NA,,NA,,,Done,247,,NA,52
+131,55,18-Jul-17,WM-2,FETH-3,Warming,12-Jul-17,"opaque, yellowy",,,Yes,19,Archived,,Sequenced,3,find,Done,247,Shipped in Plate 4,59,59
+601,55,,WM-2,FETH-2,Warming,,,,,No,19,NA,,NA,,,Done,247,,NA,59
+603,55,,WM-2,FETH-2,Warming,,,,,No,19,NA,,NA,,,Done,247,Disregard. There are two cultures labelled 406. One appears to be something different. ,NA,59
+607,55,,WM-2,FETH-3,Warming,,,,,No,19,NA,,NA,,,Done,247,,NA,59
+609,55,,WM-2,FETH-3,Warming,,,,,No,19,NA,,NA,,,Done,247,,NA,59
+610,55,,WM-2,FETH-3,Warming,,,,,No,19,NA,,NA,,,Done,247,,NA,59
+614,55,,WM-2,FETH-3,Warming,,,,,No,19,NA,,NA,,,Done,247,,NA,59
+11,9,18-Jul-17,WG-L,TRSP,ELEV,11-Jul-17,"grey, shiny",grey,,Yes,20,Archived,ITS1-FL in SP Plate 2,Sequenced,Done,find,Done,20,Needs to be split,49,49
+471,195,22-Jul-17,TR-L,POPR,ELEV,17-Jul-17,"white, opaque",,,Yes,21,Archived,,Sequenced,5,find_2,Done,,,29,29
+1230,195,,TR-L,POPR,ELEV,,,,,No,21,NA,,NA,,,Done,,,NA,29
+1234,195,,TR-L,POPR,ELEV,,,,,No,21,NA,,NA,,,Done,,,NA,29
+1235,195,,TR-L,POPR,ELEV,,,,,No,21,NA,,NA,,,Done,,,NA,29
+1236,195,29-Jul-17,TR-L,POPR,ELEV,,,,duplicate of 471,Yes,21,Archived,,Extracted,Tube,find_4,Done,,,NA,29
+453,184,21-Jul-17,WG-H,POLE,ELEV,11-Jul-17,"orange, opaque center",,Michael: I believe the 453 and 452's description is mixed up,Yes,22,Find,,Sequenced,,,,,,40,40
+23,16,18-Jul-17,WG-H,TRSP,ELEV,11-Jul-17,clear webby,,,Yes,22,Find,,Extracted,3,find_4,PCR,,,NA,Extract
+24,16,,WG-H,TRSP,ELEV,11-Jul-17,,,,No,22,NA,,NA,,,,,,NA,
+25,16,,WG-H,TRSP,ELEV,11-Jul-17,,,,No,22,NA,,NA,,,,,,NA,
+1022,16,,WG-L,TRSP,ELEV,,,,,No,22,NA,,NA,,,,,Missing,NA,
+1061,16,,WG-H,TRSP,ELEV,,,,,No,22,NA,,NA,,,,,,NA,
+1336,16,,WG-L,TRSP,ELEV,,,,,No,22,NA,,NA,,,,,,NA,
+1337,16,,WG-L,TRSP,ELEV,,,,,No,22,NA,,NA,,,,,,NA,
+1414,16,,WM-4,POPR-2,Warming,,,,,No,22,NA,,NA,,,,,,NA,
+1023,16,,WG-L,TRSP,ELEV,,,,,No,22,NA,,NA,,,,,Shipped in Plate 4,NA,
+1335,16,,WG-L,TRSP,ELEV,,,,,No,22,NA,,NA,,,,,,NA,
+1156,184,,WG-H,POLE,ELEV,,,,,No,22,NA,,NA,,,,,,NA,
+455,186,21-Jul-17,WG-H,ELTR,ELEV,11-Jul-17,black,,,Yes,23,Find,,Sequenced,3,find,Done,23,,83,83
+1197,186,,WG-H,ELTR,ELEV,,,,,No,23,NA,,NA,,,Done,23,Shipped in Plate 4,NA,83
+1198,186,,WG-H,ELTR,ELEV,,,,,No,23,NA,,NA,,,Done,23,,NA,83
+1413,186,,WM-4,POPR-2,Warming,,,,,No,23,NA,,NA,,,Done,23,,NA,83
+403,156,21-Jul-17,WG-L,FETH,ELEV,11-Jul-17,"black, white fuzz",,,Yes,24,Find,,Sequenced,"2,4",find_2,Done,24,,59,59
+275,102,20-Jul-17,WM-10,ACLE-2,Warming,14-Jul-17,"black middle, white radial",,,Yes,25,Archived,,Sequenced,2,find,Done,25,,40,40
+1411,102,,WM-1,ACLE-1,Control,,,,,No,25,NA,,NA,,,Done,25,,NA,40
+276,102,,WM-10,ACLE-2,Warming,14-Jul-17,,,,No,25,NA,,NA,,,Done,25,,NA,40
+277,102,,WM-10,ACLE-2,Warming,14-Jul-17,,,,No,25,NA,,NA,,,Done,25, ,NA,40
+278,102,,WM-10,ACLE-2,Warming,14-Jul-17,,,,No,25,NA,,NA,,,Done,25,,NA,40
+279,102,,WM-10,ACLE-2,Warming,14-Jul-17,,,,No,25,NA,,NA,,,Done,25,,NA,40
+260,94,20-Jul-17,WM-9,POPR-4,Control,14-Jul-17,"white opaque, black center",,,Yes,26,Archived,,Sequenced,tube,,Done,257,,20,20
+261,94,,WM-9,POPR-4,Control,14-Jul-17,,,,No,26,NA,,NA,,,Done,257,,NA,20
+266,97,20-Jul-17,WM-9,FETH-3,Control,14-Jul-17,white opaque,,,Yes,26,Archived,,Sequenced,2,find,Done,278,,32,32
+267,97,,WM-9,FETH-3,Control,14-Jul-17,,,,No,26,NA,,NA,,,Done,278,,NA,32
+268,97,,WM-9,FETH-3,Control,14-Jul-17,,,,No,26,NA,,NA,,,Done,278,,NA,32
+1545,97,,WM-9,FETH-5,Control,,,,,No,26,NA,,NA,,,Done,,,NA,32
+1547,97,,WM-9,FETH-5,Control,,,,,No,26,NA,,NA,,,Done,,,NA,32
+1548,97,,WM-9,FETH-5,Control,,,,,No,26,NA,,NA,,,Done,,,NA,32
+1549,97,,WM-9,FETH-5,Control,,,,,No,26,NA,,NA,,,Done,,,NA,32
+1550,97,,WM-9,FETH-5,Control,,,,,No,26,NA,,NA,,,Done,,,NA,32
+1551,97,,WM-9,FETH-5,Control,,,,,No,26,NA,,NA,,,Done,,,NA,32
+1552,97,,WM-9,FETH-5,Control,,,,,No,26,NA,,NA,,,Done,,,NA,32
+1546,97,,WM-9,FETH-5,Control,,,,,No,26,NA,,NA,,,Done,,,NA,32
+163,66,19-Jul-17,WM-2,POPR-2,Warming,13-Jul-17,opaque,,,Yes,26,Archived,,Sequenced,2,,Done,255,,41,41
+162,66,,WM-2,POPR-2,Warming,13-Jul-17,,,,No,26,NA,,NA,,,Done,256,,NA,41
+165,66,,WM-2,POPR-2,Warming,13-Jul-17,,,,No,26,NA,,NA,,,Done,255,,NA,41
+166,66,,WM-2,POPR-2,Warming,13-Jul-17,,,,No,26,NA,,NA,,,Done,255,,NA,41
+164,66,,WM-2,POPR-2,Warming,13-Jul-17,,,,No,26,NA,,NA,,,Done,255,,NA,41
+476,197,22-Jul-17,TR-L,TRSP,ELEV,17-Jul-17,fine white wispy,,,Yes,26,Archived,,Sequenced,,,Done,258,,54,54
+32,21,18-Jul-17,WG-H,ACLE,ELEV,11-Jul-17,clear,,,Yes,26,Archived,,DNA failed,,,Done,258,,NA,54
+62,34,18-Jul-17,ER-H,POPR,ELEV,13-Jul-17,opaque,,,Yes,26,Archived,,Sequenced,5,find_3,Done,256,,62,62
+63,34,,ER-H,POPR,ELEV,13-Jul-17,,,,No,26,NA,,NA,,,Done,256,,NA,62
+65,34,,ER-H,POPR,ELEV,13-Jul-17,,,,No,26,NA,,NA,,,Done,256,Failed in Retry Jan 22nd,NA,62
+1579,34,,WM-6,FETH-5,Warming,,,,,No,26,NA,,NA,,,Done,,Retry Jan 22nd,NA,62
+64,34,,ER-H,POPR,ELEV,13-Jul-17,,,,No,26,NA,,NA,,,Done,256,,NA,62
+1288,187,,WG-H,ACLE,ELEV,,,,,No,26,NA,,Sequenced,,,,,,80,80
+1290,187,,WG-H,ACLE,ELEV,,,,,No,26,NA,,NA,,,,,,NA,80
+1289,187,,WG-H,ACLE,ELEV,,,,,No,26,NA,,NA,,,,,,NA,80
+3,3,15-Jul-17,WG-H,POPR,ELEV,11-Jul-17,,,,Yes,26,Archived,,Sequenced,4,find_3,Done,279,,88,88
+42,3,,WG-H,POPR,ELEV,11-Jul-17,,,,No,26,NA,,NA,,,Done,279,Failed in Retry Jan 22nd,NA,88
+43,3,,WG-H,POPR,ELEV,11-Jul-17,,,,No,26,NA,,NA,,,Done,279,,NA,88
+1097,3,,WG-H,POPR,ELEV,,,,,No,26,NA,,NA,,,Done,,retry Jan 22,NA,88
+1098,3,,WG-H,POPR,ELEV,,,,,No,26,NA,,NA,,,Done,,,NA,88
+1166,3,,WG-L,ELTR,ELEV,,,,,No,26,NA,,NA,,,Done,,,NA,88
+1167,3,,WG-L,ELTR,ELEV,,,,,No,26,NA,,NA,,,Done,,,NA,88
+484,201,22-Jul-17,TR-L,POLE,ELEV,17-Jul-17,white wispy,,,Yes,26,Archived,,Sequenced,,,Done,277,Shipped in Plate 4,90,90
+1266,201,,TR-L,POLE,ELEV,,,,,No,26,NA,,NA,,,Done,,retry Jan 9th,NA,90
+5,5,15-Jul-17,WG-H,POLE,ELEV,11-Jul-17,,,,Yes,26,Archived,,Extracted,Tube,,PCR,254,,NA,Extract
+427,168,21-Jul-17,WM-4,ACLE-1,Warming,17-Jul-17,opaque,,,Yes,26,Archived,,NA,,,Found,260,,NA,Extract
+428,168,,WM-4,ACLE-1,Warming,17-Jul-17,,,,No,26,NA,,NA,,,,260,,NA,
+1455,168,,WM-4,ACLE-7,Warming,,,,,No,26,NA,,NA,,,,,,NA,
+1456,168,,WM-4,ACLE-7,Warming,,,,,No,26,NA,,NA,,,,,,NA,
+1454,168,,WM-4,ACLE-7,Warming,,,,,No,26,NA,,NA,,,,,,NA,
+456,187,21-Jul-17,WG-H,ACLE,ELEV,11-Jul-17,opaque,,,Yes,26,Archived,,NA,Tube,find_3,PCR,259,,NA,Extract
+454,185,21-Jul-17,WG-H,ELTR,ELEV,11-Jul-17,"opaque, orange center",,,Yes,27,Find,ITS1-FL in SP Plate 2,Sequenced,,,Done,27,,16,16
+544,231,22-Jul-17,WM-5,ACLE-2,Control,18-Jul-17,opaque gray,,,Yes,27,Find,,Sequenced,Tube,,Done,276,,36,36
+545,231,,WM-5,ACLE-2,Control,,,,,No,27,NA,,NA,,,Done,276,,NA,36
+546,231,,WM-5,ACLE-2,Control,,,,,No,27,NA,,NA,,,Done,276,,NA,36
+40,25,18-Jul-17,WG-H,FESA,ELEV,11-Jul-17,"white, black fuzz",,,Yes,27,Archived,,NA,,,Done,27,,NA,PCR
+1293,25,,TR-H,FESA,ELEV,,,,,No,27,NA,,NA,,,Done,27,,NA,
+77,38,18-Jul-17,ER-L,FETH,ELEV,12-Jul-17,opaque,,,Yes,28,Archived,,Sequenced,tube,,Done,28,,14,14
+729,298,26-Jul-17,ER-L,TRSP,ELEV,,Orange/yellow,,,Yes,28,Find,ITS1-FL in SP Plate 2,Sequenced,,,Done,28,,14,14
+9,7,18-Jul-17,WG-L,TRSP,ELEV,11-Jul-17,"same, fuzzy","black center, white edges",,Yes,28,Archived,,NA,,,Done,28,,NA,14
+1271,7,,TR-L,POLE,ELEV,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1272,7,,TR-L,POLE,ELEV,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+783,38,,ER-L,FETH,ELEV,,,,,No,28,NA,,NA,,,Done,28,Retry Jan 22nd,NA,14
+1383,38,,WM-2,FETH-1,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+78,38,,ER-L,FETH,ELEV,12-Jul-17,,,,No,28,NA,,NA,,,Done,28,,NA,14
+781,38,,ER-L,FETH,ELEV,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+782,38,,ER-L,FETH,ELEV,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+784,38,,ER-L,FETH,ELEV,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+785,38,,ER-L,FETH,ELEV,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1382,38,,WM-2,FETH-1,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1384,38,,WM-2,FETH-1,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1385,38,,WM-2,FETH-1,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1386,38,,WM-2,FETH-1,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1387,38,,WM-2,FETH-1,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1578,38,,WM-6,FETH-5,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+786,38,,ER-L,FETH,ELEV,,,,,No,28,Archived,,NA,,,Done,28,,NA,14
+1388,38,,WM-2,FETH-1,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+75,38,,ER-L,ELEL,ELEV,12-Jul-17,,,,No,28,NA,,NA,,,Done,28,Shipped in Plate 4,NA,14
+76,38,,ER-L,ELEL,ELEV,12-Jul-17,,,,No,28,NA,,NA,,,Done,28,,NA,14
+271,98,,WM-9,FETH-1,Control,14-Jul-17,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1521,98,,WM-4,FETH-2,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1536,98,,WM-9,FETH-1,Control,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+269,98,20-Jul-17,WM-9,FETH-1,Control,14-Jul-17,"webby, white",,,Yes,28,Archived,,NA,,,Done,28,Shipped in Plate 4,NA,14
+270,98,,WM-9,FETH-1,Control,14-Jul-17,,,,No,28,NA,,NA,,,Done,28,,NA,14
+358,129,20-Jul-17,WM-8,FETH-3,Warming,14-Jul-17,opaque,,,Yes,28,Archived,,NA,,,Done,28,,NA,14
+1528,129,,WM-8,FETH-4,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1529,129,,WM-8,FETH-4,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1530,129,,WM-8,FETH-4,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1532,129,,WM-8,FETH-4,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+1531,129,,WM-8,FETH-4,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+362,131,20-Jul-17,WM-8,FETH-1,Warming,14-Jul-17,opaque,,,Yes,28,Archived,,NA,,,Done,28,,NA,14
+828,131,,WM-8,FETH-1,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+829,131,,WM-8,FETH-1,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+831,131,,WM-8,FETH-1,Warming,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+383,144,21-Jul-17,WM-8,POPR-6,Warming,14-Jul-17,opaque,,,Yes,28,Archived,,NA,,,Done,28,,NA,14
+1157,183,,WG-H,POLE,ELEV,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+452,183,21-Jul-17,WG-H,POLE,ELEV,11-Jul-17,black,,,Yes,28,Archived,,NA,,,Done,28,Shipped in Plate 4,NA,14
+730,298,,ER-L,TRSP,ELEV,,,,,No,28,NA,,NA,,,Done,28,,NA,14
+216,78,19-Jul-17,WM-1,ACLE-1,Control,13-Jul-17,clear,,,Yes,29,Find,,DNA failed,,,Done,29,,32,32
+1139,78,,WM-1,ACLE-1,Control,,,,,No,29,NA,,NA,,,Done,29,Retry Jan 22nd,,32
+217,78,,WM-1,ACLE-1,Control,13-Jul-17,,,,No,29,NA,,NA,,,Done,29,,,32
+1140,78,,WM-1,ACLE-1,Control,,,,,No,29,NA,,NA,,,Done,29,,,32
+1145,78,,WM-1,ACLE-1,Control,,,,,No,29,NA,,NA,,,Done,29,,,32
+1410,78,,WM-1,ACLE-1,Control,,,,,No,29,NA,,NA,,,Done,29,,,32
+289,107,20-Jul-17,WM-10,FETH-6,Warming,14-Jul-17,glossy streaks,,,Yes,29,Find,,Sequenced,,,Done,29,,59,59
+290,107,,WM-10,FETH-6,Warming,14-Jul-17,,,,No,29,NA,,NA,,,Done,29,,NA,59
+1498,107,,WM-10,FETH-6,Warming,,,,,No,29,NA,,NA,,,Done,29,,NA,59
+285,105,20-Jul-17,WM-9,FETH-3,Control,14-Jul-17,"shiny, grayish",,,Yes,29,Archived,,NA,,find_2,,29,Shipped in Plate 4,NA,PCR
+467,192,22-Jul-17,TR-L,ELTR,ELEV,17-Jul-17,"white, very wispy",,,Yes,30,Find,,PCR,4,find_2,Done,30,,NA,PCR
+1104,508,28-Jul-17,WM-3,POPR-4,Control,,"Black, brown edge, fuzzy",,,Yes,31,Find,,Sequenced,,,,31,,4,4
+1105,508,,WM-3,POPR-4,Control,,,,,No,31,NA,,NA,,,,31,Shipped in Plate 4,NA,4
+702,606,,WM-10,FETH-2,Warming,,,,,No,31,Find,,Sequenced,,,,31,,40,40
+1649,146,,WM-7,POPR-3,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+385,146,21-Jul-17,WM-7,POPR-3,Control,14-Jul-17,opaque,,,Yes,31,Archived,,NA,,,,31,,NA,
+1161,146,,WM-10,POPR-1,Warming,,,,,No,31,NA,,NA,,,,31,Is bacteria,NA,
+1163,146,,WM-10,POPR-1,Warming,,,,,No,31,NA,,NA,,,,31,,NA,
+1165,146,,WM-10,POPR-1,Warming,,,,,No,31,NA,,NA,,,,31,,NA,
+1229,146,,WG-L,POPR,ELEV,,,,,No,31,NA,,NA,,,,31,,NA,
+1650,146,,WM-7,POPR-3,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+1162,146,,WM-10,POPR-1,Warming,,,,,No,31,NA,,NA,,,,31,Retry Jan 9th,NA,
+1162,146,,WM-10,POPR-1,Warming,,,,,No,31,NA,,NA,,,,31,not bacteira something else. ,NA,
+402,155,21-Jul-17,WG-L,TRSP,ELEV,11-Jul-17,dark orange,,,Yes,31,Archived,,NA,,,,31,,NA,
+410,160,21-Jul-17,WG-L,ELEL,ELEV,11-Jul-17,dark orange,,,Yes,31,Find,,NA,,,,31,,NA,
+634,265,,WM-7,FETH-1,Control,,,,,No,31,NA,,NA,,,,31,Retry Jan 22nd,NA,
+621,265,,WM-2,ACLE-7,Warming,,,,,No,31,NA,,NA,,,,31,,NA,
+631,265,26-Jul-17,WM-7,FETH-1,Control,,Maroon,,,Yes,31,Archived,,NA,,,,31,,NA,Extract
+1007,397,28-Jul-17,WM-9,ACLE-6,Control,,Dark red circle,,,Yes,31,Archived,,NA,,,,31,,NA,
+900,398,,ER-H,ELTR,ELEV,,Reddish brown,,Check if done. Not done but the morphotype was done,No,31,NA,,NA,,,,31,,NA,
+1009,398,28-Jul-17,WM-9,POPR-4,Control,,white elevated fuzz in middle,black/red. entire margin. circular,,Yes,31,Archived,,NA,,,,31,,NA,
+1010,398,,WM-9,POPR-4,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+1011,398,,WM-9,POPR-4,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+1012,398,,WM-9,POPR-4,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+1008,398,,WM-9,POPR-4,Control,,,,,No,31,NA,,NA,,,,31,Shipped in Plate 4,NA,
+1274,543,29-Jul-17,TR-H,TRSP,ELEV,,"Red center, brown edge",,,Yes,31,Archived,,NA,,,,31,,NA,Extract
+1412,553,4-Aug-17,WM-1,ACLE-1,Control,,"Red, rigid.",,,Yes,31,Archived,,NA,,,,31,,NA,
+1621,585,2-Aug-17,WM-9,POPR-6,Control,,"dark red, fuzzy",,,Yes,31,Find,,NA,,,,31,,NA,
+1622,585,,WM-9,POPR-6,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+1623,585,,WM-9,POPR-6,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+1624,585,,WM-9,POPR-6,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+1626,585,,WM-9,POPR-6,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+1625,585,,WM-9,POPR-6,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+1652,599,,WM-7,POPR-3,Control,,,,,No,31,NA,,NA,,,,31,,NA,
+1651,599,3-Aug-17,WM-7,POPR-3,Control,,Pin kyeast,,,Yes,31,Find,looks red,NA,,,,31,,NA,
+703,606,,WM-10,FETH-2,Warming,,,,Needs a morphotype number for these yellow ones. Will fill in later,No,31,NA,,NA,,,,31,Retry Jan 22nd,NA,
+704,606,,WM-10,FETH-2,Warming,,,,,No,31,NA,,NA,,,,31,,NA,
+705,606,,WM-10,FETH-2,Warming,,,,,No,31,NA,,NA,,,,31,,NA,
+706,606,,WM-10,FETH-2,Warming,,,,,No,31,NA,,NA,,,,31,,NA,
+244,88,20-Jul-17,WM-9,ACLE-6,Control,14-Jul-17,black opaque,,,Yes,32,Find,,NA,,find_4,Done,32,,NA,
+978,384,28-Jul-17,WM-9,POPR-2,Control,,,,,Yes,33,Archived,look up. Does not look like the other 384 mopth,Sequenced,,find,Done,33,,40,40
+186,73,19-Jul-17,WM-1,POPR-1,Control,13-Jul-17,red-orange,,,Yes,33,Find,,NA,,,Done,33,,NA,40
+922,73,,ER-H,TRSP,ELEV,,,,,No,33,NA,,NA,,,Done,33,Retry Jan 22nd,NA,40
+1059,73,,WG-H,TRSP,ELEV,,Dark red fuzzy,,,No,33,NA,,NA,,,Done,33,Retry Jan 22nd,NA,40
+913,73,,ER-H,TRSP,ELEV,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+919,73,,ER-H,TRSP,ELEV,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+920,73,,ER-H,TRSP,ELEV,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+921,73,,ER-H,TRSP,ELEV,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1060,73,,WG-H,TRSP,ELEV,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1181,73,,WM-10,POPR-6,Warming,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1182,73,,WM-10,POPR-6,Warming,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1302,73,,WM-10,ACLE-2,Warming,,,,,No,33,NA,,NA,,,Done,33,extracted jan26,NA,40
+1363,73,,WM-1,POPR-1,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1364,73,,WM-1,POPR-1,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1365,73,,WM-1,POPR-1,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1495,73,,WM-1,ACLE-6,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1496,73,,WM-1,ACLE-6,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1497,73,,WM-1,ACLE-6,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1539,73,,WM-9,FETH-2,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1540,73,,WM-9,FETH-2,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1541,73,,WM-9,FETH-2,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1542,73,,WM-9,FETH-2,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1543,73,,WM-9,FETH-2,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+1303,73,,WM-10,ACLE-2,Warming,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+299,110,20-Jul-17,WM-10,ACLE-7,Warming,14-Jul-17,"rusty,opaque",,,Yes,33,Find,,NA,,,Done,33,,NA,40
+1215,158,,WG-L,ACNE,ELEV,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+405,158,21-Jul-17,WG-L,ACNE,ELEV,11-Jul-17,dark orange,,,Yes,33,Find,,NA,,,Done,33,,NA,40
+973,158,,ER-H,ACLE,ELEV,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+616,261,26-Jul-17,WM-2,ACLE-7,Warming,,,,,Yes,33,Archived,,NA,,,Done,33,shipped in Plate 4,NA,40
+794,311,28-Jul-17,ER-L,FETH,ELEV,,"Reddish, brown",,,Yes,33,Archived,,NA,,,Done,33,Missing,NA,40
+795,311,,ER-L,FETH,ELEV,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+834,323,28-Jul-17,WM-8,FETH-1,Warming,,reddish black,,,Yes,33,Find,,Sequenced,,,Done,33,,NA,40
+871,340,28-Jul-17,WM-1,FETH-6,Control,,reddish circular,,,Yes,33,Archived,,NA,,,Done,33,,NA,40
+872,340,,WM-1,FETH-6,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+873,340,,WM-1,FETH-6,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+874,340,,WM-1,FETH-6,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+980,384,,WM-9,POPR-2,Control,,,,,No,33,NA,,NA,,,Done,33,Retry Jan 9th,NA,40
+979,384,,WM-9,POPR-2,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+981,384,,WM-9,POPR-2,Control,,,,,No,33,NA,,NA,,,Done,33,,NA,40
+982,384,28-Jul-17,WM-9,POPR-2,Control,,"Dark red center, orange outside",,,Yes,33,Archived,,NA,,,Done,33,,NA,40
+993,390,28-Jul-17,WM-9,ACLE-2,Control,,Dark red ricle,,,Yes,33,Archived,,NA,,,Done,33,,NA,40
+1039,493,3-Aug-17,WM-3,POPR-3,Control,,Reddish brown,,,Yes,33,Archived,,NA,,,Done,33,,NA,40
+1640,594,2-Aug-17,WM-6,POPR-5,Warming,,REddish white,,,Yes,33,Find,,NA,,,Done,33,,NA,40
+280,103,20-Jul-17,WM-10,ACLE-2,Warming,14-Jul-17,"orange, opaque",,,Yes,34,Archived,,Sequenced,ITS1-FL in Plate 2,,Done,34,Retry Jan 9th,59,59
+445,180,21-Jul-17,WM-4,POPR-6,Warming,17-Jul-17,orange,,,Yes,34,Archived,,PCR,5,find_3,Done,34,,59,59
+1574,103,,WM-7,ACLE-4,Control,,,,,No,34,NA,,NA,,,Done,34,,NA,59
+1575,103,,WM-7,ACLE-4,Control,,,,,No,34,NA,,NA,,,Done,34,,NA,59
+1576,103,,WM-7,ACLE-4,Control,,,,,No,34,NA,,NA,,,Done,34,,NA,59
+443,179,,WM-4,POPR-6,Warming,,,,,No,34,NA,,NA,,,Done,34,,NA,59
+47,28,18-Jul-17,WG-L,ACNE,ELEV,11-Jul-17,"opaque, white spots","opaque, white fuzz",,Yes,35,Find,,Sequenced,4,find_4,Done,35,,89,89
+56,32,18-Jul-17,ER-H,ELTR,ELEV,13-Jul-17,opaque,,,Yes,35,Find,ITS1-FL in SP Plate 2,Sequenced,2,find_3,Done,35,PCR failed before,89,89
+55,32,,ER-H,ELTR,ELEV,13-Jul-17,,,,No,35,NA,,NA,,,Done,35,Retry Jan 22nd,NA,89
+1100,507,28-Jul-17,WM-3,POPR-4,Control,,black,brown,,Yes,36,Find,,Sequenced,,,,217,,6,6
+875,341,28-Jul-17,WM-1,FETH-6,Control,,"Black, opaque edge",,,Yes,36,Find,,Sequenced,2,,,36,Shipped in Plate 4,59,59
+412,159,,WG-L,ELEL,ELEV,11-Jul-17,,,,No,36,NA,,NA,,,,,,NA,
+413,159,,WG-L,ELEL,ELEV,11-Jul-17,,,,No,36,NA,,NA,,,,,,NA,
+1313,159,,WG-L,ELEL,ELEV,,,,,No,36,NA,,NA,,,,,,NA,
+1314,159,,WG-L,ELEL,ELEV,,,,,No,36,NA,,NA,,,,,,NA,
+406,159,21-Jul-17,WG-L,ELEL,ELEV,11-Jul-17,"opaque, black center",,,Yes,36,NA,Disregard. There are two cultures labelled 406. One appears to be something different. ,,4 and 5,find_2,,NA,,NA,
+581,246,26-Jul-17,WM-8,POPR-4,Warming,,"Light Pink, circular faded edges",,,Yes,36,Find,,DNA Failed,,find_3,Found,36,,NA,PCR
+876,341,,WM-1,FETH-6,Control,,,,,No,36,NA,,NA,,,,,,NA,
+877,341,,WM-1,FETH-6,Control,,,,,No,36,NA,,NA,,,,,,NA,
+1092,503,28-Jul-17,WG-H,POPR,ELEV,,pinkish translucent,,,Yes,36,Archived,,DNA failed,retryjan22,find_3,send,36,,NA,PCR
+1093,503,,WG-H,POPR,ELEV,,,,,No,36,NA,,NA,,,,36,,NA,
+897,507,,ER-H,ELTR,ELEV,,,,,No,36,NA,,NA,,,,217,Retry Jan 22,NA,
+893,507,,ER-H,ELTR,ELEV,,,,,No,36,NA,,NA,,,,217,,NA,
+894,507,,ER-H,ELTR,ELEV,,,,,No,36,NA,,NA,,,,217,,NA,
+895,507,,ER-H,ELTR,ELEV,,,,,No,36,NA,,NA,,,,217,,NA,
+896,507,,ER-H,ELTR,ELEV,,,,,No,36,NA,,NA,,,,217,,NA,
+898,507,,ER-H,ELTR,ELEV,,,,,No,36,NA,,NA,,,,217,,NA,
+899,507,,ER-H,ELTR,ELEV,,,,,No,36,NA,,NA,,,,217,,NA,
+1101,507,,WM-3,POPR-4,Control,,,,,No,36,NA,,NA,,,,217,,NA,
+1102,507,,WM-3,POPR-4,Control,,,,,No,36,NA,,NA,,,,217,,NA,
+1103,507,,WM-3,POPR-4,Control,,,,,No,36,NA,,NA,,,,217,,NA,
+263,96,20-Jul-17,WM-9,POPR-6,Control,14-Jul-17,"clear, grey opaque",,,Yes,37,Find,,Sequenced,tube,find_2,,235,,25,25
+711,293,26-Jul-17,ER-L,POLE,ELEV,,"Yellow, globby",,,Yes,37,Find,ITS1-FL in SP Plate 3,Sequenced,,,Done,235,,25,25
+44,607,,WG-H,ELTR,ELEV,11-Jul-17,,,,Yes,37,Archived,,Sequenced,2,,,37,,29,29
+265,96,,WM-9,POPR-6,Control,14-Jul-17,,,,No,37,NA,,NA,,,,235,,NA,
+264,96,,WM-9,POPR-6,Control,14-Jul-17,,,,No,37,NA,,NA,,,,235,,NA,
+557,238,22-Jul-17,WM-6,ACLE-5,Warming,18-Jul-17,"white, opaque",,,Yes,37,NA,,DNA Failed,,find_2,Send,261,,NA,PCR
+558,238,,ER-L,ACLE,ELEV,,,,,No,37,NA,,NA,,,,261,,NA,
+713,293,,ER-L,POLE,ELEV,,,,,No,37,NA,,NA,,,Done,235,,NA,
+691,293,26-Jul-17,TR-H,POPR,ELEV,,"Brown/gray, sprawling",,,Yes,37,Find,,PCR,,,,234,,NA,Extract
+709,293,,ER-L,POLE,ELEV,,,,,No,37,NA,,NA,,,Done,235,,NA,
+710,293,,ER-L,POLE,ELEV,,,,,No,37,NA,,NA,,,Done,235,,NA,
+712,293,,ER-L,POLE,ELEV,,,,,No,37,NA,,NA,,,Done,235,,NA,
+249,91,20-Jul-17,WM-9,ACLE-1,Control,14-Jul-17,,white and opaque,,Yes,38,Find,,Sequenced,3,,Done,38,Shipped in Plate 4,39,39
+253,91,,WM-9,ACLE-1,Control,14-Jul-17,,,,No,38,NA,,NA,,,Done,38,Retry Jan 22nd,NA,39
+250,91,,WM-9,ACLE-1,Control,14-Jul-17,,,,No,38,NA,,NA,,,Done,38,,NA,39
+251,91,,WM-9,ACLE-1,Control,14-Jul-17,,,,No,38,NA,,NA,,,Done,38,,NA,39
+252,91,,WM-9,ACLE-1,Control,14-Jul-17,,,,No,38,NA,,NA,,,Done,38,,NA,39
+1600,91,,WM-9,ACLE-1,Control,,,,,No,38,NA,,NA,,,Done,38,,NA,39
+1601,91,,WM-9,ACLE-1,Control,,,,,No,38,NA,,NA,,,Done,38,,NA,39
+1602,91,,WM-9,ACLE-1,Control,,,,,No,38,NA,,NA,,,Done,38,,NA,39
+1603,91,,WM-9,ACLE-1,Control,,,,,No,38,NA,,NA,,,Done,38,,NA,39
+1604,91,,WM-9,ACLE-1,Control,,,,,No,38,NA,,NA,,,Done,38,,NA,39
+1605,91,,WM-9,ACLE-1,Control,,,,,No,38,NA,,NA,,,Done,38,,NA,39
+281,104,20-Jul-17,WM-9,FETH-3,Control,14-Jul-17,"grey, opaque",,,Yes,38,Find,,Sequenced,,,Done,38,,67,67
+364,133,20-Jul-17,WM-7,ACLE-2,Control,14-Jul-17,opaque,,,Yes,38,Find,,Sequenced,,,Done,38,,67,67
+1250,104,,WM-10,POPR-5,Warming,,,,,No,38,NA,,NA,,,Done,38,Might be bioilluminescence. ,NA,67
+1251,104,,WM-10,POPR-5,Warming,,,,,No,38,NA,,NA,,,Done,38,,NA,67
+1249,104,,WM-10,POPR-5,Warming,,,,,No,38,NA,,NA,,,Done,38,,NA,67
+282,104,,WM-9,FETH-3,Control,14-Jul-17,,,,No,38,NA,,NA,,,Done,38,,NA,67
+283,104,,WM-9,FETH-3,Control,14-Jul-17,,,,No,38,NA,,NA,,,Done,38,,NA,67
+284,104,,WM-9,FETH-3,Control,14-Jul-17,,,,No,38,NA,,NA,,,Done,38,,NA,67
+1252,104,,WM-10,POPR-5,Warming,,,,,No,38,NA,,NA,,,Done,38,,NA,67
+1253,104,,WM-10,POPR-5,Warming,,,,,No,38,NA,,NA,,,Done,38,,NA,67
+1559,104,,WM-9,FETH-3,Control,,,,,No,38,NA,,NA,,,Done,38,,NA,67
+195,75,19-Jul-17,WM-2,POPR-1,Warming,13-Jul-17,"opaque, yellowish tinge",,,Yes,39,Find,,Sequenced,5,find_2,Done,38,,59,59
+196,75,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,39,NA,,NA,,,Done,38,,NA,59
+197,75,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,39,NA,,NA,,,Done,38,,NA,59
+199,75,,WM-2,POPR-1,Warming,13-Jul-17,,,,No,39,NA,,NA,,,Done,38,,NA,59
+433,173,21-Jul-17,WM-3,FETH-4,Control,17-Jul-17,opaque,,,Yes,40,Find,,Sequenced,2,find,Done,272,,50,50
+1402,173,,WM-3,FETH-5,Control,,,,,No,40,NA,,NA,,,Done,272,,NA,50
+582,247,26-Jul-17,WM-8,POPR-4,Warming,,Bright white,White but more of a gradient,,Yes,40,Archived,,Sequenced,5,find_2,Done,151,,68,68
+583,247,,WM-8,POPR-4,Warming,,,,,No,40,NA,,NA,,,Done,151,,NA,68
+421,166,,WM-3,ACLE-7,Control,17-Jul-17,,,,No,41,NA,,NA,,,,,,NA,
+422,166,21-Jul-17,WM-3,ACLE-7,Control,17-Jul-17,"opaque, thready",,,Yes,41,Find,,CTB6,3,Do_PCR of plate 3 again,PCR,,,NA,PCR
+423,166,,WM-3,ACLE-7,Control,17-Jul-17,,,,No,41,NA,,NA,,,,,,NA,
+1,1,14-Jul-17,WG-L,POPR,ELEV,11-Jul-17,,,,Yes,42,Archived,,Sequenced,,find,,218,,19,19
+514,218,22-Jul-17,WM-6,FETH-3,Warming,18-Jul-17,"white, webby","yellow, white hue",,Yes,42,Archived,,Sequenced,Tube,find_2,,218,,19,19
+1224,1,,WG-L,POPR,ELEV,,,,,No,42,NA,,NA,,,,,,NA,19
+1225,1,,WG-L,POPR,ELEV,,,,,No,42,NA,,NA,,,,,,NA,19
+1226,1,,WG-L,POPR,ELEV,,,,,No,42,NA,,NA,,,,,,NA,19
+317,115,20-Jul-17,WM-10,FETH-1,Warming,14-Jul-17,white and puffy,"dark green middle, grey radial",,Yes,42,Find,,Sequenced,5,find_3,Done,14,,29,29
+318,115,,WM-10,FETH-1,Warming,14-Jul-17,,,,No,42,NA,,NA,,,,,,NA,29
+319,115,,WM-10,FETH-1,Warming,14-Jul-17,,,,No,42,NA,,NA,,,,,,NA,29
+320,115,,WM-10,FETH-1,Warming,14-Jul-17,,,,No,42,NA,,NA,,,,,,NA,29
+653,605,26-Jul-17,WM-2,FETH-2,Warming,,"black center, gradient to edge",,Need to fill in morphotype number,Yes,42,Archived,,Sequenced,Tube,,,,,40,40
+1533,575,4-Aug-17,WM-8,FETH-4,Warming,,Brown fuzzy,,Needs a new number,Yes,42,Archived,,Sequenced,,find,,220,,47,47
+478,199,22-Jul-17,TR-L,TRSP,ELEV,17-Jul-17,white opaque,,,Yes,42,Archived,,Sequenced,4,find_3,Send,,,94,94
+479,199,,TR-L,TRSP,ELEV,,,,,No,42,NA,,NA,,,,,,NA,94
+14,10,18-Jul-17,WG-L,ACLE,ELEV,11-Jul-17,"white, clear color",,,Yes,42,Archived,,NA,,,,,,NA,PCR
+45,27,,WG-H,ELTR,ELEV,11-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+46,27,18-Jul-17,WG-H,ELTR,ELEV,11-Jul-17,,,,Yes,42,Archived,,DNA Failed,,,,,,NA,Extract
+1265,27,,TR-L,POLE,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+120,50,,WM-1,FETH-1,Control,12-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+113,50,,WM-1,FETH-1,Control,12-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+117,50,,WM-1,FETH-1,Control,12-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+118,50,18-Jul-17,WM-1,FETH-1,Control,12-Jul-17,opaque,,,Yes,42,Archived,,DNA failed,Tube,,PCR,,,NA,PCR
+119,50,,WM-1,FETH-1,Control,12-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+116,50,,WM-1,FETH-1,Control,12-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+114,50,,WM-1,FETH-1,Control,12-Jul-17,,,,No,42,NA,,NA,,,,,Shipped in Plate 4,NA,
+124,53,,WM-2,FETH-2,Warming,12-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+125,53,,WM-2,FETH-2,Warming,12-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+126,53,,WM-2,FETH-2,Warming,12-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+127,53,,WM-2,FETH-2,Warming,12-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+128,53,,WM-2,FETH-2,Warming,12-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+129,53,18-Jul-17,WM-2,FETH-2,Warming,12-Jul-17,opaque,,,Yes,42,Archived,,DNA failed,,,,,,NA,Extract
+240,85,,WM-9,ACLE-2,Control,14-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+237,85,20-Jul-17,WM-9,ACLE-2,Control,14-Jul-17,opaque greyish,,,Yes,42,Archived,,DNA Failed,,,,,,NA,Extract
+238,85,,WM-9,ACLE-2,Control,14-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+239,85,,WM-9,ACLE-2,Control,14-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+241,85,,WM-9,ACLE-2,Control,14-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+347,123,20-Jul-17,WM-7,FETH-1,Control,14-Jul-17,opaque,,,Yes,42,Archived,,DNA Failed,,find_4,,,,NA,
+630,123,,WM-7,FETH-1,Control,,,,,No,42,NA,,NA,,,,,Shipped in Plate 4,NA,
+635,123,,WM-7,FETH-1,Control,,,,,No,42,NA,,NA,,,,,,NA,
+636,123,,WM-7,FETH-1,Control,,,,,No,42,NA,,NA,,,,,,NA,
+1248,123,,WM-10,POPR-5,Warming,,,,,No,42,NA,,NA,,,,,,NA,
+360,130,,WM-8,FETH-6,Warming,14-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+361,130,,WM-8,FETH-6,Warming,14-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+1398,171,,WM-3,FETH-5,Control,,,,,No,42,NA,,NA,,,,,,NA,
+1399,171,,WM-3,FETH-5,Control,,,,,No,42,NA,,NA,,,,,,NA,
+431,171,21-Jul-17,WM-3,FETH-5,Control,17-Jul-17,opaque,,,Yes,42,Archived,,NA,,find_2,,,,NA,
+1160,171,,WM-10,FETH-1,Warming,,,,,No,42,NA,,NA,,,,,,NA,
+1400,171,,WM-3,FETH-5,Control,,,,,No,42,NA,,NA,,,,,Missing,NA,
+434,174,21-Jul-17,WM-4,FETH-4,Warming,17-Jul-17,opaque,,,Yes,42,Archived,,NA,,find_3,,,,NA,Extract
+435,174,,WM-4,FETH-4,Warming,17-Jul-17,,,,No,42,NA,,NA,,,,,,NA,
+465,191,,TR-L,ELTR,ELEV,,,,,No,42,NA,,NA,,,,,Shipped in Plate 4,NA,
+460,191,22-Jul-17,TR-L,ELTR,ELEV,17-Jul-17,"clear, opaque gray",,,Yes,42,Archived,,NA,,,,,,NA,
+461,191,,TR-L,ELTR,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+462,191,,TR-L,ELTR,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+463,191,,TR-L,ELTR,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+466,191,,TR-L,ELTR,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+464,191,,TR-L,ELTR,ELEV,,,,,No,42,NA,,NA,,,,,Retry Jan 22nd,NA,
+485,202,22-Jul-17,TR-L,ACNE,ELEV,17-Jul-17,"opaque, white",,,Yes,42,Archived,,NA,,,,,,NA,Extract
+1088,202,,TR-L,ACNE,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+1089,202,,TR-L,ACNE,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+1261,202,,WM-2,POPR-3,Warming,,,,,No,42,NA,,NA,,,,,,NA,
+1090,202,,TR-L,ACNE,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+821,318,28-Jul-17,ER-L,ACNE,ELEV,,"reddish, black center",,,Yes,42,Find,,DNA Failed,retryjan22,,send,,,NA,
+1036,318,,WM-3,POPR-3,Control,,,,,No,42,NA,,NA,,,,,,NA,
+890,388,,ER-H,ELTR,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+891,388,,ER-H,ELTR,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+892,388,,ER-H,ELTR,ELEV,,,,,No,42,NA,,NA,,,,,,NA,
+990,388,28-Jul-17,WM-9,ACLE-2,Control,,"dark gray, fuzzy",,,Yes,42,Archived,,NA,,find_3,,,,NA,Extract
+992,388,,WM-9,ACLE-2,Control,,,,,No,42,NA,,NA,,,,,,NA,
+991,389,28-Jul-17,WM-9,ACLE-2,Control,,"yellow, irregular shape",,,Yes,42,Archived,,DNA failed,,find_3,PCR,,,NA,
+1508,573,,WM-2,ACLE-2,Warming,,,,,No,42,NA,,NA,,,,,Shipped in Plate 4,NA,
+1507,573,2-Aug-17,WM-2,ACLE-2,Warming,,"White gree, small dots",,,Yes,42,Archived,,NA,,,,,,NA,
+1509,573,,WM-2,ACLE-2,Warming,,,,,No,42,NA,,NA,,,,,,NA,
+1516,575,2-Aug-17,WM-5,FETH-1,Control,,White/green dots.,,Need new morphotype number,Yes,42,Archived,says sampled but cannot find,NA,,,,220,Shipped in Plate 4,NA,
+51,30,18-Jul-17,WG-L,ACNE,ELEV,11-Jul-17,"opaque, gray tinge","opaque, gray tinge",,Yes,43,Archived,,Sequenced,,,Done,43,,66,66
+81,40,18-Jul-17,ER-L,ACLE,ELEV,12-Jul-17,black/green,,,Yes,43,Archived,,Sequenced,,,Done,43,,66,66
+50,30,,WG-L,ACNE,ELEV,11-Jul-17,,,,No,43,NA,,NA,,,Done,43,,NA,66
+1212,30,,WG-L,ACNE,ELEV,,,,,No,43,NA,,NA,,,Done,43,,NA,66
+1213,30,,WG-L,ACNE,ELEV,,,,,No,43,NA,,NA,,,Done,43,,NA,66
+1214,30,,WG-L,ACNE,ELEV,,,,,No,43,NA,,NA,,,Done,43,,NA,66
+1417,30,,WM-5,POPR-2,Control,,,,,No,43,NA,,NA,,,Done,43,,NA,66
+1418,30,,WM-5,POPR-2,Control,,,,,No,43,NA,,NA,,,Done,43,,NA,66
+1419,30,,WM-2,ACLE-2,Warming,,,,,No,43,NA,,NA,,,Done,43,,NA,66
+80,40,,ER-L,ACLE,ELEV,12-Jul-17,,,,No,43,NA,,NA,,,Done,43,,NA,66
+561,40,,ER-L,ACLE,ELEV,,,,,No,43,NA,,NA,,,Done,43,,NA,66
+1176,40,,WG-L,ELTR,ELEV,,,,,No,43,NA,,NA,,,Done,43,,NA,66
+375,138,20-Jul-17,WM-8,ACLE-6,Warming,14-Jul-17,"opaque, black",,,Yes,43,Archived,,NA,,,Done,43,,NA,66
+596,138,,WM-8,ACLE-6,Warming,,,,,No,43,NA,,NA,,,Done,43,,NA,66
+599,138,,WM-8,ACLE-6,Warming,,,,,No,43,NA,,NA,,,Done,43,,NA,66
+457,188,21-Jul-17,WG-H,POPR,ELEV,11-Jul-17,brown,,,Yes,43,Archived,,NA,,,Done,43,"Retry Jan 9th, also in retry Jan 22",NA,66
+414,162,21-Jul-17,WG-L,ELTR,ELEV,11-Jul-17,"pink, opaque center",,,Yes,44,Find,,Sequenced,,,,271,,92,92
+444,179,21-Jul-17,WM-4,POPR-6,Warming,17-Jul-17,"opaque, clear&webby",,,Yes,44,Find,,NA,,Find,,216,,NA,Extract
+430,170,21-Jul-17,WM-4,ACLE-3,Warming,17-Jul-17,opaque,,,Yes,45,Archived,,Sequenced,5,find_3,Done,45,,49,49
+563,240,26-Jul-17,ER-L,ACLE,ELEV,,"Yellow, white slimey",,,Yes,45,NA,,Sequenced,5,find_2,Done,45,,49,49
+82,41,18-Jul-17,ER-L,ACLE,ELEV,12-Jul-17,opaque,,,Yes,45,Archived,,DNA extracted,,,Done,45,,NA,49
+83,41,,ER-L,ACNE,ELEV,12-Jul-17,,,,No,45,NA,,NA,,,Done,45,,NA,49
+167,67,19-Jul-17,WM-2,POPR-2,Warming,13-Jul-17,pink,,,Yes,45,Archived,,NA,,,Done,45,,NA,49
+1014,67,,WM-7,ACLE-1,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1015,67,,WM-7,ACLE-1,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1016,67,,WM-7,ACLE-1,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1017,67,,WM-7,ACLE-1,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1610,134,,WM-7,ACLE-2,Control,,,,,No,45,NA,,NA,,,Done,45,Retry Jan 22nd,NA,49
+365,134,20-Jul-17,WM-7,ACLE-2,Control,14-Jul-17,"opaque, pink",,,Yes,45,Archived,,NA,,,Done,45,,NA,49
+366,134,,WM-7,ACLE-2,Control,14-Jul-17,,,,No,45,NA,,NA,,,Done,45,,NA,49
+367,134,,WM-7,ACLE-2,Control,14-Jul-17,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1607,134,,WM-7,ACLE-2,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1608,134,,WM-7,ACLE-2,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1609,134,,WM-7,ACLE-2,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+424,167,21-Jul-17,WM-4,ACLE-1,Warming,17-Jul-17,"opaque, stringy",,,Yes,45,Archived,,PCR,4,find_3,Done,45,,NA,49
+425,167,,WM-4,ACLE-1,Warming,17-Jul-17,,,,No,45,NA,,NA,,,Done,45,,NA,49
+426,167,,WM-4,ACLE-1,Warming,17-Jul-17,,,,No,45,NA,,NA,,,Done,45,extracted jan26,NA,49
+1445,170,,WM-4,ACLE-1,Warming,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+565,240,,ER-L,ACLE,ELEV,,,,,No,45,NA,,NA,,,Done,45,Retry Jan 9th,NA,49
+564,240,,ER-L,ACLE,ELEV,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+566,240,,ER-L,ACLE,ELEV,,,,,No,45,NA,,PCR,3,,Done,45,,NA,49
+567,240,,ER-L,ACLE,ELEV,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+568,240,,ER-L,ACLE,ELEV,,,,,No,45,Archived,,NA,,,Done,45,,NA,49
+661,278,,WM-10,ACLE-3,Warming,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+666,278,,WM-10,ACLE-3,Warming,,,,,No,45,NA,,NA,,,Done,45,Shipped in Plate 4,NA,49
+663,278,,WM-10,ACLE-3,Warming,,,,,No,45,NA,,NA,,,Done,45,Shipped in Plate 4,NA,49
+659,278,26-Jul-17,WM-10,ACLE-3,Warming,,,,,Yes,45,Archived,,NA,,,Done,45,,NA,49
+660,278,,WM-10,ACLE-3,Warming,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+662,278,,WM-10,ACLE-3,Warming,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+664,278,,WM-10,ACLE-3,Warming,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+859,335,28-Jul-17,WM-1,ACLE-2,Control,,Pink fuzzy,,,Yes,45,Archived,,NA,,,Done,45,,NA,49
+860,335,,WM-1,ACLE-2,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+975,383,28-Jul-17,WM-9,POPR-2,Control,,white,,,Yes,45,Archived,,NA,,,Done,45,,NA,49
+1043,495,,WM-3,POPR-6,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1044,495,,WM-3,POPR-6,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1047,495,,WM-3,POPR-6,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1048,495,,WM-3,POPR-6,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1049,495,,WM-3,POPR-6,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1050,495,,WM-3,POPR-6,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1051,495,,WM-3,POPR-6,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1058,495,29-Jul-17,WG-H,TRSP,ELEV,,"Yellow center, opaque bamd around it",,needs new number,Yes,45,Archived,,NA,,,Done,45,PCR failed before,NA,49
+1046,495,,WM-3,POPR-6,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1045,495,,WM-3,POPR-6,Control,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+1062,497,29-Jul-17,WG-H,TRSP,ELEV,,"yellow center, opaque edge. gradient",,,Yes,45,Archived,,NA,,,Done,45,,NA,49
+1063,497,,WG-H,TRSP,ELEV,,,,,No,45,NA,,NA,,,Done,45,,NA,49
+856,332,28-Jul-17,ER-L,ELTR,ELEV,,yellow circles,,,Yes,45,Find,,ITS doesn't match but CTB read is 100% match with 563,,,Done,45,,85,85
+54,31,18-Jul-17,ER-H,FESA,ELEV,13-Jul-17,opaque,"stringy, opaque",,Yes,46,Archived,,Sequenced,,,Done,46,Shipped in Plate 4,59,59
+272,99,20-Jul-17,WM-9,FETH-1,Control,14-Jul-17,"opaque, creamy grey",,,Yes,46,Archived,ITS1-FL in SP Plate 2,Sequenced,,,Done,46,,59,59
+52,31,,ER-H,FESA,ELEV,13-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+53,31,,ER-H,FESA,ELEV,13-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+1209,31,,TR-L,ACLE,ELEV,,,,,No,46,NA,,NA,,,Done,46,Shipped in Plate 4,NA,59
+155,64,,WM-1,POPR-3,Control,13-Jul-17,,,,No,46,NA,,NA,,,Done,46,Missing,NA,59
+156,64,,WM-1,POPR-3,Control,13-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+886,64,,WM-1,POPR-3,Control,,,,,No,46,NA,,NA,,,Done,46,,NA,59
+154,64,19-Jul-17,WM-1,POPR-3,Control,13-Jul-17,yellowish tint,,,Yes,46,Archived,,NA,,,Done,46,,NA,59
+259,93,,WM-9,FETH-2,Control,14-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+258,93,,WM-9,FETH-2,Control,14-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+255,93,20-Jul-17,WM-9,FETH-2,Control,14-Jul-17,white opaque,,,Yes,46,Archived,,NA,,,Done,46,,NA,59
+257,93,,WM-9,FETH-2,Control,14-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+256,93,,WM-9,FETH-2,Control,14-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+304,111,,WM-10,ACLE-7,Warming,14-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+301,111,,WM-10,ACLE-7,Warming,14-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+300,111,20-Jul-17,WM-10,ACLE-7,Warming,14-Jul-17,black center,,,Yes,46,Archived,,NA,,,Done,46,,NA,59
+302,111,,WM-10,ACLE-7,Warming,14-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+303,111,,WM-10,ACLE-7,Warming,14-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+305,111,,WM-10,ACLE-7,Warming,14-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+1376,111,,WM-10,ACLE-7,Warming,,,,,No,46,NA,,NA,,,Done,46,,NA,59
+1377,111,,WM-10,ACLE-7,Warming,,,,,No,46,NA,,NA,,,Done,46,,NA,59
+356,128,20-Jul-17,WM-7,FETH-4,Control,14-Jul-17,opaque,,,Yes,46,Archived,,NA,,,Done,46,,NA,59
+357,128,,WM-7,FETH-4,Control,14-Jul-17,,,,No,46,NA,,NA,,,Done,46,,NA,59
+374,137,20-Jul-17,WM-8,ACLE-1,Warming,14-Jul-17,"opaque, orange tinge",,,Yes,46,Find,,NA,,,Done,46,,NA,59
+107,49,18-Jul-17,WM-1,FETH-1,Control,12-Jul-17,opaque,,,Yes,47,Archived,,Sequenced,4,find_3,Done,,,59,59
+1350,49,,WM-1,FETH-1,Control,,,,,No,47,NA,,NA,,,Done,,,NA,59
+108,49,,WM-1,FETH-1,Control,12-Jul-17,,,,No,47,NA,,NA,,,Done,,,NA,59
+111,49,,WM-1,FETH-1,Control,12-Jul-17,,,,No,47,NA,,NA,,,Done,,,NA,59
+112,49,,WM-1,FETH-1,Control,12-Jul-17,,,,No,47,NA,,NA,,,Done,,,NA,59
+1351,49,,WM-1,FETH-1,Control,,,,,No,47,NA,,NA,,,Done,,,NA,59
+1352,49,,WM-1,FETH-1,Control,,,,,No,47,NA,,NA,,,Done,,,NA,59
+109,49,,WM-1,FETH-1,Control,12-Jul-17,,,,No,47,NA,,NA,,,Done,,,NA,59
+1353,49,,WM-1,FETH-1,Control,,,,,No,47,NA,,NA,,,Done,,Shipped in Plate 4,NA,59
+459,190,22-Jul-17,TR-L,ELTR,ELEV,17-Jul-17,"yellow, white ??""ell",,,Yes,48,Archived,,Sequenced,2,find,Done,48,,59,59
+504,211,22-Jul-17,TR-H,ELTR,ELEV,17-Jul-17,orange hue,,,Yes,49,Find,,Sequenced,,,Done,49,Shipped in Plate 4,59,59
+432,172,21-Jul-17,WM-3,FETH-2,Control,17-Jul-17,opaque,,,Yes,50,Archived,,Sequenced,,,Done,50,,59,59
+442,178,21-Jul-17,WM-3,POPR-4,Control,17-Jul-17,opaque,,,Yes,50,Archived,,Sequenced,,,Done,50,,59,59
+39,24,18-Jul-17,WG-L,ACLE,ELEV,11-Jul-17,white with pink tinge,,,Yes,50,Archived,,NA,,,Done,50,extracted jan26,NA,59
+205,76,,WM-2,ACLE-3,Warming,13-Jul-17,,,,No,50,NA,,NA,,,Done,50,,NA,59
+207,76,,WM-2,ACLE-3,Warming,13-Jul-17,,,,No,50,NA,,NA,,,Done,50,Shipped in Plate 4,NA,59
+203,76,,WM-2,ACLE-3,Warming,13-Jul-17,,,,No,50,NA,,NA,,,Done,50,,NA,59
+204,76,,WM-2,ACLE-3,Warming,13-Jul-17,,,,No,50,NA,,NA,,,Done,50,,NA,59
+206,76,19-Jul-17,WM-2,ACLE-3,Warming,13-Jul-17,"opaque, yellow tinge, black ends",,,Yes,50,Archived,,NA,,,Done,50,,NA,59
+208,76,,WM-2,ACLE-3,Warming,13-Jul-17,,,,No,50,NA,,NA,,,Done,50,,NA,59
+209,76,,WM-2,ACLE-3,Warming,13-Jul-17,,,,No,50,NA,,NA,,,Done,50,,NA,59
+210,76,,WM-2,ACLE-3,Warming,13-Jul-17,,,,No,50,NA,,NA,,,Done,50,,NA,59
+211,76,,WM-2,ACLE-3,Warming,13-Jul-17,,,,No,50,NA,,NA,,,Done,50,,NA,59
+1614,76,,WM-8,ACLE-3,Warming,,,,,No,50,NA,,NA,,,Done,50,,NA,59
+1615,76,,WM-8,ACLE-3,Warming,,,,,No,50,NA,,NA,,,Done,50,,NA,59
+1616,76,,WM-8,ACLE-3,Warming,,,,,No,50,NA,,NA,,,Done,50,,NA,59
+1401,172,,WM-3,FETH-5,Control,,,,,No,50,NA,,NA,,,Done,50,extracted jan26,NA,59
+1403,172,,WM-3,FETH-5,Control,,,,,No,50,NA,,NA,,,Done,50,Shipped in Plate 4,NA,59
+1276,206,,WG-L,POLE,ELEV,,,,,No,50,NA,,NA,,,Done,50,Retry Jan 22nd,NA,59
+490,206,22-Jul-17,TR-H,FESA,ELEV,17-Jul-17,yellow hue,,,Yes,50,Archived,,NA,,,Done,50,,NA,59
+513,217,22-Jul-17,WM-6,POPR-4,Warming,18-Jul-17,yellow hue,,,Yes,50,Archived,,NA,,,Done,50,,NA,59
+1656,217,,WM-6,POPR-4,Warming,,,,,No,50,NA,,NA,,,Done,50,,NA,59
+1657,217,,WM-6,POPR-4,Warming,,,,,No,50,NA,,NA,,,Done,50,,NA,59
+539,229,22-Jul-17,WM-5,POPR-6,Control,18-Jul-17,yellow hue,,,Yes,50,Archived,,NA,,,Done,50,,NA,59
+540,229,,WM-5,POPR-6,Control,,,,,No,50,NA,,NA,,,Done,50,,NA,59
+1345,229,,WM-1,POPR-1,Control,,,,,No,50,NA,,NA,,,Done,50,,NA,59
+1346,229,,WM-1,POPR-1,Control,,,,,No,50,NA,,NA,,,Done,50,Shipped in Plate 4,NA,59
+547,232,22-Jul-17,WM-5,ACLE-2,Control,18-Jul-17,yellow hue,,,Yes,50,Archived,,NA,,,Done,50,,NA,59
+553,236,22-Jul-17,WM-6,ACLE-4,Warming,18-Jul-17,yellowy hue,,,Yes,50,Archived,,NA,,,Done,50,,NA,59
+554,236,,WM-6,ACLE-4,Warming,,,,,No,50,NA,,NA,,,Done,50,,NA,59
+220,80,19-Jul-17,WM-1,ACLE-2,Control,13-Jul-17,red-orange,,,Yes,51,Find,,Sequenced,3,find,Done,51,,59,59
+221,80,,WM-1,ACLE-2,Control,13-Jul-17,,,,No,51,NA,,NA,,,Done,51,,NA,59
+559,80,,ER-L,ACLE,ELEV,,,,,No,51,NA,,NA,,,Done,51,,NA,59
+560,80,,ER-L,ACLE,ELEV,,,,,No,51,NA,,NA,,,Done,51,,NA,59
+139,58,19-Jul-17,WM-1,ACLE-6,Control,13-Jul-17,"yellowish, clear & webby",,,Yes,52,Archived,,Sequenced,2 also in plate 5,find_3,Done,52,,59,59
+140,58,,WM-1,ACLE-6,Control,13-Jul-17,,,,No,52,NA,,NA,,,Done,52,,NA,59
+141,58,,WM-1,ACLE-6,Control,13-Jul-17,,,,No,52,NA,,NA,,,Done,52,,NA,59
+142,58,,WM-1,ACLE-6,Control,13-Jul-17,,,,No,52,NA,,NA,,,Done,52,,NA,59
+143,58,,WM-1,ACLE-6,Control,13-Jul-17,,,,No,52,NA,,NA,,,Done,52,,NA,59
+16,12,18-Jul-17,WG-L,POPR,ELEV,11-Jul-17,orangey yellow,,,Yes,53,Find,,Sequenced,,,Done,53,,59,59
+242,86,20-Jul-17,WM-9,ACLE-6,Control,14-Jul-17,orange opaque,,,Yes,53,Find,,Sequenced,4,find_2,Done,53,,59,59
+20,12,,WG-L,POPR,ELEV,11-Jul-17,,,,No,53,NA,,NA,,,Done,53,,NA,59
+19,12,,WG-L,POPR,ELEV,11-Jul-17,,,,No,53,NA,,NA,,,Done,53,,NA,59
+1228,12,,WG-L,POPR,ELEV,,,,,No,53,NA,,NA,,,Done,53,,NA,59
+1244,12,,WG-L,FESA,ELEV,,,,,No,53,NA,,NA,,,Done,53,,NA,59
+254,92,20-Jul-17,WM-9,FETH-2,Control,14-Jul-17,yellow opaque,,,Yes,53,Find,,DNA failed,,,Done,53,Shipped in Plate 4,NA,59
+530,225,22-Jul-17,WM-5,POPR-2,Control,18-Jul-17,black center,,,Yes,54,Find,ITS1-FL in SP Plate 2,Sequenced,,,Done,54,,59,59
+535,226,22-Jul-17,WM-5,POPR-2,Control,18-Jul-17,yellow hue,,,Yes,54,Find,ITS1-FL in SP Plate 2,Sequenced,,,Done,54,,59,59
+416,164,,WM-3,ACLE-5,Control,17-Jul-17,,,,No,54,NA,,NA,,,Done,54,,NA,59
+417,164,21-Jul-17,WM-3,ACLE-5,Control,17-Jul-17,"opaque, yellow tinge",,,Yes,54,Archived,,NA,,,Done,54,,NA,59
+418,164,,WM-3,ACLE-5,Control,17-Jul-17,,,,No,54,NA,,NA,,,Done,54,,NA,59
+531,225,,WM-5,POPR-2,Control,,,,,No,54,NA,,NA,,,Done,54,,NA,59
+532,225,,WM-5,POPR-2,Control,,,,,No,54,NA,,NA,,,Done,54,,NA,59
+533,225,,WM-5,POPR-2,Control,,,,,No,54,NA,,NA,,,Done,54,,NA,59
+534,225,,WM-5,POPR-2,Control,,,,,No,54,NA,,NA,,,Done,54,,NA,59
+480,200,22-Jul-17,TR-L,POLE,ELEV,17-Jul-17,"red-orange, pinkish",,,Yes,55,Find,,Sequenced,3,,Done,55,,59,59
+436,175,21-Jul-17,WM-4,FETH-4,Warming,17-Jul-17,"opaque, orange tinge",,,No,55,NA,,NA,,,Done,55,,NA,59
+1099,175,,WG-H,POPR,ELEV,,,,,No,55,NA,,NA,,,Done,55,,NA,59
+1369,175,,WM-3,FETH-4,Control,,,,,No,55,NA,,NA,,,Done,55,,NA,59
+1370,175,,WM-3,FETH-4,Control,,,,,No,55,NA,,NA,,,Done,55,,NA,59
+1371,175,,WM-3,FETH-4,Control,,,,,No,55,NA,,NA,,,Done,55,,NA,59
+1373,175,,WM-3,FETH-4,Control,,,,,No,55,NA,,NA,,,Done,55,,NA,59
+1397,175,,WM-3,FETH-5,Control,,,,,No,55,NA,,NA,,,Done,55,,NA,59
+1372,175,,WM-3,FETH-4,Control,,,,,No,55,NA,,NA,,,Done,55,Shipped in Plate 4,NA,59
+482,200,,TR-L,POLE,ELEV,,,,,No,55,NA,,NA,,,Done,55,Retry Jan 22nd,NA,59
+483,200,,TR-L,POLE,ELEV,,,,,No,55,NA,,NA,,,Done,55,,NA,59
+481,200,,TR-L,POLE,ELEV,,,,,No,55,NA,,NA,,,Done,55,,NA,59
+150,63,19-Jul-17,WM-2,ACLE-2,Warming,13-Jul-17,"opaque, orange tinge",,,Yes,56,Find,,Sequenced,,,Done,56,,59,59
+851,330,,ER-L,ELTR,ELEV,,,,,No,56,Find,,Sequenced,ITS1-FL in SP Plate 2,,Done,56,,59,59
+1227,13,,WG-L,POPR,ELEV,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+17,13,18-Jul-17,WG-L,POPR,ELEV,11-Jul-17,white + odd black spot,,,Yes,56,Find,,NA,,,Done,56,shipped in Plate 4,NA,59
+30,20,18-Jul-17,WG-H,ACLE,ELEV,11-Jul-17,pinkish,clear,,Yes,56,Archived,,NA,,,Done,56,,NA,59
+31,20,,WG-H,ACLE,ELEV,11-Jul-17,,,,No,56,NA,,NA,,,Done,56,,NA,59
+41,26,18-Jul-17,WG-H,POPR,ELEV,11-Jul-17,"white, no black",,,Yes,56,Find,,NA,,,Done,56,shipped in Plate 4,NA,59
+146,61,19-Jul-17,WM-2,POPR-3,Warming,13-Jul-17,"opaque, orange tinge",,,Yes,56,Archived,,NA,,,Done,56,,NA,59
+152,63,,WM-2,ACLE-2,Warming,13-Jul-17,,,,No,56,NA,,NA,,,Done,56,,NA,59
+151,63,,WM-2,ACLE-2,Warming,13-Jul-17,,,,No,56,NA,,NA,,,Done,56,,NA,59
+153,63,,WM-2,ACLE-2,Warming,13-Jul-17,,,,No,56,NA,,NA,,,Done,56,,NA,59
+1506,63,,WM-2,ACLE-2,Warming,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+1511,63,,WM-2,ACLE-2,Warming,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+274,101,20-Jul-17,WM-10,ACLE-2,Warming,14-Jul-17,"black, orange",,,Yes,56,Find,,NA,,,Done,56,,NA,59
+1294,101,,WM-10,ACLE-2,Warming,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+1301,101,,WM-10,ACLE-2,Warming,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+334,118,20-Jul-17,WM-10,ACLE-3,Warming,14-Jul-17,yellow opaque,,,Yes,56,Find,,NA,,,Done,56,,NA,59
+342,121,20-Jul-17,WM-10,POPR-5,Warming,14-Jul-17,orange/yellow opaque,,,Yes,56,Find,,NA,,,Done,56,,NA,59
+1590,127,,WM-7,FETH-3,Control,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+355,127,20-Jul-17,WM-7,FETH-3,Control,14-Jul-17,opaque,,,Yes,56,Find,,NA,,,Done,56,,NA,59
+1586,127,,WM-7,FETH-3,Control,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+1587,127,,WM-7,FETH-3,Control,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+1588,127,,WM-7,FETH-3,Control,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+1589,127,,WM-7,FETH-3,Control,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+1591,127,,WM-7,FETH-3,Control,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+1592,127,,WM-7,FETH-3,Control,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+437,176,21-Jul-17,WM-4,FETH-7,Warming,17-Jul-17,opaque,,,Yes,56,Archived,,NA,,,Done,56,,NA,59
+578,176,,WM-4,FETH-7,Warming,,,,,Yes,56,Archived,,PCR,4,Not needed,Done,56,,NA,59
+579,176,,WM-4,FETH-7,Warming,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+852,330,28-Jul-17,ER-L,ELTR,ELEV,,"yellow, fuzzy",,,Yes,56,NA,,NA,,,Done,56,,NA,59
+853,330,,ER-L,ELTR,ELEV,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+854,330,,ER-L,ELTR,ELEV,,,,,No,56,NA,,NA,,,Done,56,,NA,59
+94,44,18-Jul-17,ER-L,POLE,ELEV,12-Jul-17,opaque,,,Yes,57,Find,,Do PCR from plate 5 again,,find_2,Done,57,,NA,
+213,77,19-Jul-17,WM-1,ACLE-1,Control,13-Jul-17,white & foamy,red orange -> yellow,,Yes,58,Find,,Sequenced,,,Done,58,,59,59
+215,77,,WM-1,ACLE-1,Control,13-Jul-17,,,,No,58,NA,,NA,,,Done,58,,NA,59
+214,77,,WM-1,ACLE-1,Control,13-Jul-17,,,,No,58,NA,,NA,,,Done,58,,NA,59
+247,90,20-Jul-17,WM-9,ACLE-1,Control,14-Jul-17,white and webby,yellowish tint,,Yes,59,Archived,,Sequenced,3,find,Done,59,,59,59
+248,90,,WM-9,ACLE-1,Control,14-Jul-17,,,,No,59,NA,,NA,,,Done,59,Retry Jan 22nd,NA,59
+1606,90,,WM-9,ACLE-1,Control,,,,,No,59,NA,,NA,,,Done,59,,NA,59
+311,113,20-Jul-17,WM-10,POPR-1,Warming,14-Jul-17,white puffy on top,"dark center, yellow radiate",,Yes,60,Archived,,Sequenced,3,find,Done,60,,59,59
+243,87,20-Jul-17,WM-9,ACLE-6,Control,14-Jul-17,yellow opaque,,,Yes,61,Find,,Sequenced,3,find,Done,61,,59,59
+999,87,,WM-9,ACLE-6,Control,,,,,No,61,NA,,NA,,,Done,61,,NA,59
+1006,87,,WM-9,ACLE-6,Control,,,,,No,61,NA,,NA,,,Done,61,Failed in Retry Jan 22nd,NA,59
+110,48,18-Jul-17,WM-1,FETH-1,Control,12-Jul-17,yellowy,,,Yes,62,Find,,Sequenced,,find,Match but need ITS,221,,59,59
+106,48,,WM-1,FETH-1,Control,12-Jul-17,,,,No,62,NA,,NA,,,Match but need ITS,221,,NA,59
+168,68,19-Jul-17,WM-1,POPR-2,Control,13-Jul-17,"opaque, reddish tint",,,Yes,62,Archived,,Sequenced,2,find,Send,62,,70,70
+169,68,,WM-1,POPR-2,Control,13-Jul-17,,,,No,62,NA,,NA,,,Match but need ITS,62,Shipped in Plate 4,NA,70
+170,68,,WM-1,POPR-2,Control,13-Jul-17,,,,No,62,NA,,NA,,,Match but need ITS,62,,NA,70
+1355,68,,WM-1,POPR-2,Control,,,,,No,62,NA,,NA,,,Match but need ITS,62,,NA,70
+1357,68,,WM-1,POPR-2,Control,,,,,No,62,NA,,NA,,,Match but need ITS,62,,NA,70
+1358,68,,WM-1,POPR-2,Control,,,,,No,62,NA,,NA,,,Match but need ITS,62,,NA,70
+1360,68,,WM-1,POPR-2,Control,,,,,No,62,NA,,NA,,,Match but need ITS,62,Shipped in Plate 4,NA,70
+503,210,22-Jul-17,TR-H,TRSP,ELEV,17-Jul-17,orange hue,,,Yes,63,Archived,,Sequenced,4,find_2,Done,63,,59,59
+477,198,22-Jul-17,TR-L,TRSP,ELEV,17-Jul-17,yellowy opaque,,,Yes,64,Find,,Sequenced,,,Done,64,,59,59
+298,109,20-Jul-17,WM-10,ACLE-7,Warming,14-Jul-17,"red,orange",,,Yes,65,Archived,,Sequenced,2,,Done,65,shipped in Plate 4,40,40
+297,108,20-Jul-17,WM-10,ACLE-7,Warming,14-Jul-17,"orange, opaque",,,Yes,66,Find,ITS1-FL in SP Plate 2,Sequenced,3,,Done,66,,59,59
+1395,552,4-Aug-17,WM-3,FETH-4,Control,,Brown entire,,,Yes,66,Find,cont,NA,,,Done,66,Missing,NA,59
+1396,552,,WM-3,FETH-4,Control,,,,,No,66,NA,,NA,,,Done,66,,NA,59
+472,196,22-Jul-17,TR-L,ELEL,ELEV,17-Jul-17,yellow tint,,,Yes,67,Archived,,Sequenced,Tube,,Send,67,,59,59
+517,221,22-Jul-17,WM-5,FETH-1,Control,18-Jul-17,"yellow center, white radial",,,Yes,67,Archived,,Sequenced,,,Match but need ITS,67,,59,59
+1502,106,,WM-10,FETH-6,Warming,,,,,No,67,NA,,NA,,,Match but need ITS,67,Shipped in Plate 4,NA,59
+286,106,20-Jul-17,WM-10,FETH-6,Warming,14-Jul-17,"yellow center, grey radial",,,Yes,67,Archived,,NA,,,Match but need ITS,67,,NA,59
+287,106,,WM-10,FETH-6,Warming,14-Jul-17,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+288,106,,WM-10,FETH-6,Warming,14-Jul-17,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+1503,106,,WM-10,FETH-6,Warming,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+473,196,,TR-L,ELEL,ELEV,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+474,196,,TR-L,ELEL,ELEV,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+475,196,,TR-L,ELEL,ELEV,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+1237,196,,TR-L,POPR,ELEV,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+1238,196,,TR-L,POPR,ELEV,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+486,203,22-Jul-17,TR-L,ACLE,ELEV,17-Jul-17,yellowy hue,,,Yes,67,Archived,,NA,,,Match but need ITS,67,,NA,59
+487,203,,TR-L,ACLE,ELEV,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+1202,203,,TR-L,ACLE,ELEV,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+1201,203,,TR-L,ACLE,ELEV,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+506,213,22-Jul-17,WM-6,POPR-6,Warming,18-Jul-17,yellow hue,,,Yes,67,Archived,,NA,,,Match but need ITS,67,,NA,59
+508,215,22-Jul-17,WM-6,POPR-5,Warming,18-Jul-17,yellow hue,,,Yes,67,Archived,,NA,,,Match but need ITS,67,,NA,59
+537,227,,WM-5,POPR-1,Control,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+536,227,22-Jul-17,WM-5,POPR-1,Control,18-Jul-17,yellow hue,,,Yes,67,Archived,,NA,,,Match but need ITS,67,,NA,59
+1446,559,,WM-4,ACLE-1,Warming,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+1447,559,,WM-4,ACLE-1,Warming,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+1448,559,2-Aug-17,WM-4,ACLE-1,Warming,,Yellow fuzzy,,,Yes,67,Archived,,NA,,,Match but need ITS,67,,NA,59
+1449,559,,WM-4,ACLE-1,Warming,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+1450,559,,WM-4,ACLE-1,Warming,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+1451,559,,WM-4,ACLE-1,Warming,,,,,No,67,NA,,NA,,,Match but need ITS,67,,NA,59
+499,208,22-Jul-17,TR-H,TRSP,ELEV,17-Jul-17,yellow with white radial,,,Yes,68,Archived,,Sequenced,4,Find_2,,,,87,87
+2,2,15-Jul-17,WG-L,ACLE,ELEV,11-Jul-17,yellow,,,Yes,68,Archived,,Extracted,,,PCR,,,NA,PCR
+363,132,20-Jul-17,WM-7,ACLE-1,Control,14-Jul-17,"opaque, yellowish",,,Yes,68,Archived,,DNA extracted,,,,,,NA,PCR
+489,205,22-Jul-17,TR-H,POPR,ELEV,17-Jul-17,"white, opaque",,,Yes,68,Archived,,NA,,find_2,,,,NA,Extract
+516,220,22-Jul-17,WM-6,FETH-7,Warming,18-Jul-17,"clear, opaque, gray",,,Yes,68,Archived,,NA,,find_2,,,,NA,
+529,224,22-Jul-17,WM-5,FETH-6,Control,18-Jul-17,"opaque, gray",,,Yes,68,Archived,,NA,,find_2,Find,,,NA,Extract
+587,251,26-Jul-17,WM-8,POPR-8,Warming,,"White, circular",,,Yes,69,Archived,,Sequenced,3,find,Done,69,,11,11
+1158,526,28-Jul-17,WG-H,POLE,ELEV,,Yellow yeast,,,Yes,70,Archived,,Sequenced,2,find,Done,70,,61,61
+1279,526,,WG-L,POLE,ELEV,,,,,No,70,NA,,NA,,,Done,69,retry Jan 22nd,NA,61
+573,245,26-Jul-17,WM-4,FETH-7,Warming,,White fuzzy,Circular diffused edge,,Yes,71,Archived,ITS1-FL in SP Plate 3,Sequenced,3,find,Done,71,,94,94
+574,245,26-Jul-17,WM-4,FETH-7,Warming,,"Yellow, branch-like",,,Yes,71,Archived,,DNA failed,,,bacteria,NA,,NA,NA
+575,245,,WM-4,FETH-7,Warming,,,,,No,71,NA,,NA,,,bacteria,NA,,NA,NA
+576,245,,WM-4,FETH-7,Warming,,,,,No,71,NA,,NA,,,bacteria,NA,,NA,NA
+577,245,,WM-4,FETH-7,Warming,,,,,No,71,NA,,NA,,,bacteria,NA,,NA,NA
+580,245,,WM-4,FETH-7,Warming,,,,,No,71,NA,,NA,,,bacteria,NA,,NA,NA
+571,243,26-Jul-17,ER-L,ACLE,ELEV,,"white cotton like, follwos root not circle",,,Yes,72,Archived,,Sequenced,2,find,Send,72,,69,69
+1619,583,4-Aug-17,WM-8,ACLE-3,Warming,,GLossy,,,Yes,73,Find,,Sequenced,2,,,,,59,59
+570,242,26-Jul-17,ER-L,ACLE,ELEV,,faint white circle,,,Yes,73,Archived,,DNA failed,,find_4,Bacteria,,,NA,NA
+569,241,26-Jul-17,ER-L,ACLE,ELEV,,"White, Cotton-like, small",,,Yes,74,Archived,,Sequenced,3,find,Done,74,,74,74
+584,248,26-Jul-17,WM-8,POPR-4,Warming,,Black center white edge,,,Yes,75,Archived,,Sequenced,2,find,Done,75,,27,27
+1470,565,4-Aug-17,WM-5,ACLE-5,Control,,Dark red,,,Yes,76,Archived,,Sequenced,5,find_2,Done,,,96,96
+585,249,26-Jul-17,WM-8,POPR-4,Warming,,White fuzzy,Yellow Circle,,Yes,76,Archived,,PCR,2,,Done,,,NA,96
+1434,564,,TR-L,FETH,ELEV,,White fuzzy,,,No,76,NA,,NA,,,Done,,,NA,96
+1435,564,,TR-L,FETH,ELEV,,,,,No,76,NA,,NA,,,Done,,,NA,96
+1436,564,,TR-L,FETH,ELEV,,,,,No,76,NA,,NA,,,Done,,,NA,96
+1437,564,,TR-L,FETH,ELEV,,,,,No,76,NA,,NA,,,Done,,,NA,96
+1438,564,,TR-L,FETH,ELEV,,,,,No,76,NA,,NA,,,Done,,,NA,96
+1439,564,2-Aug-17,TR-L,FETH,ELEV,,Opaque green dots,,,Yes,76,Archived,,NA,,,Done,,,NA,96
+1468,564,4-Aug-17,WM-5,ACLE-5,Control,,"yellow, fuzzy",,,Yes,76,Archived,,DNA failed,,find_4,Done,,,NA,96
+1469,564,,WM-5,ACLE-5,Control,,,,,No,76,NA,,NA,,,Done,,,NA,96
+604,260,26-Jul-17,WM-2,FETH-3,Warming,,,,Fill in description,Yes,77,Find,,Sequenced,,find_2,Done,219,,26,26
+606,260,,WM-2,FETH-3,Warming,,,,,No,77,NA,,NA,,,Done,219,,NA,26
+586,250,26-Jul-17,WM-8,POPR-8,Warming,,Light brown,"Brown center, white edges",Check on this.,Yes,77,Archived,,Sequenced,3,find,Done,77,,40,40
+588,252,26-Jul-17,WM-8,POPR-8,Warming,,"Black center, white edge",,,Yes,78,Find,,Sequenced,,,Done,78,,1,1
+590,252,,WM-8,POPR-8,Warming,,,,,No,78,NA,,NA,,,Done,78,,NA,1
+591,254,26-Jul-17,WM-8,POPR-8,Warming,,Dark grey,,,Yes,78,Archived,,NA,,,Done,78,,NA,1
+637,268,,WM-4,POPR-1,Warming,,,,,No,78,NA,,NA,,,Done,222,,NA,1
+638,268,26-Jul-17,WM-4,POPR-1,Warming,,Dark brown,,,Yes,78,Find,,CTB6,Tube,,Done,222,,NA,1
+589,253,26-Jul-17,WM-8,POPR-8,Warming,,reddish brown fuzzy on top,,,Yes,79,Archived,,Sequenced,2,find_2,Done,79,PCR failed before,16,16
+592,255,26-Jul-17,WM-8,POPR-8,Warming,,branched edge fuzzy,Black center gray edge,,Yes,80,Archived,,Sequenced,2,find,Done,80,,7,7
+594,255,,WM-8,POPR-8,Warming,,,,,No,80,NA,,NA,,,Done,80,,NA,7
+1129,518,28-Jul-17,WM-2,FETH-1,Warming,,Clear,,,Yes,81,Archived,,Sequenced,3,find,Done,81,,14,14
+1130,518,,WM-2,FETH-1,Warming,,,,,No,81,NA,,NA,,,Done,81,,NA,14
+1131,518,,WM-2,FETH-1,Warming,,,,,No,81,NA,,NA,,,Done,81,,NA,14
+903,352,28-Jul-17,ER-H,POPR,ELEV,,"Red, tan, fuzzy",,,Yes,82,Find,,Sequenced,Tube,,Done,82,,17,17
+969,382,28-Jul-17,ER-H,ACLE,ELEV,,"Yellowish brown, fuzzy",,,Yes,82,Find,,Sequenced,,,Done,82,,17,17
+904,352,,ER-H,POPR,ELEV,,,,,No,82,Find,,NA,,,Done,82,,NA,17
+957,379,28-Jul-17,ER-H,ACLE,ELEV,,"white, fuzzy",,,Yes,82,Archived,,NA,,,Done,82,,NA,17
+959,379,,ER-H,ACLE,ELEV,,,,,No,82,NA,,NA,,,Done,82,,NA,17
+960,379,,ER-H,ACLE,ELEV,,,,,No,82,NA,,NA,,,Done,82,,NA,17
+974,379,,ER-H,ACLE,ELEV,,,,,No,82,NA,,NA,,,Done,82,,NA,17
+958,380,28-Jul-17,ER-H,ACLE,ELEV,,light brown,,,Yes,82,Archived,,NA,,,Done,82,,NA,17
+968,380,,ER-H,ACLE,ELEV,,,,,No,82,NA,,NA,,,Done,82,,NA,17
+593,256,26-Jul-17,WM-8,POPR-8,Warming,,"Circle, black",,,Yes,83,NA,,NA,,find_2,Find,,,NA,Extract
+595,256,26-Jul-17,WM-8,ACLE-6,Warming,,Dark brown,,,Yes,83,Archived,,Extracted,,Find_2,Find,,,NA,PCR
+608,258,26-Jul-17,WM-2,FETH-3,Warming,,Bright yellow. Fan-shaped edge,,,Yes,84,Archived,,Do PCR from plate 2 again,2,find_2,Send,223,,14,14
+602,258,,WM-2,FETH-2,Warming,,,,,No,84,NA,,NA,,,,224,,NA,14
+611,258,26-Jul-17,WM-2,FETH-3,Warming,,,,"check, should be a duplicate",Yes,84,Archived,,Extracted,Tube,Find_4,PCR,224,,NA,14
+612,258,,WM-2,FETH-3,Warming,,,,,No,84,NA,,NA,,,,224,,NA,14
+615,258,,WM-2,FETH-3,Warming,,,,,No,84,NA,,NA,,,,224,,NA,14
+731,299,26-Jul-17,ER-L,TRSP,ELEV,,"Yellow, milky",,,Yes,84,Archived,,DNA Failed,,find_3,Bacteria,NA,,NA,NA
+732,299,,ER-L,TRSP,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+733,299,,ER-L,TRSP,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+735,299,,ER-L,TRSP,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+736,299,,ER-L,TRSP,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+737,299,,ER-L,TRSP,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+1585,299,,WM-8,ACLE-1,Warming,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+734,299,,ER-L,TRSP,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,Shipped in Plate 4,NA,NA
+803,313,,ER-L,POPR,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+799,313,28-Jul-17,ER-L,POPR,ELEV,,Yellow yeast,,,Yes,84,Archived,,DNA failed,,,Bacteria,NA,,NA,NA
+800,313,,ER-L,POPR,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+801,313,,ER-L,POPR,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+802,313,,ER-L,POPR,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+804,313,,ER-L,POPR,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+805,313,,ER-L,POPR,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+806,313,,ER-L,POPR,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+807,313,,ER-L,POPR,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+814,313,,ER-L,POPR,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,Missing,NA,NA
+1069,498,,WG-L,POLE,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+1064,498,,WG-L,POLE,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+1065,498,3-Aug-17,WG-L,POLE,ELEV,,Yellow yeast,,,Yes,84,Find,,NA,,find_2,Bacteria,NA,,NA,NA
+1066,498,,WG-L,POLE,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+1067,498,,WG-L,POLE,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+1070,498,,WG-L,POLE,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,,NA,NA
+1068,498,,WG-L,POLE,ELEV,,,,,No,84,NA,,NA,,,Bacteria,NA,Retry Jan 22nd,NA,NA
+1637,591,4-Aug-17,WM-7,FETH-4,Control,,"White, fuzzy",,,Yes,85,Find,,Sequenced,Tube,,Done,267,Retry Jan 22nd,1,1
+1568,578,4-Aug-17,WM-6,ACLE-5,Warming,,Glossy,,Need new numbers,Yes,85,find,,Sequenced,,,Done,266,,31,31
+1569,578,,WM-6,ACLE-5,Warming,,,,,No,85,NA,,NA,,,Done,266,,NA,31
+613,259,26-Jul-17,WM-2,FETH-3,Warming,,"Black center, translucent edge",,,Yes,85,Archived,,Sequenced,Tube,find_4,Done,253,,37,37
+605,259,,WM-2,FETH-3,Warming,,,,,No,85,NA,,NA,,,Done,253,,NA,37
+1537,578,3-Aug-17,WM-9,FETH-1,Control,,Brown/light green,,,Yes,85,Find,,Sequenced,4,find_2,Done,264,,38,38
+1571,578,4-Aug-17,WM-6,ACLE-5,Warming,,Green matted,,Needs new number,Yes,85,Archived,,Sequenced,,Find_4,Done,225,,100,100
+1538,578,3-Aug-17,WM-9,FETH-1,Control,,,,,Yes,85,NA,,Sequenced,,,Done,265,,NA,100
+1287,529,29-Jul-17,TR-L,ELEL,ELEV,,red fuzzy,,,Yes,86,Archived,,Sequenced,3,,Done,86,,40,40
+617,262,26-Jul-17,WM-2,ACLE-7,Warming,,,,,Yes,87,Archived,,Sequenced,3,,Done,87,,17,17
+620,262,,WM-2,ACLE-7,Warming,,,,,No,87,NA,,NA,,,Done,87,,NA,17
+618,263,26-Jul-17,WM-2,ACLE-7,Warming,,,,,Yes,88,Find,,Extracted,"tube, 2",find_4,Found,,,NA,PCR
+629,263,,WM-2,ACLE-7,Warming,,,,,No,88,NA,,NA,,,,,,NA,
+624,263,,WM-2,ACLE-7,Warming,,,,,No,88,NA,,NA,,,,,,NA,
+628,263,,WM-2,ACLE-7,Warming,,,,,No,88,NA,,NA,,,,,,NA,
+632,267,26-Jul-17,WM-7,FETH-1,Control,,White,Yellow,,Yes,89,Archived,,Sequenced,2,find,Done,268,,16,16
+632,267,26-Jul-17,WM-7,FETH-1,Control,,White,Yellow,,Yes,89,Archived,,Sequenced,2,find,Done,268,,16,16
+633,267,26-Jul-17,WM-7,FETH-1,Control,,Pink,,,Yes,89,Archived,,Sequenced,4,find_2,Done,269,,72,72
+1343,270,,WM-1,POPR-1,Control,,,,,No,90,NA,,NA,,,,,,NA,
+1344,270,,WM-1,POPR-1,Control,,,,,No,90,NA,,NA,,,,,,NA,
+641,270,26-Jul-17,WM-4,POPR-1,Warming,,"Black center, green edges",,,Yes,90,Archived,,Extracted,Tube,find_4,PCR,,,NA,PCR
+642,271,26-Jul-17,WM-4,POPR-1,Warming,,"White, fuzzy",Light orange,,Yes,91,Archived,ITS1-FL in SP Plate 2,Sequenced,2,find,Done,91,,59,59
+1020,271,,WG-L,TRSP,ELEV,,,,,No,91,NA,,Sequenced,2,,disregard this sequence,NA,,NA,59
+1408,271,,WM-5,FETH-6,Control,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1440,271,,WM-4,ACLE-1,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1018,271,,WG-L,TRSP,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1019,271,,WG-L,TRSP,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1034,271,,TR-H,ELTR,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1035,271,,WM-3,POPR-3,Control,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1192,271,,TR-L,TRSP,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1193,271,,TR-L,TRSP,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1200,271,,WG-H,ELTR,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1267,271,,TR-L,POLE,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1268,271,,TR-L,POLE,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1269,271,,TR-L,POLE,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1270,271,,TR-L,POLE,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1347,271,,WM-1,POPR-1,Control,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1390,271,,WM-1,FETH-2,Control,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1391,271,,WM-1,FETH-2,Control,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1409,271,,WM-5,FETH-6,Control,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1427,271,,WM-3,ACLE-7,Control,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1441,271,,WM-4,ACLE-1,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1442,271,,WM-4,ACLE-1,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1443,271,,WM-4,ACLE-1,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1444,271,,WM-4,ACLE-1,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1458,271,,WM-5,ACLE-1,Control,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1479,271,,WM-6,ACLE-3,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1485,271,,TR-L,FETH,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1487,271,,TR-L,FETH,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1491,271,,WM-6,ACLE-4,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1523,271,,WM-8,FETH-4,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1524,271,,WM-8,FETH-4,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1525,271,,WM-8,FETH-4,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1526,271,,WM-8,FETH-4,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1527,271,,WM-8,FETH-4,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1553,271,,WM-6,FETH-7,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1554,271,,WM-6,FETH-7,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1555,271,,WM-6,FETH-7,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1556,271,,WM-6,FETH-7,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1557,271,,WM-6,FETH-7,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1558,271,,WM-6,FETH-7,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1566,271,,WM-6,ACLE-5,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1567,271,,WM-6,ACLE-5,Warming,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+1194,271,,TR-L,TRSP,ELEV,,,,,No,91,NA,,NA,,,Done,91,,NA,59
+643,272,26-Jul-17,WM-4,POPR-1,Warming,,"Gray, opaque edges",,,Yes,92,Archived,,Sequenced,3,find,Done,92,,40,40
+688,292,26-Jul-17,TR-H,POPR,ELEV,,Gray circular. fuzzy,,,Yes,92,Archived,ITS1-FL in SP Plate 3,Sequenced,,find,Done,92,,40,40
+644,272,,WM-4,POPR-1,Warming,,,,,No,92,NA,,NA,,,Done,92,,NA,40
+689,292,,TR-H,POPR,ELEV,,,,,No,92,NA,,NA,,,Done,92,,NA,40
+690,292,,TR-H,POPR,ELEV,,,,,No,92,NA,,NA,,,Done,92,,NA,40
+696,292,,TR-H,POPR,ELEV,,,,check if this one was subcultured. Didnt need to be done,No,92,NA,,NA,,,Done,92,,NA,40
+697,292,,TR-H,POPR,ELEV,,,,,No,92,NA,,NA,,,Done,92,,NA,40
+648,276,26-Jul-17,WM-2,FETH-2,Warming,,"white, circular",,,Yes,93,Archived,,Sequenced,3,find,Done,92,,76,76
+687,291,26-Jul-17,TR-H,POPR,ELEV,,White featherlike,,,Yes,94,Find,,Sequenced,,,Done,242,,8,8
+693,291,,TR-H,POPR,ELEV,,,,,No,94,NA,,NA,,,Done,242,,NA,8
+694,291,,TR-H,POPR,ELEV,,,,,No,94,Archived,,NA,,,Done,242,,NA,8
+695,291,,TR-H,POPR,ELEV,,,,,No,94,NA,,NA,,,Done,242,,NA,8
+676,288,26-Jul-17,TR-H,ACLE,ELEV,,Opaque,,,Yes,94,Archived,,Sequenced,5,find_2,Done,244,,29,29
+677,288,,TR-H,ACLE,ELEV,,,,,No,94,NA,,NA,,,Done,244,,NA,29
+678,288,,TR-H,ACLE,ELEV,,,,,No,94,NA,,NA,,,Done,244,,NA,29
+679,288,,TR-H,ACLE,ELEV,,,,,No,94,NA,,NA,,,Done,244,,NA,29
+861,336,29-Jul-17,WM-1,ACLE-2,Control,,Reddish pink,,,Yes,94,Find,,Sequenced,,,Done,243,,49,49
+866,336,,WM-1,ACLE-2,Control,,,,,No,94,NA,,NA,,,Done,243,,NA,49
+747,303,26-Jul-17,TR-H,FETH,ELEV,,Opaque,,,Yes,94,Archived,,DNA failed,,find_4,contaminated,NA,,NA,NA
+748,303,,TR-H,FETH,ELEV,,,,,No,94,NA,,NA,,,,NA,,NA,NA
+749,303,,TR-H,FETH,ELEV,,,,,No,94,NA,,NA,,,,NA,,NA,NA
+750,303,,TR-H,FETH,ELEV,,,,,No,94,NA,,NA,,,,NA,,NA,NA
+751,303,,TR-H,FETH,ELEV,,,,,No,94,NA,,NA,,,,NA,,NA,NA
+657,277,,WM-10,ACLE-3,Warming,,,,,No,95,NA,,NA,,,Done,243,,NA,49
+658,277,26-Jul-17,WM-10,ACLE-3,Warming,,,,,Yes,95,Archived,,PCR,2,find,Done,243,,NA,49
+667,279,26-Jul-17,TR-H,POLE,ELEV,,"Black center, opaque edge",,,Yes,96,Find,,Sequenced,2,find,Done,96,,17,17
+668,279,,TR-H,POLE,ELEV,,,,,No,96,NA,,NA,,,Done,96,,NA,17
+669,279,,TR-H,POLE,ELEV,,,,,No,96,NA,,NA,,,Done,96,Shipped in Plate 4,NA,17
+670,279,,TR-H,POLE,ELEV,,,,,No,96,NA,,NA,,,Done,96,,NA,17
+671,279,,TR-H,POLE,ELEV,,,,,No,96,NA,,NA,,,Done,96,,NA,17
+672,279,,TR-H,POLE,ELEV,,,,,No,96,NA,,NA,,,Done,96,,NA,17
+673,279,,TR-H,POLE,ELEV,,,,,No,96,NA,,NA,,,Done,96,,NA,17
+674,279,,TR-H,POLE,ELEV,,,,,No,96,NA,,NA,,,Done,96,,NA,17
+738,279,,TR-H,POLE,ELEV,,,,Check if this got subcultured wasn't done but I matched it with another morphotype,No,96,NA,,NA,,,Done,96,,NA,17
+739,279,,TR-H,POLE,ELEV,,,,,No,96,NA,,NA,,,Done,96,,NA,17
+675,280,26-Jul-17,TR-H,POLE,ELEV,,black,,,Yes,96,Archived,,Sequenced,3,,Done,226,,40,40
+686,290,26-Jul-17,TR-H,ACLE,ELEV,,Black/gray,,,Yes,97,Find,,Sequenced,2,find,Done,97,,44,44
+646,274,26-Jul-17,WM-2,FETH-2,Warming,,"Black, opaque edge",,,Yes,98,Archived,,Sequenced,5,find_2,Done,98,,83,83
+714,294,26-Jul-17,ER-L,POLE,ELEV,,"White, definitive edge",,,Yes,99,Archived,,Sequenced,2,find,Done,99,,83,83
+692,294,,TR-H,POPR,ELEV,,,,,No,99,NA,,NA,,,Done,99,,NA,83
+745,301,26-Jul-17,TR-H,POLE,ELEV,,Magenta Milky,,,Yes,100,Archived,,Sequenced,3,find_2,Done,100,,101,101
+746,302,26-Jul-17,TR-H,POLE,ELEV,,White Milky,,,Yes,101,Archived,,Sequenced,2,find,Done,101,,49,49
+740,302,,TR-H,POLE,ELEV,,Yellow,,,No,101,NA,,NA,,,Done,101,,NA,49
+761,304,,TR-H,FETH,ELEV,,,,,No,102,NA,,NA,,,,102,Shipped in Plate 4,NA,
+759,304,,TR-H,FETH,ELEV,,,,,No,102,NA,,NA,,,,102,,NA,
+752,304,26-Jul-17,TR-H,FETH,ELEV,,White circular clumps,,,Yes,102,Find,,,3,find,,102,,NA,PCR
+753,304,,TR-H,FETH,ELEV,,,,,No,102,NA,,NA,,,,102,,NA,
+754,304,,TR-H,FETH,ELEV,,,,,No,102,NA,,NA,,,,102,,NA,
+755,304,,TR-H,FETH,ELEV,,,,,No,102,NA,,NA,,,,102,,NA,
+756,304,,TR-H,FETH,ELEV,,,,,No,102,NA,,NA,,,,102,,NA,
+757,304,,TR-H,FETH,ELEV,,,,,No,102,NA,,NA,,,,102,,NA,
+758,304,,TR-H,FETH,ELEV,,,,,No,102,NA,,NA,,,,102,,NA,
+760,304,,TR-H,FETH,ELEV,,,,,No,102,NA,,NA,,,,102,,NA,
+762,304,,TR-H,FETH,ELEV,,,,,No,102,NA,,NA,,,,102,,NA,
+1222,304,,WG-L,ACNE,ELEV,,,,,No,102,NA,,NA,,,,102,,NA,
+766,305,26-Jul-17,TR-H,FETH,ELEV,,"Black, little fuzzy",,,Yes,103,Archived,,Sequenced,,Find_4,Done,103,,98,98
+763,305,,TR-H,FETH,ELEV,,,,,No,103,NA,,NA,,,Done,103,extracted jan26,NA,98
+764,305,,TR-H,FETH,ELEV,,,,,No,103,NA,,NA,,,Done,103,,NA,98
+765,305,,TR-H,FETH,ELEV,,,,,No,103,NA,,NA,,,Done,103,,NA,98
+767,305,,TR-H,FETH,ELEV,,,,,No,103,NA,,NA,,,Done,103,,NA,98
+741,301,26-Jul-17,TR-H,POLE,ELEV,,,,,Yes,104,Archived,,CTB6,2,find,Done,NA,,59,59
+742,301,,TR-H,POLE,ELEV,,,,,No,104,NA,,NA,,,Done,Na,Retry Jan 22nd,NA,59
+743,301,,TR-H,POLE,ELEV,,,,,No,104,NA,,NA,,,Done,Na,,NA,59
+744,301,,TR-H,POLE,ELEV,,,,,No,104,NA,,NA,,,Done,Na,,NA,59
+1632,588,,WM-7,FETH-4,Control,,,,,No,104,NA,,NA,,,Bacteria,Na,,NA,
+1633,588,,WM-7,FETH-4,Control,,,,,No,104,NA,,NA,,,Bacteria,Na,,NA,
+1631,588,4-Aug-17,WM-7,FETH-4,Control,,Yellow yeast,,,Yes,104,Archived,,Dried out. Repeat,2,find_2,Bacteria,Na,shipped in Plate 4,NA,PCR
+864,337,28-Jul-17,WM-1,ACLE-2,Control,,"Black greem, radiates out",,,Yes,105,Archived,,Sequenced,3,find,Done,105,,29,29
+865,337,,WM-1,ACLE-2,Control,,,,,No,105,NA,,NA,,,Done,105,,NA,29
+946,372,28-Jul-17,ER-H,FESA,ELEV,,pink,,,Yes,106,Archived,,Sequenced,4,find_3,Done,106,,59,59
+944,370,28-Jul-17,ER-H,FESA,ELEV,,White look like intestines,,,Yes,106,Find,does not look like the intestines one,Sequenced,,,Done,106,,NA,59
+839,326,,WM-8,FETH-6,Warming,,,,,No,107,NA,,NA,,,,,,NA,
+840,326,28-Jul-17,WM-8,FETH-6,Warming,,,,duplicate,Yes,107,Archived,,Extracted,Tube,find_4,PCR,,,NA,Extract
+841,326,28-Jul-17,WM-8,FETH-6,Warming,,"Yellow, white edge",,,Yes,107,Find,,DNA failed,,find_4,,,,NA,Extract
+842,327,28-Jul-17,WM-8,FETH-6,Warming,,"Yellow, defined edge",,,Yes,107,Find,,DNA failed,,find (in extracted box),Find,,,NA,Extract
+838,325,28-Jul-17,WM-8,FETH-6,Warming,,gray/white,,,Yes,108,Archived,,PCR,2,find,Send,,,NA,PCR
+940,367,28-Jul-17,ER-H,FESA,ELEV,,fuzzy in center,,"dark brown, gray",Yes,109,Archived,,Sequenced,Tube,,Done,109,,40,40
+941,367,,ER-H,FESA,ELEV,,,,,No,109,NA,,NA,,,Done,109,,NA,40
+950,367,,ER-H,FESA,ELEV,,,,,No,109,NA,,NA,,,Done,109,,NA,40
+951,367,,ER-H,FESA,ELEV,,,,,No,109,NA,,NA,,,Done,109,,NA,40
+953,367,,ER-H,FESA,ELEV,,,,,No,109,NA,,NA,,,Done,109,,NA,40
+954,367,,ER-H,FESA,ELEV,,,,,No,109,NA,,NA,,,Done,109,,NA,40
+943,369,28-Jul-17,ER-H,FESA,ELEV,,"Brown, thin hyphae",,,Yes,109,Archived,,NA,,,Done,109,,NA,40
+1114,511,29-Jul-17,WM-3,FETH-2,Control,,"Gray brown, fuzzy",,,Yes,109,Archived,,Sequenced,Tube,,Done,109,,84,84
+820,317,28-Jul-17,ER-L,ACNE,ELEV,,Opaque to yellow,,,Yes,110,Archived,,Sequenced,5,find_2,Done,241,,27,27
+368,135,20-Jul-17,WM-7,ACLE-4,Control,14-Jul-17,opaque,,,Yes,110,Archived,,Sequenced,5,find_2,Done,110,,49,49
+780,350,28-Jul-17,ER-L,ELEL,ELEV,,Opaque,,,Yes,111,Archived,,Sequenced,"2,4",find_2,Done,NA,There were three sequences. Unsure which one it goes under. ,4,4
+1071,499,3-Aug-17,WG-L,POLE,ELEV,,White fluffy,Yellow,,Yes,112,Archived,,Extracted,Tube,find_4,PCR,,,NA,Extract
+796,312,28-Jul-17,ER-L,POPR,ELEV,,Pink circles,,,Yes,113,Archived,,NA,,find,,NA,,72,72
+797,312,,ER-L,POPR,ELEV,,,,,No,113,NA,,NA,,,,NA,,NA,72
+798,312,,ER-L,POPR,ELEV,,,,,No,113,NA,,NA,,,,NA,,NA,72
+1499,312,,WM-10,FETH-6,Warming,,,,,No,113,NA,,NA,,,,NA,,NA,72
+1500,312,,WM-10,FETH-6,Warming,,,,,No,113,NA,,NA,,,,NA,,NA,72
+1501,312,,WM-10,FETH-6,Warming,,,,,No,113,NA,,NA,,,,NA,,NA,72
+1005,396,28-Jul-17,WM-9,ACLE-6,Control,,Pink yeast,,"Check number, might be mlisted as 1003",Yes,113,NA,,NA,,find,Bacteria,NA,,NA,NA
+1328,547,3-Aug-17,WG-L,FETH,ELEV,,White circular sand dollar,,,Yes,114,Archived,,Sequenced,4,find_2,Done,114,,8,8
+878,342,28-Jul-17,WM-1,FETH-6,Control,,"White, opaque",,,Yes,115,Archived,ITS1-FL in SP Plate 2,Sequenced,,find,Done,115,,40,40
+881,343,28-Jul-17,WM-1,POPR-3,Control,,"white, elliptical shape",,,Yes,115,Archived,,Sequenced,5,find_2,Done,248,Retry Jan 22nd,95,95
+879,343,,WM-1,POPR-3,Control,,,,,No,115,NA,,NA,,,Done,248,,NA,95
+880,343,,WM-1,POPR-3,Control,,,,,No,115,NA,,NA,,,Done,248,,NA,95
+882,343,,WM-1,POPR-3,Control,,,,,No,115,NA,,NA,,,Done,248,Retry Jan 11th,NA,95
+1544,579,4-Aug-17,WM-9,FETH-2,Control,,Dark green/brown,,,Yes,116,Archived,,Sequenced,2,find_3,Done,228,,8,8
+1570,579,,WM-6,ACLE-5,Warming,,,,,No,116,NA,,NA,,,,,,NA,8
+1572,579,4-Aug-17,WM-6,ACLE-5,Warming,,Brown. opaque edge,,,Yes,116,Archived,,NA,,find_4,NA,,,NA,8
+1573,579,,WM-6,ACLE-5,Warming,,,,,No,116,NA,,NA,,,,,,NA,8
+1338,548,3-Aug-17,TR-L,ACNE,ELEV,,White fuzzy,yellow,,Yes,116,Find,,Sequenced,,,,,,29,29
+939,356,28-Jul-17,ER-H,FESA,ELEV,,Pastel undulate edge,,needs new morphotype number,Yes,116,Find,,Sequenced,,,,227,,59,59
+905,353,28-Jul-17,ER-H,POPR,ELEV,,"White, full circle",,,Yes,116,Archived,,Extracted,Tube,,Found,227,,NA,59
+1038,353,,WM-3,POPR-3,Control,,,,,No,116,NA,,NA,,,,,,NA,59
+906,354,29-Jul-17,ER-H,POPR,ELEV,,"brown, fuzzy",,,Yes,116,Archived,,Sequenced,5,find_2,,272,,82,82
+907,354,,ER-H,POPR,ELEV,,,,,No,116,NA,,NA,,,,,,NA,82
+908,354,,ER-H,POPR,ELEV,,,,,No,116,NA,,NA,,,,,,NA,82
+909,354,,ER-H,POPR,ELEV,,,,,No,116,NA,,NA,,,,,,NA,82
+910,356,28-Jul-17,ER-H,POPR,ELEV,,"White and fuzzy, yellow",,,Yes,116,Archived,,NA,,find_2,Find,,,NA,82
+1480,569,4-Aug-17,TR-L,FETH,ELEV,,"Yellow, fuzzy",,,Yes,116,Find,,DNA failed,,find_4,PCR,,,NA,Extract
+1481,569,,TR-L,FETH,ELEV,,,,,No,116,NA,,NA,,,,,,NA,
+1482,569,,TR-L,FETH,ELEV,,,,,No,116,NA,,NA,,,,,,NA,
+1483,569,,TR-L,FETH,ELEV,,,,,No,116,NA,,NA,,,,,,NA,
+1484,569,,TR-L,FETH,ELEV,,,,,No,116,NA,,NA,,,,,,NA,
+1629,587,4-Aug-17,WM-7,FETH-4,Control,,Green spikey,,,Yes,116,Find,,NA,,find_3,Found,,,NA,Extract
+1630,587,,WM-7,FETH-4,Control,,,,,No,116,NA,,NA,,,,,,NA,
+719,296,26-Jul-17,ER-L,TRSP,ELEV,,"Black fuzzy, circular",,,Yes,117,Archived,,Sequenced,4,find_2,Send,121,,40,40
+720,296,,ER-L,TRSP,ELEV,,,,,No,117,NA,,NA,,,,121,,NA,40
+721,296,,ER-L,TRSP,ELEV,,,,,No,117,NA,,NA,,,,121,,NA,40
+722,296,,ER-L,TRSP,ELEV,,,,,No,117,NA,,NA,,,,121,,NA,40
+723,296,,ER-L,TRSP,ELEV,,,,,No,117,NA,,NA,,,,121,,NA,40
+724,296,,ER-L,TRSP,ELEV,,,,,No,117,NA,,NA,,,,121,,NA,40
+725,296,,ER-L,TRSP,ELEV,,,,,No,117,NA,,NA,,,,121,,NA,40
+726,296,,ER-L,TRSP,ELEV,,,,,No,117,NA,,NA,,,,121,,NA,40
+727,296,,ER-L,TRSP,ELEV,,,,,No,117,NA,,NA,,,,121,,NA,40
+728,296,,ER-L,TRSP,ELEV,,,,,No,117,NA,,NA,,,,121,,NA,40
+650,276,26-Jul-17,WM-2,FETH-2,Warming,,translucent/pink,,,Yes,118,Archived,,PCR,3,find,Send,,,NA,PCR
+715,295,26-Jul-17,ER-L,POLE,ELEV,,Translucent,,,Yes,119,Find,,Sequenced,3,find,Send,,,64,64
+716,295,,ER-L,POLE,ELEV,,,,,No,119,NA,,NA,,,,,,NA,64
+717,295,,ER-L,POLE,ELEV,,,,,No,119,NA,,NA,,,,,,NA,64
+718,295,,ER-L,POLE,ELEV,,,,,No,119,Archived,,NA,,,,,,NA,64
+768,306,26-Jul-17,TR-H,FETH,ELEV,,"Brown, frayed edge",,,Yes,120,Archived,,DNA failed,,find_4,Found,,,NA,Extract
+850,329,28-Jul-17,ER-L,ELTR,ELEV,,reddish,,,Yes,121,Archived,,Sequenced,5,find_2,Done,121,,49,49
+956,378,28-Jul-17,ER-H,ACLE,ELEV,,black,,,Yes,122,Archived,,Sequenced,,,Done,19,,22,22
+826,320,28-Jul-17,WM-8,FETH-1,Warming,,Gray/green,,,Yes,122,Archived,,Sequenced,,,Done,122,,40,40
+827,320,,WM-8,FETH-1,Warming,,,,,No,122,NA,,NA,,,Done,122,,NA,40
+562,239,26-Jul-17,ER-L,ACLE,ELEV,,,,Need to fill this description in,Yes,122,Archived,,NA,,find_2,Done,122,,NA,49
+778,309,28-Jul-17,ER-L,ELEL,ELEV,,"black center, brown beyond, gray fuzz on top",,,Yes,123,Archived,,Sequenced,5,find_2,Done,123,,16,16
+995,392,28-Jul-17,WM-9,ACLE-6,Control,,gray.green,,,Yes,123,Archived,,PCR,5,find_2,Done,123,,16,16
+962,309,,ER-H,ACLE,ELEV,,,,,No,123,NA,,NA,,,Done,123,Shipped in Plate 4,NA,16
+965,309,,ER-H,ACLE,ELEV,,,,,No,123,NA,,NA,,,Done,123,Shipped in Plate 4,NA,16
+961,309,,ER-H,ACLE,ELEV,,Dark green/gray fuzzy,,,No,123,NA,,NA,,,Done,123,,NA,16
+963,309,,ER-H,ACLE,ELEV,,,,,No,123,NA,,NA,,,Done,123,,NA,16
+964,309,,ER-H,ACLE,ELEV,,,,,No,123,NA,,NA,,,Done,123,,NA,16
+966,309,,ER-H,ACLE,ELEV,,,,,No,123,NA,,NA,,,Done,123,,NA,16
+967,309,,ER-H,ACLE,ELEV,,,,,No,123,NA,,NA,,,Done,123,,NA,16
+970,309,,ER-H,ACLE,ELEV,,,,,No,123,NA,,NA,,,Done,123,,NA,16
+972,309,,ER-H,ACLE,ELEV,,,,,No,123,NA,,NA,,,Done,123,,NA,16
+996,392,,WM-9,ACLE-6,Control,,,,,No,123,NA,,NA,,,Done,123,,NA,16
+997,392,,WM-9,ACLE-6,Control,,brown. looks like root hairs on margin,,should be done,No,123,NA,,NA,,,Done,123,,NA,16
+998,392,,WM-9,ACLE-6,Control,,,,,No,123,NA,,NA,,,Done,123,,NA,16
+1494,572,2-Aug-17,WM-1,ACLE-6,Control,,"Black center, brown edge specs on top",,,Yes,124,Archived,,CTB6,2,find,Send,124,,16,16
+1534,576,3-Aug-17,WM-9,FETH-1,Control,,Green,,,Yes,125,Find,,DNA failed,,find_4,Found,125,Diaporthe,NA,48
+1476,568,4-Aug-17,WM-6,ACLE-3,Warming,,white matted,,,Yes,126,Archived,,Sequenced,3,find_2,Done,126,,99,99
+1477,568,,WM-6,ACLE-3,Warming,,,,,No,126,NA,,NA,,,Done,126,,NA,99
+1478,568,,WM-6,ACLE-3,Warming,,,,,No,126,NA,,NA,,,Done,126,,NA,99
+868,338,28-Jul-17,WM-1,ACLE-2,Control,,gray/black,,,Yes,127,Find,,Sequenced,2,find,Done,127,,35,35
+867,338,,WM-1,ACLE-2,Control,,,,,No,127,NA,,NA,,,Done,127,Shipped in Plate 4,NA,35
+926,363,28-Jul-17,ER-H,TRSP,ELEV,,"brownish, yellow globby",,,Yes,128,Archived,,DNA failed,,,Bacteria,NA,,NA,NA
+932,365,,ER-H,FETH,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,,NA,NA
+933,365,28-Jul-17,ER-H,FETH,ELEV,,"White, globby",,,Yes,128,Find,,DNA failed,,,Bacteria,NA,,NA,NA
+934,365,,ER-H,FETH,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,,NA,NA
+935,365,,ER-H,FETH,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,Will be filled in once subculture is found,NA,NA
+936,365,,ER-H,FETH,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,,NA,NA
+1024,401,28-Jul-17,TR-H,ELTR,ELEV,,"White, milky circles",,,Yes,128,Find,,DNA Failed,,,Bacteria,NA,,NA,NA
+1025,401,,TR-H,ELTR,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,,NA,NA
+1026,401,,TR-H,ELTR,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,,NA,NA
+1027,401,,TR-H,ELTR,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,,NA,NA
+1028,401,,TR-H,ELTR,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,,NA,NA
+1029,401,,TR-H,ELTR,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,,NA,NA
+1030,401,,TR-H,ELTR,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,,NA,NA
+1488,571,,TR-L,FETH,ELEV,,,,,No,128,NA,,NA,,,Bacteria,NA,,NA,NA
+1489,571,4-Aug-17,TR-L,FETH,ELEV,,Translucent,,,Yes,128,Find,,DNA failed,,,Bacteria,NA,,NA,NA
+822,319,28-Jul-17,ER-L,ACNE,ELEV,,,,,Yes,129,Archived,,Sequenced,5,find_2,Done,129,,24,24
+1342,550,2-Aug-17,WM-1,POPR-1,Control,,Brown centrer opaque edge,,,Yes,129,Archived,,Sequenced,5,find_2,Done,129,,24,24
+1341,550,,WM-1,POPR-1,Control,,,,,No,129,NA,,NA,,,Done,129,,NA,24
+1325,546,3-Aug-17,WG-L,FETH,ELEV,,Brown fuzzy white top,,,Yes,130,Archived,,Sequenced,4,find_2,Done,130,,7,7
+1323,546,,WG-L,FETH,ELEV,,,,,No,130,NA,,NA,,,Done,130,,NA,7
+1324,546,,WG-L,FETH,ELEV,,,,,No,130,NA,,NA,,,Done,130,,NA,7
+1326,546,,WG-L,FETH,ELEV,,,,,No,130,NA,,NA,,,Done,130,,NA,7
+1327,546,,WG-L,FETH,ELEV,,,,,No,130,NA,,NA,,,Done,130,,NA,7
+1560,576,2-Aug-17,WM-9,FETH-3,Control,,Brown center opaque edge,,,Yes,131,Find,,Sequenced,5,find_2,Done,131,,48,48
+1561,576,,WM-9,FETH-3,Control,,,,,No,131,NA,,NA,,,Done,131,,NA,48
+1125,516,28-Jul-17,WM-2,FETH-1,Warming,,"Reddish, translucent",,,Yes,133,Archived,,Sequenced,,,Done,149,,10,10
+1126,517,28-Jul-17,WM-2,FETH-1,Warming,,"Yellowish, brown",,,Yes,133,Archived,,Sequenced,,,Done,133,,10,10
+1127,517,,WM-2,FETH-1,Warming,,,,,No,133,Archived,,NA,,,Done,133,,NA,10
+1128,517,,WM-2,FETH-1,Warming,,,,,No,133,NA,,NA,,,Done,133,,NA,10
+928,364,28-Jul-17,ER-H,FETH,ELEV,,White elliptical fuzzy,,,Yes,133,Find,,Sequenced,,,Done,133,,58,58
+1123,516,,WM-2,FETH-1,Warming,,,,,No,133,NA,,NA,,,Done,149,,NA,58
+1124,516,,WM-2,FETH-1,Warming,,,,,No,133,NA,,NA,,,Done,149,,NA,58
+1021,400,28-Jul-17,WG-L,TRSP,ELEV,,Fuzzy,,,Yes,134,Archived,,Sequenced,"2, also in 5 as PCR",find,Done,134,,81,81
+1132,519,28-Jul-17,WM-2,POPR-2,Warming,,"Pink, translucent",,,Yes,135,Archived,,Sequenced,,,Done,135,,49,49
+1661,603,2-Aug-17,WM-6,POPR-4,Warming,,Dark red fuzzy,,,Yes,135,Find,,Sequenced,,,Done,135,,59,59
+1659,602,2-Aug-17,WM-6,POPR-4,Warming,,White opaque,,,Yes,135,Find,,PCR,4,find_2,Done,135,,NA,59
+1660,602,,WM-6,POPR-4,Warming,,,,,No,135,NA,,NA,,,Done,135,,NA,59
+812,315,28-Jul-17,ER-L,POPR,ELEV,,Dark Red,,,Yes,136,Archived,,Sequenced,2,find,Send,136,,49,49
+813,315,,ER-L,POPR,ELEV,,,,,No,136,NA,,NA,,,,136,,NA,49
+818,316,28-Jul-17,ER-L,ACNE,ELEV,,Black/gray fuzzy,,,Yes,137,Archived,,PCR,5,find_2,Send,251,,16,16
+815,316,,ER-L,ACNE,ELEV,,,,,No,137,NA,,NA,,,,251,,NA,16
+816,316,,ER-L,ACNE,ELEV,,,,,No,137,NA,,NA,,,,251,,NA,16
+817,316,,ER-L,ACNE,ELEV,,,,,No,137,NA,,NA,,,,251,,NA,16
+819,316,,ER-L,ACNE,ELEV,,,,,No,137,NA,,NA,,,,251,,NA,16
+823,316,,ER-L,ACNE,ELEV,,fuzzy,Black/gray,check if done. Update. not done. doesnt need to be,No,137,NA,,NA,,,,251,,NA,16
+808,314,28-Jul-17,ER-L,POPR,ELEV,,"Brown, fuzzy",,,Yes,138,Archived,,Extracted,Tube,find_2,Found,138,,NA,PCR
+775,308,,ER-L,ELEL,ELEV,,,,,No,139,Archived,,Sequenced,,find,Done,139,,16,16
+776,308,28-Jul-17,ER-L,ELEL,ELEV,,"Black, brown edge",,,Yes,139,NA,,NA,,,Done,139,,NA,16
+870,339,28-Jul-17,WM-1,FETH-6,Control,,"yellowish, fuzzy",,,Yes,140,Archived,,Sequenced,5,find_2,Done,140,,59,59
+869,339,,WM-1,FETH-6,Control,,,,,No,140,NA,,NA,,,Done,139,,NA,59
+858,334,28-Jul-17,ER-L,ELTR,ELEV,,fuzzy gray brown,,,Yes,141,Archived,,Sequenced,,find,Done,141,,43,43
+1000,394,28-Jul-17,WM-9,ACLE-6,Control,,"White edge, black center",,,Yes,142,Archived,,ITS1-FL,5,find_2,PCR,142,,NA,24
+1001,394,,WM-9,ACLE-6,Control,,,,,No,142,NA,,NA,,,,142,,NA,24
+1115,512,29-Jul-17,WM-3,ACLE-2,Control,,"Green, brown, fuzzy",,,Yes,143,Archived,,Sequenced,,find,Done,143,,43,43
+1116,512,,WM-3,ACLE-2,Control,,,,,No,143,NA,,NA,,,Done,143,,NA,43
+772,307,28-Jul-17,ER-L,ELEL,ELEV,,Yellow milky yeast?,,,Yes,144,Archived,,NA,,find_4,Found,,,NA,Extract
+773,307,,ER-L,ELEL,ELEV,,,,,No,144,NA,,NA,,,,,,NA,
+833,322,28-Jul-17,WM-8,FETH-1,Warming,,Gray brown,,,Yes,145,Archived,,Sequenced,,,Done,,,66,66
+830,321,28-Jul-17,WM-8,FETH-1,Warming,,"Black/brown, to opaque",,,Yes,145,Archived,,NA,,contam,Done,Contaminated,,NA,66
+832,322,,WM-8,FETH-1,Warming,,,,,No,145,NA,,NA,,,Done,,,NA,66
+904,322,28-Jul-17,WM-8,FETH-1,Warming,,Gray brown,,,Yes,145,Archived,,Sequenced,4,find_2,Done,,,NA,66
+1255,541,29-Jul-17,WM-2,POPR-3,Warming,,Red,,,Yes,146,Archived,,Sequenced,2,find,Done,146,,3,3
+1254,541,,WM-2,POPR-3,Warming,,,,,No,146,NA,,NA,,,Done,146,,NA,3
+1256,541,,WM-2,POPR-3,Warming,,,,,No,146,NA,,NA,,,Done,146,,NA,3
+1257,541,,WM-2,POPR-3,Warming,,,,,No,146,NA,,NA,,,Done,146,,NA,3
+1258,541,,WM-2,POPR-3,Warming,,,,,No,146,NA,,NA,,,Done,146,,NA,3
+1259,541,,WM-2,POPR-3,Warming,,,,,No,146,NA,,NA,,,Done,146,,NA,3
+1260,541,,WM-2,POPR-3,Warming,,,,,No,146,NA,,NA,,,Done,146,,NA,3
+1275,544,29-Jul-17,TR-H,TRSP,ELEV,,"gray cneter, brown edge",,,Yes,146,Archived,,Sequenced,2,find,Done,229,,75,75
+947,373,28-Jul-17,ER-H,FESA,ELEV,,white cirlce,,,Yes,147,Archived,,NA,,find_3,Bacteria,NA,,NA,NA
+1083,501,,WG-L,POLE,ELEV,,,,,No,147,NA,,NA,,,Bacteria,NA,,NA,NA
+1084,501,,WG-L,POLE,ELEV,,,,,No,147,NA,,NA,,,Bacteria,NA,Retry Jan 22nd. Worked in both samples,NA,NA
+1079,501,3-Aug-17,WG-L,POLE,ELEV,,Yellow yeast,,,Yes,147,Find,,DNA failed,,find_2,Bacteria,NA,,NA,NA
+1080,501,,WG-L,POLE,ELEV,,,,,No,147,NA,,NA,,,Bacteria,NA,,NA,NA
+1081,501,,WG-L,POLE,ELEV,,,,,No,147,NA,,NA,,,Bacteria,NA,,NA,NA
+1082,501,,WG-L,POLE,ELEV,,,,,No,147,NA,,NA,,,Bacteria,NA,,NA,NA
+1072,502,,WG-L,POLE,ELEV,,White milky,,,No,147,NA,,NA,,,Bacteria,NA,,NA,NA
+1073,502,,WG-L,POLE,ELEV,,,,,No,147,NA,,NA,,,Bacteria,NA,,NA,NA
+1074,502,,WG-L,POLE,ELEV,,,,,No,147,Archived,,NA,,,Bacteria,NA,,NA,NA
+1085,502,3-Aug-17,WG-L,POLE,ELEV,,"White, globby",,,Yes,147,Archived,,NA,,find_2,Bacteria,NA,,NA,NA
+1086,502,,WG-L,POLE,ELEV,,,,,No,147,NA,,NA,,,Bacteria,NA,,NA,NA
+1087,502,,WG-L,POLE,ELEV,,,,,No,147,NA,,NA,,,Bacteria,NA,,NA,NA
+1168,530,,WG-L,ELTR,ELEV,,,,,No,148,NA,,NA,,,Bacteria,NA,,NA,NA
+1169,530,29-Jul-17,WG-L,ELTR,ELEV,,White goopy,,,Yes,148,Archived,,DNA failed,3,find_2,Bacteria,NA,,NA,NA
+1170,530,,WG-L,ELTR,ELEV,,,,,No,148,NA,,NA,,,Bacteria,NA,,NA,NA
+1171,530,,WG-L,ELTR,ELEV,,,,,No,148,NA,,NA,,,Bacteria,NA,,NA,NA
+1172,530,,WG-L,ELTR,ELEV,,,,,No,148,NA,,NA,,,Bacteria,NA,,NA,NA
+1189,530,,TR-L,TRSP,ELEV,,,,,No,148,NA,,NA,,,Bacteria,NA,,NA,NA
+1190,530,,TR-L,TRSP,ELEV,,,,,No,148,NA,,NA,,,Bacteria,NA,,NA,NA
+1191,530,,TR-L,TRSP,ELEV,,,,,No,148,NA,,NA,,,Bacteria,NA,,NA,NA
+1195,530,,TR-L,TRSP,ELEV,,,,,No,148,NA,,NA,,,Bacteria,NA,,NA,NA
+1174,531,29-Jul-17,WG-L,ELTR,ELEV,,Yellow yeast,,,Yes,149,Archived,,DNA failed,,find_2,Bacteria,NA,,NA,NA
+1486,570,4-Aug-17,TR-L,FETH,ELEV,,"Brown, milky",,,Yes,150,Archived,,Sequenced,,,Done,150,,21,21
+1522,570,,WM-8,FETH-4,Warming,,,,,No,150,NA,,NA,,,Done,150,,NA,21
+1646,598,,WM-7,POPR-6,Control,,,,,No,150,NA,,NA,,,Done,150,,NA,21
+1648,598,2-Aug-17,WM-7,POPR-6,Control,,GLossy,,,Yes,150,Find,,NA,,,Done,150,,NA,21
+983,385,28-Jul-17,WM-9,POPR-2,Control,,red milky,,,Yes,150,Archived,,Sequenced,,,Done,150,,102,102
+1155,525,28-Jul-17,WG-H,POLE,ELEV,,"small blak center, mostly opaque, sprawling",,,Yes,151,Archived,,Sequenced,,find,Done,151,,55,55
+1147,525,,WG-H,POLE,ELEV,,,,,No,151,NA,,NA,,,Done,151,,NA,55
+1148,525,,WG-H,POLE,ELEV,,,,,No,151,NA,,NA,,,Done,151,,NA,55
+1149,525,,WG-H,POLE,ELEV,,,,,No,151,NA,,NA,,,Done,151,,NA,55
+1150,525,,WG-H,POLE,ELEV,,,,,No,151,NA,,NA,,,Done,151,,NA,55
+1151,525,,WG-H,POLE,ELEV,,,,,No,151,NA,,NA,,,Done,151,,NA,55
+1152,525,,WG-H,POLE,ELEV,,,,,No,151,NA,,NA,,,Done,151,,NA,55
+1153,525,,WG-H,POLE,ELEV,,,,,No,151,NA,,NA,,,Done,151,,NA,55
+1154,525,,WG-H,POLE,ELEV,,,,,No,151,NA,,NA,,,Done,151,,NA,55
+1642,597,2-Aug-17,WM-6,POPR-5,Warming,,"Dark gray, thick mat",,,Yes,152,Find,,Sequenced,5,find_2,Done,273,,61,61
+847,328,28-Jul-17,ER-L,ELTR,ELEV,,white milky,,,Yes,153,Archived,,Sequenced,3,find,Done,153,,58,58
+848,328,,ER-L,ELTR,ELEV,,,,,No,153,NA,,NA,,,Done,153,,NA,58
+849,328,,ER-L,ELTR,ELEV,,,,,No,153,NA,,NA,,,Done,153,,NA,58
+1374,328,,WM-3,FETH-4,Control,,,,,No,153,NA,,NA,,,Done,153,,NA,58
+1375,328,,WM-3,FETH-4,Control,,,,,No,153,NA,,NA,,,Done,153,,NA,58
+857,333,28-Jul-17,ER-L,ELTR,ELEV,,small yellow circles,,,Yes,154,Archived,,Sequenced,,find_4,Done,154,,49,49
+883,344,28-Jul-17,WM-1,POPR-3,Control,,White fuzzy,,,Yes,155,Archived,,Sequenced,5,find_2,Done,155,,59,59
+1121,514,28-Jul-17,WM-6,POPR-6,Warming,,White fuzzy,,,Yes,156,Archived,,Sequenced,,,Done,,,99,99
+5,514,28-Jul-17,WM-6,POPR-6,Warming,,White fuzzy,,,Yes,156,Archived,,Sequenced,4,find_2,Done,156,,NA,99
+1120,514,,WM-6,POPR-6,Warming,,,,,No,156,NA,,NA,,,Done,156,,NA,99
+1563,577,2-Aug-17,WM-8,FETH-4,Warming,,Brown,,,Yes,157,Archived,,Sequenced,2,find_3,Done,233,,46,46
+1565,577,,WM-8,FETH-4,Warming,,,,,No,157,NA,,NA,,,Done,233,Shipped in plate 4,NA,46
+1562,577,,WM-8,FETH-4,Warming,,,,,No,157,NA,,NA,,,Done,233,,NA,46
+1564,577,,WM-8,FETH-4,Warming,,,,,No,157,NA,,NA,,,Done,233,,NA,46
+855,331,28-Jul-17,ER-L,ELTR,ELEV,,pink circles,,,Yes,157,Archived,,Sequenced,,,Done,157,,91,91
+1535,577,3-Aug-17,WM-9,FETH-1,Control,,"Small white dots, translucent",,,Yes,157,Archived,,Sequenced,5,find_2,Done,232,,97,97
+1462,562,4-Aug-17,WM-5,ACLE-5,Control,,"Black gray, green edge",,,Yes,158,Archived,,Sequenced,,find_4,Done,158,,2,2
+1465,562,,WM-5,ACLE-5,Control,,,,,No,158,NA,,NA,,,Done,158,Shipped in Plate 4,NA,2
+1463,562,,WM-5,ACLE-5,Control,,,,,No,158,NA,,NA,,,Done,158,,NA,2
+1464,562,,WM-5,ACLE-5,Control,,,,,No,158,NA,,NA,,,Done,158,Shipped in Plate 4,NA,2
+938,366,28-Jul-17,ER-H,FESA,ELEV,,Brown spreahead shape?,Dark brown,,Yes,158,Archived,,Sequenced,3,,Done,230,,40,40
+1628,586,2-Aug-17,WM-7,FETH-4,Control,,Green circle,,,Yes,158,Find,,CTB6,"2, also in 5 as PCR",find_2,,231,,NA,22
+1641,596,2-Aug-17,WM-6,POPR-5,Warming,,"Gray fuzzy, light brown edge",,,Yes,159,Find,,Sequenced,2,find,Done,159,,56,56
+1641,596,2-Aug-17,WM-6,POPR-5,Warming,,"Gray fuzzy, light brown edge",,,Yes,159,Find,,Sequenced,2,find,Done,159,,56,56
+994,391,28-Jul-17,WM-9,ACLE-6,Control,,black.gray fuzzy,,,Yes,160,Archived,,Sequencing Failed,4,find_2,PCR,160,,NA,PCR
+835,324,28-Jul-17,WM-8,FETH-6,Warming,,brown frayed edges,,,Yes,161,Archived,,"Do PCR again- plate 3, 8H",3,find_4,PCR,161,,NA,PCR
+837,324,,WM-8,FETH-6,Warming,,,,,No,161,NA,,NA,,,,161,,NA,
+843,324,,WM-8,FETH-6,Warming,,,,,No,161,NA,,NA,,,,161,,NA,
+844,324,,WM-8,FETH-6,Warming,,,,,No,161,NA,,NA,,,,161,,NA,
+836,324,,WM-8,FETH-6,Warming,,,,,No,161,NA,,NA,,,,161,,NA,
+1421,554,3-Aug-17,WM-5,POPR-1,Control,,Dark brown,,,Yes,162,Archived,,Sequenced,,find,Done,162,Failed in Retry Jan 22nd,16,16
+1242,539,29-Jul-17,WG-L,FESA,ELEV,,"Black center, gray band, green edge",,,Yes,163,Archived,,NA,4,find_4,Done,163,,NA,29
+1243,539,,WG-L,FESA,ELEV,,,,,No,163,NA,,NA,,,Done,163,,NA,29
+1208,531,29-Jul-17,TR-L,ACLE,ELEV,,Yellow gradient,,,Yes,164,Archived,,Sequenced,"2,4",find_3,Done,164,,66,66
+1173,531,,WG-L,ELTR,ELEV,,,,,No,164,NA,,NA,,,Done,164,,NA,66
+1175,531,,WG-L,ELTR,ELEV,,,,,No,164,NA,,NA,,,Done,164,,NA,66
+1233,535,29-Jul-17,TR-L,POPR,ELEV,,"Black center, green gray edge",,,Yes,165,Archived,,Sequenced,4,find_2,Done,165,,33,33
+1232,535,,TR-L,POPR,ELEV,,,,,No,165,NA,,NA,,,Done,165,,NA,33
+916,359,28-Jul-17,ER-H,TRSP,ELEV,,,,,Yes,165,Archived,,Sequenced,3,,Done,239,,40,40
+912,359,28-Jul-17,ER-H,TRSP,ELEV,,brown and gray,,,Yes,165,Archived,,DNA failed,,,Done,239,,NA,40
+914,359,,ER-H,TRSP,ELEV,,,,,No,165,NA,,NA,,,,239,,NA,40
+915,359,,ER-H,TRSP,ELEV,,,,,No,165,NA,,NA,,,,239,,NA,40
+917,359,,ER-H,TRSP,ELEV,,,,,No,165,NA,,NA,,,Done,239,,NA,40
+918,359,,ER-H,TRSP,ELEV,,,,,No,165,NA,,NA,,,Done,239,,NA,40
+1106,509,28-Jul-17,WM-3,POPR-4,Control,,"White, milky",,,Yes,166,Archived,,non-specific,3,find_2,Bacteria,NA,Retry Jan 9th,NA,NA
+1107,509,,WM-3,POPR-4,Control,,,,,No,166,NA,,NA,,,Bacteria,NA,,NA,NA
+1108,509,,WM-3,POPR-4,Control,,,,,No,166,NA,,NA,,,Bacteria,NA,,NA,NA
+1109,509,29-Jul-17,WM-3,POPR-4,Control,,"Translucent, sprawling",,,Yes,166,NA,,NA,,find_2,Bacteria,NA,,NA,NA
+1593,581,4-Aug-17,WM-7,FETH-3,Control,,Glossy,,,Yes,167,Archived,,DNA failed,,find_4,Found,167,,NA,skip
+1594,581,,WM-7,FETH-3,Control,,,,,No,167,NA,,NA,,,,167,,NA,
+1653,600,3-Aug-17,WM-7,POPR-3,Control,,White opaque,,,Yes,168,Find,,Sequenced,,,Done,168,,29,29
+1655,600,,WM-7,POPR-3,Control,,,,,No,168,NA,,NA,,,Done,168,,NA,29
+1466,563,4-Aug-17,WM-5,ACLE-5,Control,,"Dark center, gray edge",,,Yes,169,Archived,,Sequenced,,find,Done,169,,40,40
+1467,563,,WM-5,ACLE-5,Control,,,,,No,169,NA,,NA,,,Done,169,,NA,40
+774,310,28-Jul-17,ER-L,ELEL,ELEV,,reddish splotchy,,,Yes,170,Archived,,Sequenced,2,find,Done,170,,16,16
+887,310,28-Jul-17,WM-1,POPR-3,Control,,Green,black,,Yes,170,Archived,,Sequenced,,find_4,Done,170,,16,16
+952,375,28-Jul-17,ER-H,FESA,ELEV,,"Dark brow, fuzzy",,,Yes,171,Archived,,Sequenced,2,find,Done,240,,53,53
+949,375,28-Jul-17,ER-H,FESA,ELEV,,"brown, thin hyphae",,,Yes,171,Archived,,Sequenced,4,find_2,Done,171,,99,99
+1239,538,7-Aug-17,TR-L,ELTR,ELEV,,gray/black. covered the plate,,,Yes,172,Archived,,PCR,4,find_2,Send,172,,NA,PCR
+923,361,28-Jul-17,ER-H,TRSP,ELEV,,"White ricle, sand dollar",,,Yes,173,Archived,,Sequenced,3,find,Done,173,,44,44
+924,361,,ER-H,TRSP,ELEV,,,,,No,173,NA,,NA,,,Done,173,Retry Jan 9th,NA,44
+927,361,,ER-H,TRSP,ELEV,,,,,No,173,NA,,NA,,,Done,173,,NA,44
+925,362,28-Jul-17,ER-H,TRSP,ELEV,,"brown, jagged and fuzzy",,,Yes,174,Archived,,Sequenced,5,Find_3,PCR,174,,98,98
+1219,533,29-Jul-17,WG-L,ACNE,ELEV,,Black center white edge,,,Yes,174,Archived,,CTB6,3,find,PCR,174,,NA,PCR
+1220,533,,WG-L,ACNE,ELEV,,,,,Yes,174,Find,,NA,,,,174,,NA,
+1512,575,2-Aug-17,WM-2,ACLE-2,Warming,,"White/blue fuzz, brown edge",,,Yes,175,Find,,Sequenced,,,Done,175,,48,48
+1461,561,4-Aug-17,WM-5,ACLE-5,Control,,White translucent,,,Yes,176,Archived,,Sequenced,,find,Done,232,,16,16
+538,228,22-Jul-17,WM-5,POPR-1,Control,18-Jul-17,gray opaque,,,Yes,176,Find,,Sequenced,,find,Done,176,,58,58
+1284,528,29-Jul-17,TR-L,ELEL,ELEV,,White blob,,,Yes,177,Archived,,DNA failed,,find_2,Bacteria,NA,,NA,NA
+1285,528,,TR-L,ELEL,ELEV,,,,,No,177,NA,,NA,,,Bacteria,NA,,NA,NA
+1286,528,,TR-L,ELEL,ELEV,,,,,No,177,NA,,NA,,,Bacteria,NA,,NA,NA
+1620,584,4-Aug-17,WM-8,ACLE-3,Warming,,"black, milky",,,Yes,178,Find,,Sequenced,5,find_2,Done,178,,59,59
+1141,523,29-Jul-17,WM-1,ACLE-1,Control,,"Black, fuzzy",,,Yes,179,Archived,,Sequenced,2,find,Done,179,,45,45
+1142,523,,WM-1,ACLE-1,Control,,,,,No,179,NA,,NA,,,Done,179,,NA,45
+1638,592,4-Aug-17,WM-6,POPR-5,Warming,,White fuzzy entire,,,Yes,180,Find,,Sequenced,2,find,Done,180,,66,66
+1577,580,2-Aug-17,WM-7,ACLE-4,Control,,Black center Yellow edge,,,Yes,181,Find,,Sequenced,2,find,Done,181,,9,9
+1319,545,3-Aug-17,WG-L,FETH,ELEV,,White center opaque edge,,,Yes,182,Archived,,Sequenced,3,find,Done,182,,63,63
+1317,545,,WG-L,FETH,ELEV,,,,,No,182,NA,,NA,,,Done,182,,NA,63
+1318,545,,WG-L,FETH,ELEV,,,,,No,182,NA,,NA,,,Done,182,,NA,63
+1320,545,,WG-L,FETH,ELEV,,,,,No,182,NA,,NA,,,Done,182,,NA,63
+1321,545,,WG-L,FETH,ELEV,,,,,No,182,NA,,NA,,,Done,182,,NA,63
+1322,545,,WG-L,FETH,ELEV,,,,,No,182,NA,,NA,,,Done,182,,NA,63
+1453,560,2-Aug-17,WM-4,ACLE-1,Warming,,Brown circle,,,Yes,183,Archived,,DNA failed,,,Found,183,,NA,Extract
+1452,560,,WM-4,ACLE-1,Warming,,,,,No,183,NA,,NA,,,,183,,NA,
+1392,551,2-Aug-17,WM-3,FETH-4,Control,,Brown center gray outside/green,,,Yes,184,Archived,,DNA failed,,find_2,Didn't grow,NA,,NA,NA
+1394,551,,WM-3,FETH-4,Control,,,,,No,184,NA,,NA,,,Didn't grow,NA,,NA,NA
+1393,551,,WM-3,FETH-4,Control,,,,,No,184,NA,,NA,,,Didn't grow,NA,Shipped in Plate 4,NA,NA
+1654,601,3-Aug-17,WM-7,POPR-3,Control,,Gay green fuzzy,,,Yes,185,Extracted,,Sequenced,Tube,find_4,Done,185,,58,58
+1003,395,28-Jul-17,WM-9,ACLE-6,Control,,"Green, gray",,,Yes,186,Archived,,Sequenced,"2,5",find_2,Done,186,,59,59
+1004,395,28-Jul-17,WM-9,ACLE-6,Control,,,,,Yes,186,Archived,,NA,,,Done,186,,NA,59
+1075,395,,WG-L,POLE,ELEV,,,,,No,186,NA,,NA,,,Done,186,,NA,59
+1076,395,,WG-L,POLE,ELEV,,,,,No,186,NA,,NA,,,Done,186,,NA,59
+1077,395,,WG-L,POLE,ELEV,,,,,No,186,NA,,NA,,,Done,186,,NA,59
+1078,395,,WG-L,POLE,ELEV,,,,,No,186,NA,,NA,,,Done,186,,NA,59
+1339,549,,TR-L,ACNE,ELEV,,,,,No,187,NA,,NA,,,,187,,NA,
+1340,549,3-Aug-17,TR-L,ACNE,ELEV,,"Brown center, then opaque",,,Yes,187,Archived,,DNA failed,2,find_4,Find,187,,NA,PCR
+1217,532,29-Jul-17,WG-L,ACNE,ELEV,,White fuzzy center,,,Yes,188,Find,ITS1-FL in SP Plate 3,Sequenced,3,find,Done,188,,76,76
+1218,532,,WG-L,ACNE,ELEV,,,,,No,188,NA,,NA,,,Done,188,,NA,76
+1221,532,,WG-L,ACNE,ELEV,,,,,No,188,NA,,NA,,,Done,188,,NA,76
+1223,532,,WG-L,ACNE,ELEV,,,,,No,188,NA,,NA,,,Done,188,,NA,76
+1617,582,4-Aug-17,WM-8,ACLE-3,Warming,,White milky,,,Yes,189,,,Sequenced,4,find_3,Send,270,,93,93
+1618,582,,WM-8,ACLE-3,Warming,,,,,No,189,NA,,NA,,,,270,,NA,93
+1635,590,4-Aug-17,WM-7,FETH-4,Control,,glossy,,,Yes,189,,,SKIPPED,,find_3,Bacteria,NA,,NA,NA
+458,189,21-Jul-17,WG-H,POPR,ELEV,11-Jul-17,"opaque, black center",,,Yes,190,Find,,Sequenced,3,find,Done,190,,15,15
+1091,189,,WG-H,POPR,ELEV,,,,,No,190,,,NA,,NA,Done,190,,NA,15
+1094,189,,WG-H,POPR,ELEV,,,,,No,190,,,NA,,NA,Done,190,,NA,15
+1095,189,,WG-H,POPR,ELEV,,,,,No,190,,,NA,,NA,Done,190,,NA,15
+1096,189,28-Jul-17,WG-H,POPR,ELEV,,"Dark green center, opaque edge",,,Yes,190,Archived,,Sequenced,"4, 5",find_2,Done,190,,79,79
+955,376,28-Jul-17,ER-H,FESA,ELEV,,Yellow yeast?,,,Yes,191,Archived,,DNA failed,2,,Bacteria,NA,,NA,79
+1422,555,3-Aug-17,WM-5,POPR-1,Control,,dark red,,,Yes,193,Archived,,Sequenced,Tube,find_4,Done,193,,59,59
+1041,494,3-Aug-17,WM-3,POPR-6,Control,,"Black cnter, gray edges",,,Yes,194,Archived,,Sequenced,Tube,find_4,Done,194,,65,65
+1052,494,,WM-3,POPR-6,Control,,,,,No,194,NA,,NA,,,Done,194,,NA,65
+1040,494,,WM-3,POPR-6,Control,,,,,No,194,NA,,NA,,,Done,194,Shipped in Plate 4,NA,
+1031,181,8-Aug-17,TR-H,ELTR,ELEV,,,,,Yes,195,Archived,,Sequenced,4,find,Done,238,,40,40
+1428,181,,TR-H,ELTR,ELEV,,,,,No,195,NA,,NA,,,Done,195,Shipped in Plate 4,NA,40
+1032,181,,TR-H,ELTR,ELEV,,,,,No,195,NA,,NA,,,Done,238,,NA,40
+447,181,21-Jul-17,WM-4,POPR-2,Warming,17-Jul-17,"opaque, black center",,,Yes,195,Find,,Sequenced,,,Done,195,Shipped in Plate 4,NA,40
+448,181,,WM-4,POPR-2,Warming,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+449,181,,WM-4,POPR-2,Warming,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+450,181,,WM-4,POPR-2,Warming,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1033,181,,TR-H,ELTR,ELEV,,,,,No,195,NA,,NA,,,Done,238,,NA,40
+1136,181,,WM-7,POPR-5,Control,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1416,181,,WM-4,POPR-2,Warming,,,,,No,195,NA,,NA,,,Done,195,Contaminated,NA,40
+1423,181,,WM-3,ACLE-7,Control,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1424,181,,WM-3,ACLE-7,Control,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1425,181,,WM-3,ACLE-7,Control,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1426,181,,WM-3,ACLE-7,Control,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1429,181,,TR-H,ELTR,ELEV,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1430,181,,TR-H,ELTR,ELEV,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1431,181,,TR-H,ELTR,ELEV,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1432,181,,TR-H,ELTR,ELEV,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1415,181,,WM-4,POPR-2,Warming,,,,,No,195,NA,,NA,,,Done,195,,NA,40
+1146,524,28-Jul-17,WM-1,ACLE-1,Control,,"Red, fuzzy",,,Yes,196,Archived,,Sequenced,5,find_2,Done,196,,77,77
+1510,574,2-Aug-17,WM-2,ACLE-2,Warming,,"White fuzz, opaque edge",,,Yes,197,Find,,Sequenced,2,find_2,Send,197,,40,40
+1639,593,2-Aug-17,WM-6,POPR-5,Warming,,"Reddish black center, white edge",,,Yes,198,Find,,Sequenced,2,find,Done,198,,24,24
+987,387,28-Jul-17,WM-9,ACLE-2,Control,,light brown opaque,,,Yes,199,Archived,,Extracted,Tube,find_4,PCR,199,,NA,Extract
+988,387,,WM-9,ACLE-2,Control,,,,,No,199,NA,,NA,,,,199,,NA,
+989,387,,WM-9,ACLE-2,Control,,,,,No,199,Archived,,NA,,,,199,,NA,
+1471,566,4-Aug-17,WM-5,ACLE-2,Control,,"Dark brown, opaque edge",,,Yes,200,Archived,,Sequenced,2,find,Done,200,,71,71
+1472,566,,WM-5,ACLE-2,Control,,,,,No,200,NA,,NA,,,Done,200,,NA,71
+1473,566,,WM-5,ACLE-2,Control,,,,,No,200,NA,,NA,,,Done,200,,NA,71
+1474,566,,WM-5,ACLE-2,Control,,,,,No,200,NA,,NA,,,Done,200,,NA,71
+1203,527,,TR-L,ACLE,ELEV,,,,,No,201,NA,,NA,,,,201,,NA,75
+1204,527,,TR-L,ACLE,ELEV,,,,,No,201,NA,,NA,,,,201,,NA,75
+1280,527,29-Jul-17,TR-L,ELEL,ELEV,,"Black enter, gray edge",,,Yes,201,Archived,,NA,,find_4,Send,201,,NA,75
+1281,527,,TR-L,ELEL,ELEV,,,,,No,201,NA,,NA,,,,201,,NA,75
+1282,527,,TR-L,ELEL,ELEV,,,,,No,201,NA,,NA,,,,201,,NA,75
+1283,527,,TR-L,ELEL,ELEV,,,,,No,201,NA,,NA,,,,201,,NA,75
+1245,540,29-Jul-17,WG-L,FESA,ELEV,,"Black cneter, brown edge",,,Yes,202,Archived,,Sequenced,4,find_2,Done,202,,75,75
+986,386,28-Jul-17,WM-9,POPR-2,Control,,Light brown,,,Yes,203,Archived,,Sequenced,,find_4,Done,203,,16,16
+233,84,20-Jul-17,WM-9,POPR-2,Control,14-Jul-17,"grey, black center",,,Yes,204,Archived,,Sequenced,,find_3,Done,204,,18,18
+234,84,,WM-9,POPR-2,Control,14-Jul-17,,,,No,204,NA,,NA,,,Done,204,,NA,18
+235,84,,WM-9,POPR-2,Control,14-Jul-17,,,,No,204,NA,,NA,,,Done,204,,NA,18
+236,84,,WM-9,POPR-2,Control,14-Jul-17,,,,No,204,NA,,NA,,,Done,204,,NA,18
+976,84,,WM-9,POPR-2,Control,,,,,No,204,NA,,NA,,,Done,204,,NA,18
+977,84,,WM-9,POPR-2,Control,,,,,No,204,NA,,NA,,,Done,204,,NA,18
+984,84,,WM-9,POPR-2,Control,,,,,No,204,NA,,NA,,,Done,204,,NA,18
+985,84,,WM-9,POPR-2,Control,,,,,No,204,NA,,NA,,,Done,204,,NA,18
+787,604,28-Jul-17,ER-L,FETH,ELEV,,White small circles,,Need new morphotype number,Yes,205,Archived,,Sequenced,2,find_2,Done,205,,51,51
+788,604,,ER-L,FETH,ELEV,,,,,No,205,NA,,NA,,,Done,205,,NA,51
+789,604,,ER-L,FETH,ELEV,,,,,No,205,NA,,NA,,,Done,205,,NA,51
+790,604,,ER-L,FETH,ELEV,,,,,No,205,NA,,NA,,,Done,205,,NA,51
+791,604,,ER-L,FETH,ELEV,,,,,No,205,NA,,NA,,,Done,205,,NA,51
+792,604,,ER-L,FETH,ELEV,,,,,No,205,NA,,NA,,,Done,205,,NA,51
+793,604,,ER-L,FETH,ELEV,,,,,No,205,NA,,NA,,,Done,205,,NA,51
+541,230,22-Jul-17,WM-5,POPR-6,Control,18-Jul-17,"opaque, gray",,,Yes,210,Archived,,Sequenced,4,find_3,Done,210,,29,29
+1349,230,,WM-1,POPR-1,Control,,,,,No,210,NA,,NA,,,Done,210,Shipped in Plate 4,NA,29
+543,230,,WM-5,POPR-6,Control,,,,,No,210,NA,,NA,,,Done,210,,NA,29
+542,230,,WM-5,POPR-6,Control,,,,,No,210,NA,,NA,,,Done,210,,NA,29
+1348,230,,WM-1,POPR-1,Control,,,,,No,210,NA,,NA,,,Done,210,,NA,29
+397,151,,WM-7,POPR-6,Control,14-Jul-17,,,,No,233,NA,,NA,,,,,,NA,
+398,151,21-Jul-17,WM-7,POPR-6,Control,14-Jul-17,"opaque, yellowish",,,No,233,Archived,,This culture should exist. Will need to find it. ,,find_4,Find,,,NA,
+1643,151,,WM-7,POPR-6,Control,,,,,No,233,NA,,NA,,,,,,NA,
+1644,151,,WM-7,POPR-6,Control,,,,,No,233,NA,,NA,,,,,,NA,
+1645,151,,WM-7,POPR-6,Control,,,,,No,233,NA,,NA,,,,,Shipped in Plate 4,NA,
+1647,151,,WM-7,POPR-6,Control,,,,,No,233,NA,,NA,,,,,,NA,
+1110,510,,WM-3,FETH-2,Control,,,,,No,233,Archived,,find_4,,,Found,,,NA,
+1111,510,,WM-3,FETH-2,Control,,,,,No,233,NA,,NA,,,,,,NA,
+1112,510,,WM-3,FETH-2,Control,,,,,No,233,NA,,NA,,,,,,NA,
+1113,510,,WM-3,FETH-2,Control,,,,,No,233,NA,,NA,,,,,,NA,
+230,83,20-Jul-17,WM-9,ACLE-2,Control,14-Jul-17,"orange, yellowish",,,Yes,Missing,NA,,NA,,find_3,Missing Exclude,NA,,NA,NA
+231,83,,WM-9,ACLE-2,Control,14-Jul-17,,,,No,NA,NA,,NA,,,Missing Exclude,Na,,NA,NA
+232,83,,WM-9,ACLE-2,Control,14-Jul-17,,,,No,NA,NA,,NA,,,Missing Exclude,Na,,NA,NA
+378,140,,WM-8,ACLE-6,Warming,14-Jul-17,,,,No,NA,NA,,NA,,,,NA,,NA,NA
+1612,142,,WM-8,ACLE-5,Warming,,,,,No,NA,NA,,NA,,,,Na,,NA,NA
+382,143,,WM-8,ACLE-5,Warming,14-Jul-17,,,,No,NA,NA,,NA,,,,Na,,NA,NA
+1611,143,,WM-8,ACLE-5,Warming,,,,,No,NA,NA,,NA,,,,NA,,NA,NA
+548,233,22-Jul-17,WM-5,ACLE-1,Control,18-Jul-17,opaque gray,,,Yes,NA,NA,,Missing,,find_3,Missing Exclude,Na,,NA,NA
+549,233,,WM-5,ACLE-1,Control,,,,,No,NA,NA,,NA,,,Missing Exclude,Na,,NA,NA
+1459,233,,WM-5,ACLE-1,Control,,,,,No,NA,NA,,NA,,,Missing Exclude,NA,,NA,NA
+550,234,22-Jul-17,WM-5,ACLE-1,Control,18-Jul-17,black center,,,Yes,NA,NA,,NA,,find_3,Missing Exclude,Na,Retry Jan 22nd,NA,NA
+1457,234,,WM-5,ACLE-1,Control,,,,,No,NA,NA,,NA,,,Missing Exclude,Na,,NA,NA
+1460,234,,WM-5,ACLE-1,Control,,,,,No,NA,NA,,NA,,,Missing Exclude,NA,,NA,NA
+572,244,,ER-L,ACLE,ELEV,,,,,No,NA,NA,Should have been subcultured. ,NA,,,Missing Exclude,Na,,NA,NA
+597,257,,WM-8,ACLE-6,Warming,,,,,No,NA,NA,Check but should be subcultured,NA,,,Missing exclude,Na,Shipped in Plate 4,NA,NA
+911,357,28-Jul-17,ER-H,TRSP,ELEV,,"White, globby",,,Yes,NA,NA,cont,NA,,,Bacteria,NA,,NA,NA
+1329,402,,WG-L,TRSP,ELEV,,,,,No,NA,NA,Must have been missed,NA,,,Missing exclude,Na,,NA,NA
+1330,402,,WG-L,TRSP,ELEV,,,,,No,NA,NA,,NA,,,Missing exclude,Na,,NA,NA
+1037,491,,WM-3,POPR-3,Control,,,,,No,NA,NA,,NA,,,Missing exclude,NA,Retry Jan 9th,NA,NA
+1117,513,29-Jul-17,WM-3,ACLE-2,Control,,Reddish brown,,,Yes,NA,Archived,"Contaminated, will check for clustered morphotype",NA,,,Contaminated,Na,,NA,NA
+1118,513,,WM-3,ACLE-2,Control,,,,,No,NA,NA,,NA,,,Contaminated,Na,,NA,NA
+1262,542,,WM-2,POPR-3,Warming,,,,,No,NA,NA,Shouldve been subculutred. Will check if it was grouped,NA,,,Missing exclude,NA,,NA,NA
+1263,542,,WM-2,POPR-3,Warming,,,,,No,NA,NA,,NA,,,Missing exclude,Na,,NA,NA
+1264,542,,WM-2,POPR-3,Warming,,,,,No,NA,NA,,NA,,,Missing exclude,Na,,NA,NA
+1634,589,4-Aug-17,WM-7,FETH-4,Control,,Translucent spikey,,,Yes,NA,Find,Should exist,NA,,,,NA,Retry Jan 22nd,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,These were skipped,NA,NA,NA,,NA,,,,Na,,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,Na,,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,NA,,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,Na,,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,Na,,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,NA,,NA,NA
+1042,495,3-Aug-17,WM-3,POPR-6,Control,,Yellow yeast,,,Yes,should not be 45,Find,,DNA failed,,,,NA,,NA,NA
+212,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,,,,Na,,NA,NA
+219,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,SKIPPED,,,,Na,,NA,NA
+377,140,20-Jul-17,WM-8,ACLE-6,Warming,14-Jul-17,pink,,,Yes,,Find,,NA,,find_3,,NA,,NA,NA
+379,141,20-Jul-17,WM-8,ACLE-5,Warming,14-Jul-17,"opaque, black centet",,,Yes,,NA,,NA,,find_3,Missing,Na,,NA,NA
+380,142,20-Jul-17,WM-8,ACLE-5,Warming,14-Jul-17,"opaque,orange",,,Yes,,NA,,NA,,find_3,Missing,Na,,NA,NA
+381,143,20-Jul-17,WM-8,ACLE-5,Warming,14-Jul-17,opaque,,,Yes,,NA,,NA,,find_3,Missing,NA,,NA,NA
